@@ -1,0 +1,180 @@
+﻿+++++
+
+Tim Scott Has No Time For Bernie Sanders’ Lies About Tax Reform
+
+2017-11-29
+
+
+CNN held a debate last night on the GOP tax reform bill that the House recently passed and the Senate is considering. The debate was between GOP Senators Ted Cruz (TX) and Tim Scott (SC) on one side, and Senators Maria Cantwell (D-WA) and Bernie Sanders (I-VT) on the other.
+
+The newest pushback from Democrats is that the GOP plan will actually raise taxes on future middle class earners because the tax breaks for that segment of the base are only temporary. Cantwell and Sanders got their copy of the talking points and do their due diligence spreading the outrage (Cruz does a fair job of dismantling that argument at one point by blaming Democrats for the temporary tax breaks due to their promise to filibuster their future proposed tax reform).
+
+But the real meat of the debate comes as the very beginning when Sanders tries to shut down Scott’s response to a single mother worried that she might see her taxes raised. Scott tells her that the GOP plan will double the amount of money she gets to keep. Sanders counters with numbers from the left-wing Tax Policy Center.
+
+“We have doubled the child tax credit,” Scott tells the young mother from his home state of South Carolina. “The long story short: you get to keep more of your hard-earned money to make better decisions for your family. I think that’s good news.”
+
+Sanders counters that Scott is divorced from reality, citing a statistic from the Tax Policy Center that projects 87 million middle class households would have a raise in taxes by the end of the decade.
+
+“Patently false,” Scott notes. “I think the word I’m looking for is hogwash. [These are] the latest tax brackets from just last night. I’m not sure where your information is coming from…I’m happy to share this with you…shows without any question…you will pay less in taxes than you did last year. Our proposal cuts your taxes. Anyone that tells you anything other than that is inconsistent with reality.”
+
+The exchange occurs at the beginning of the debate, but the entire segment is worth a watch.
+
+&&&&&
+
++++++
+
+BREAKING: FCC Chairman Ajit Pai Is Trying To Save The Internet From Net Neutrality
+
+2017-11-28
+
+Turns out Federal Communications Commission (FCC) Chairman Ajit Pai is a pretty funny guy. At an event Tuesday hosted by R Street Institute in Washington, DC, and one that focused on explaining why Pai plans on doing-away with the hilariously misnamed “Net Neutrality” rules, the chairman took a few shots at the Hollywood Twitterati who fashion themselves experts on internet policy.
+
+Responding to the suddenly politically-vocal Alyssa Milano, who posted this tweet on Nov. 20:
+
+ 
+Alyssa Milano
+
+@Alyssa_Milano
+I know. We’ve faced a lot of issues threatening our democracy in the last year. But honestly, the @FCC and @AjitPaiFCC’s dismantling of #NetNeutrality is one of the biggest.
+
+Pai said, “I’m threatening democracy? Really?…If this were ‘Who’s The Boss’, this would be a ripe time for Tony Danza to dish out some wisdom,” referring to Milano’s time spent as the TV daughter of Mr. Danza on the 80s sitcom.
+
+At issue is Pai’s plan — which he calls “light touch regulation” and would involve renewed oversight by the Federal Trade Commission — to rollback the 2015 rules adopted by the Obama administration that regulate broadband providers like AT&T, Charter, Comcast, Verizon et al as utilities under Title II. The ostensible reason for the adoption of the 2015 rules was to keep internet providers from blocking web pages or instituting arbitrary rules that would slow connections and limit content to some users.
+
+But as Pai noted several times in his remarks, the rules the Obama administration adopted were an attempt to fix something that wasn’t broken. The rules that existed prior to 2015, passed in two phases in 1994 and later in 1996’s Telecom Act, were light on regulation and led to what Pai described as a $1.5 trillion investment from the private sector into internet development.
+
+The chairman said he’s simply trying to get back to the looser regulation that was already in place before the Obama administration changed it almost 3 years ago.
+
+“There was no market failure that justified the regulatory sledgehammer of Title II,” Pai told the crowd in downtown’s historic National Union Building. He then launched into ways that the “mother-may-I” approach of the Obama administration — where providers were at the mercy of a more robust regulatory regime —led to a chilling effect on investment, innovation, and development.
+
+He was also critical of internet giants like Google and Facebook who have pushed back against his plan on the grounds that the set of rules adopted in 2015 “preserves the consumer experience, competition and innovation online.”
+
+Pai said Tuesday these companies are mostly interested in maintaining their dominance of the internet. “I don’t blame them for trying,” Pai said. “But the government shouldn’t aid in those efforts.”
+
+As for Twitter — where Pai and his family have been subjected to disturbing threats following tweets from Hollywood types with huge followings — Pai had some particularly choice words.
+
+“Now look: I love Twitter,” he said. “But let’s not kid ourselves; when it comes to a free and open Internet, Twitter is a part of the problem. The company has a viewpoint and uses that viewpoint to discriminate.”
+
+“And unfortunately, [they are] not an outlier. Despite all the talk, and all the fear…broadband providers could decide what internet content consumers can see, recent experience shows that so-called ‘edge’ providers are in fact deciding what content [users] see. These providers routinely block or discriminate against content they don’t like.”
+
+The FCC is scheduled to vote on Pai’s new plan in December.
+
+&&&&&
+
++++++
+
+Is Press Doing Job FBI Won’t By Informing Americans They’re Targets Of Russian Hackers?
+
+2017-11-28
+
+The media has been taking a lot of heat lately, and rightly so. The partisanship and abject silliness of some of the mainstream outlets has close to equaled the more fringe elements ever since Barack Obama left office and Donald Trump weaponized Twitter.
+
+So it’s a bit of a wake-up call to realize that a news outlet stepped in and provided useful information to Americans when the federally funded agency that was supposed to, for some strange reason, chose to ignore their own policy.
+
+A Russian cyberespionage group called Fancy Bear was targeting the personal Gmail accounts of Americans — some private, some in government leadership — and the FBI, who knew for at least a year and had a policy of informing those targeted, kept quiet. The users the Kremlin had a read on were only informed following an investigation conducted by the Associated Press:
+
+Nearly 80 interviews with Americans targeted by Fancy Bear, a Russian government-aligned cyberespionage group, turned up only two cases in which the FBI had provided a heads-up. Even senior policymakers discovered they were targets only when the AP told them, a situation some described as bizarre and dispiriting.
+
+“It’s utterly confounding,” said Philip Reiner, a former senior director at the National Security Council, who was notified by the AP that he was targeted in 2015. “You’ve got to tell your people. You’ve got to protect your people.”
+
+FBI policy calls for notifying victims, whether individuals or groups, to help thwart both ongoing and future hacking attempts. The policy, which was disclosed in a lawsuit filed earlier this year against the FBI by the nonprofit Electronic Privacy Information Center, says that notification should be considered “even when it may interfere with another investigation or (intelligence) operation.”
+The AP received a statement from the FBI that reiterated their policy of “routinely [notifying] individuals and organizations of potential threat information,” and there’s some suggestion from agents willing to talk that the FBI is simply overwhelmed by the number of recent hacking attempts.
+
+The news agency, in their report damning the FBI for not speaking up, mentions their previous investigations into Fancy Bear and how they determined the Kremlin’s interest in stealing emails from the Democratic party and the possible chain reaction that set off leading to a loud outcry over Russian interference in the 2016 election.
+
+And it’s there that the AP report swings back around to (at least potentially) looking like they’re serving as a mouthpiece for a Democrat narrative, particularly as it relates to the hacking of the DNC:
+
+Questions over the FBI’s handling of Fancy Bear’s broad hacking sweep date to March 2016, when agents arrived unannounced at Hillary Clinton’s headquarters in Brooklyn to warn her campaign about a surge of rogue, password-stealing emails.
+
+The agents offered little more than generic security tips the campaign had already put into practice and refused to say who they thought was behind the attempted intrusions, according to a person who was there and spoke on condition of anonymity because the conversation was meant to be confidential.
+
+Questions emerged again after it was revealed that the FBI never took custody of the Democratic National Committee’s computer server after it was penetrated by Fancy Bear in April 2016. Former FBI Director James Comey testified this year that the FBI worked off a copy of the server, which he described as an “appropriate substitute.”
+The server in question, of course, is the subject of great debate. The AP report never even allows for the idea that the DNC failed to turn the server over to the FBI. Rather, it places the blame on the FBI for being negligent and derelict in their investigation.
+
+So Joe Q. Public is left again with the same old cognitive dissonance: should we be grateful the press is revealing information to the public about their own personal cybersecurity, or should we wonder if the press has an agenda and is playing favorites in how they’re reporting this information?
+
+The answer is yes.
+
+&&&&&
+
++++++
+
+Human Slaves Being Sold In Libya And The World Can Thank Hillary Clinton
+
+2017-11-27
+
+There’s a disturbing new development in Libya: the human slave trade has been resurrected anew. Columnist Glenn Reynolds says blame for this devolution is not complicated and it belongs with Hillary Clinton and her disastrous and incompetent dealings with that country in overthrowing the mostly toothless Col. Moammar Gadhafi back in October 2011.
+
+Following the deal the despot struck with the Bush administration in 2003, whereby the United States would give up a plan to depose Ghadhafi in exchange for his giving up weapons of mass destruction peacefully, the country had stabilized. Until Barack Obama gave Secretary of State Hillary Clinton the go-ahead to depose him in violation of the earlier agreement.
+
+[I]n an operation spearheaded by Clinton, the United States went ahead and toppled him anyway.
+
+The overthrow turned out to be a debacle. Libya exploded into chaos and civil war, and refugees flooded Europe, destabilizing governments there. But at the time, Clinton thought it was a great triumph — “We came, we saw, he died,” she joked about Gadhafi’s overthrow — and adviser Sidney Blumenthal encouraged her to tout her “successful strategy” as evidence of her fitness for the highest office in the land.
+
+It’s surprising the extent to which Clinton has gotten a pass for this debacle, which represents a humanitarian and strategic failure of the first order. (And, of course, the damage is still compounding: How likely is North Korea’s Kim Jong Un to give up his nuclear weapons after seeing the worthlessness of U.S. promises to Gadhafi?)
+
+Back during his brief stint in the Democratic primary, former senator James Webb raised the issue, saying America “blew the lid off of a series of tribal engagements. You can’t get to the Tripoli airport right now, much less Benghazi.” But as the Libya disaster continues to unfold, Clinton’s role in it gets surprisingly little attention.
+Libya has been in complete disarray since Clinton’s little exercise in ego. In fact, there were reports back in 2015 that the overthrow of Ghadafi led directly to the attack in Benghazi that in turn led to the deaths of four Americans.
+
+In the documents and separately recorded conversations with U.S. emissaries, Libyan officials expressed particular concern that the weapons and training given the rebels would spread throughout the region, in particular turning the city of Benghazi into a future terrorist haven.
+
+Those fears would be realized a little over a year later when a band of jihadist insurgents attacked the State Department diplomatic post in Benghazi and a related CIA compound, killing four Americans including Ambassador J. Christopher Stevens. Today, more than three years after Gadhafi fell from power and was killed, Benghazi and much of the rest of Libya remain in chaos, riddled with violence among rival tribes and thriving jihadi groups.
+
+Mrs. Clinton, now considering a run for president, was the moving force inside the Obama administration to encourage U.S. military intervention to unseat Gadhafi in Libya. The latest documents and audio recordings are likely to give her Republican critics on Capitol Hill fresh ammunition to question whether she had an adequate plan and whether her efforts led to the tragedy in Benghazi a year later and the general lawlessness and chaos that have gripped Libya since.
+Reynolds believes Mrs. Clinton, in addition to having the blood of the men who died in Benghazi and of Ghadafi himself on her hands, can add stoking the slave trade to her already considerable list of failures in the region.
+
+
+&&&&&
+
++++++
+
+Trump Renews Calls For Border Wall Following Friday Attack In Egypt
+
+2017-11-24
+
+A mosque attack in Egypt Friday led to the deaths of 235 people, a manhunt for those responsible, and renewed calls by President Donald Trump to both build a wall on the Southern U.S. border and reintroduce a travel ban for known terrorist-sympathizing countries.
+
+ 
+Donald J. Trump
+
+@realDonaldTrump
+Will be calling the President of Egypt in a short while to discuss the tragic terrorist attack, with so much loss of life. We have to get TOUGHER AND SMARTER than ever before, and we will. Need the WALL, need the BAN! God bless the people of Egypt.
+
+The coordinated attack involved both bombs and gunfire and took place at the al Rawdah mosque in the northern Sinai. The mosque is an important Sufi site, thought to be the birthplace of Sheikh Eid al-Jariri, who is considered the founder of Sufism in the Sinai.
+
+Eyewitnesses said a bomb went off in an adjacent building and, as they fled, worshipers were targeted by gunmen wielding semi-automatic weapons as they left the mosque. While no one has claimed responsibility, Egyptian officials say the attack bears the hallmarks of ISIS.
+
+Ashraf Abu Salem 27, said gunmen then went inside the mosque to fire at people. Entering the mosque afterward, he said the bodies looked as if people had been shot in the back. His clothes were stained with the blood of the injured he helped to carry out, but he was unharmed.
+The gunmen had set up “ambush” locations and opened fire on ambulances as they were transporting wounded worshippers to al-Arish before the arrival of security services, eyewitnesses reported.
+Photos from inside the mosque showed what appeared to be bodies lined up in rows on the carpet.
+Trump had a phone call with Egyptian President Abdel Fattah el-Sisi on Friday after condemning the “horrible and cowardly terrorist attack on innocent and defenseless” worshipers. The White House released a statement following that call:
+President Donald J. Trump spoke today with President Abdel Fattah Al Sisi of Egypt to offer condolences to the people of Egypt after the heinous attack on worshippers in Egypt’s North Sinai province.  President Trump condemned the attack and reiterated that the United States will continue to stand with Egypt in the face of terrorism.  The international community cannot tolerate barbaric terrorist groups and must strengthen its efforts to defeat terrorism and extremism in all its forms.
+Egypt is not among the countries listed in the original travel ban. Those responsible for the attack have not yet been located.
+
+&&&&&
+
++++++
+
+BREAKING: Mark Levin Given Weekly Fox News Show
+
+2017-11-21
+
+Bombastic, controversial and unabashedly conservative talk radio host Mark Levin has reportedly been slotted into the weekly programming schedule at Fox News.
+
+The show, which Levin said will be called “Life, Liberty & Levin,” will launch in late February and will air Sundays at 10 p.m.
+
+“I was approached and it was very enticing,” Levin told CNN. “The format will be long-form interview, where we discuss philosophy, history, economics and the constitution as they relate to current events and the state of the nation.”
+Levin said the program would feature guests who are “not necessarily prominent people but people who are consequential in various fields.”
+The show will air for an hour during prime time every Sunday in place of a rerun of Sunday morning’s “Fox News Sunday” program.
+
+Levin, who also hosts a show on Conservative Review’s CRTV and a eponymous popular syndicated radio show, is a former Reagan official and the author of several books, most recently 2017’s “Rediscovering Americanism and the Tyranny of Progessivism.” He’s been a New York Times bestselling author seven times.
+
+In a statement released by the Fox network, Levin said he’s eager to share his conservative vision with the larger Fox audience.
+
+“I am honored to join Fox News, a network I have enjoyed appearing on as a guest for quite some time. As a proud citizen of the United States, I am delighted to share the significance of American values with such a wide audience and look forward to engaging with important guests about crucial topics,” Levin said.
+Suzanne Scott, Fox News president of programming, said Levin’s “passion for the principles found in the Constitution” as well as his success as a radio host made him an attractive addition to the Fox family.
+
+
+
+&&&&&
+

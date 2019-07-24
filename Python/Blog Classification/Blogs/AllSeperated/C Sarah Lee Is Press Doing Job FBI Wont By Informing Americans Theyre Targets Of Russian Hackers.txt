@@ -1,0 +1,36 @@
++++++
+
+Is Press Doing Job FBI Won’t By Informing Americans They’re Targets Of Russian Hackers?
+
+2017-11-28
+
+the media has been taking a lot of heat lately, and rightly so. the partisanship and abject silliness of some of the mainstream outlets has close to equaled the more fringe elements ever since barack obama left office and donald trump weaponized twitter.
+
+so it’s a bit of a wake-up call to realize that a news outlet stepped in and provided useful information to americans when the federally funded agency that was supposed to, for some strange reason, chose to ignore their own policy.
+
+a russian cyberespionage group called fancy bear was targeting the personal gmail accounts of americans — some private, some in government leadership — and the fbi, who knew for at least a year and had a policy of informing those targeted, kept quiet. the users the kremlin had a read on were only informed following an investigation conducted by the associated press:
+
+nearly 80 interviews with americans targeted by fancy bear, a russian government-aligned cyberespionage group, turned up only two cases in which the fbi had provided a heads-up. even senior policymakers discovered they were targets only when the ap told them, a situation some described as bizarre and dispiriting.
+
+“it’s utterly confounding,” said philip reiner, a former senior director at the national security council, who was notified by the ap that he was targeted in 2015. “you’ve got to tell your people. you’ve got to protect your people.”
+
+fbi policy calls for notifying victims, whether individuals or groups, to help thwart both ongoing and future hacking attempts. the policy, which was disclosed in a lawsuit filed earlier this year against the fbi by the nonprofit electronic privacy information center, says that notification should be considered “even when it may interfere with another investigation or (intelligence) operation.”
+the ap received a statement from the fbi that reiterated their policy of “routinely [notifying] individuals and organizations of potential threat information,” and there’s some suggestion from agents willing to talk that the fbi is simply overwhelmed by the number of recent hacking attempts.
+
+the news agency, in their report damning the fbi for not speaking up, mentions their previous investigations into fancy bear and how they determined the kremlin’s interest in stealing emails from the democratic party and the possible chain reaction that set off leading to a loud outcry over russian interference in the 2016 election.
+
+and it’s there that the ap report swings back around to (at least potentially) looking like they’re serving as a mouthpiece for a democrat narrative, particularly as it relates to the hacking of the dnc:
+
+questions over the fbi’s handling of fancy bear’s broad hacking sweep date to march 2016, when agents arrived unannounced at hillary clinton’s headquarters in brooklyn to warn her campaign about a surge of rogue, password-stealing emails.
+
+the agents offered little more than generic security tips the campaign had already put into practice and refused to say who they thought was behind the attempted intrusions, according to a person who was there and spoke on condition of anonymity because the conversation was meant to be confidential.
+
+questions emerged again after it was revealed that the fbi never took custody of the democratic national committee’s computer server after it was penetrated by fancy bear in april 2016. former fbi director james comey testified this year that the fbi worked off a copy of the server, which he described as an “appropriate substitute.”
+the server in question, of course, is the subject of great debate. the ap report never even allows for the idea that the dnc failed to turn the server over to the fbi. rather, it places the blame on the fbi for being negligent and derelict in their investigation.
+
+so joe q. public is left again with the same old cognitive dissonance: should we be grateful the press is revealing information to the public about their own personal cybersecurity, or should we wonder if the press has an agenda and is playing favorites in how they’re reporting this information?
+
+the answer is yes.
+
+&&&&&
+

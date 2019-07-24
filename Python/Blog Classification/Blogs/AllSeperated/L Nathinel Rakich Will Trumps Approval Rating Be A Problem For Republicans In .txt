@@ -1,0 +1,36 @@
++++++
+
+Will Trump’s Approval Rating Be A Problem For Republicans In 2018?
+
+2017-02-13
+
+president trump’s approval rating is a matter of some debate. one cluster of polls (e.g., rasmussen, morning consult) reports that more americans approve of his job performance than disapprove of it. another puts him underwater by anywhere from 7 percentage points (yougov) to 15 points (gallup).
+
+what’s not in question is that trump’s approval rating is historically low for a new president. typically — even following bitter elections — incoming presidents enjoy a honeymoon period after the country rallies around its new leader (and before the opposition begins to coalesce). as harry enten wrote last month, every new president since harry truman in 19451 has enjoyed an initial net approval rating2 of at least +32 percentage points — until trump. on average, pre-trump presidents kicked off their administrations with a 66 percent approval rating and just a 10 percent disapproval rating. gallup’s first survey on trump put him at 45 percent approval and 45 percent disapproval.
+
+trump’s historic unpopularity provides a glimmer of hope to democrats, who are currently shut out of power in every elected division of the federal government. “maybe, just maybe,” the thinking goes, “a backlash to trump’s policies could jump-start a democratic wave that could flip control of congress in 2018.” but can poor approval ratings today really help predict an election that’s 21 months away? the answer is a big fat “maybe.” if trump is this unpopular when the midterms come around, democrats could be in for a good night. but trump has already broken the traditional mold of presidential approval, making it hard to say where his popularity will go from here.
+
+if historical patterns hold, democrats will make some gains in 2018. the party in the white house almost always loses seats somewhere in its first midterm election. since the days of dwight eisenhower, who became president in 1953, a newly elected president’s party has lost ground in the house eight times in nine elections and in the senate five times in nine elections.3 and the president’s job approval at the time of the midterms does appear to have an effect on the magnitude of those losses — especially in the house. (only about a third of senate seats are up for election every two years, so the batch of states that happens to be voting during a president’s first midterm election can skew the results in that chamber.)
+
+rakich-trump-approval-0213_net
+two of the three presidents with the best net approval ratings in the middle of their first terms were the two whose party lost the fewest house seats — or even gained them: john f. kennedy in 1962, amid the relief of the cuban missile crisis’s successful resolution, and george w. bush in 2002, in the unifying aftermath of the sept. 11 attacks. in addition, kennedy gained four democratic seats in the senate; bush’s republicans gained two seats. on the other side of the ledger, three presidents have carried disapproval ratings into their first midterms that were at least as high as their approval ratings: ronald reagan, bill clinton and barack obama. they were also the victims of the three biggest losses in house seats; on the senate side, clinton and obama experienced the biggest losses of any of the nine newly elected presidents. (republicans, however, did gain one senate seat in reagan’s first midterm.)
+
+right now, with a gallup net approval rating of -15 percentage points (40 percent approval, 55 percent disapproval), trump looks like he could slot in right alongside these underachievers. but there’s a huge caveat: approval ratings can change a lot in 21 months. trump could have a successful and productive first two years that win over the support of the country; outside events could cause americans to rally around their leader as they did in 1962 and 2002. however, trump is fighting history here, too: presidents’ net approval ratings almost always go downhill from this point in their terms.
+
+
+how presidents’ approval ratings change during their first terms
+includes only newly elected presidents; lyndon johnson and gerald ford are not listed.
+change in ratings is from around three weeks into a presidency to the president’s first midterm elections.
+
+source: fivethirtyeight polling database
+
+only george w. bush improved his net approval rating from around three weeks into his presidency to his first midterm elections; the net rating for the other eight newly elected presidents decreased by at least 17 percentage points. notably, it’s not unusual for a president’s raw approval rating to stay at strong levels. but it is a near-inevitable increase in his negatives that drives the change. every newly elected president since eisenhower, including bush, has suffered an increase in his disapproval rating — most by at least 20 percentage points.
+
+if trump’s net approval rating follows suit (as it may already be starting to) and drops further between now and november 2018, it will be lower than that of any midterm president in the polling era. in that case, history suggests that republican legislative losses could be severe. for the gop to lose control of congress, it would have to end up with a net loss of 24 seats in the house4 or three seats (albeit in deep-red states) in the senate. those are realistic possibilities amid an unpopular first-term presidency. clinton, obama and reagan all lost at least 26 house seats; no one with a positive net approval has lost more than 18.
+
+however, there are plenty of reasons to question whether the pattern will hold true for trump. for starters, all preceding presidents’ approval ratings started from precipitous heights; many had nowhere to go but down. trump, by contrast, is beginning his presidency relatively unpopular; he has plenty of room to improve. if newly elected presidents tend to revert to the mean, trump is starting from a pretty average place.
+
+moreover, the relationship between net approval and midterm losses is far from perfect. other factors clearly play into midterm election results as well, and in 2018, those factors will work against democrats: they face a senate map with few opportunities for gains and a house map skewed red by urban packing and gerrymandering. although history implies that the democrats should make gains, these structural barriers could hand that advantage right back to the gop.
+
+&&&&&
+

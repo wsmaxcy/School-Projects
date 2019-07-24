@@ -1,0 +1,5 @@
+(foo (bar baz 10 boom 4))
+locate bar
+locate baz
+locate boom
+locate bonk

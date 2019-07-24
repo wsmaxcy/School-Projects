@@ -1,0 +1,31 @@
++++++
+
+SCOTUS Being Asked To Settle The Online Sales Tax Question
+
+2017-11-05
+
+we haven’t revisited the question of the marketplace fairness act and the issue of collecting sales taxes for online purchases in quite a while, but with the current tax overhaul hanging on a knife edge and a new court case possibly heading for the supreme court it’s as good of a time as any. the reason that a federal level decision may become more and more important is that the various states are all making it up as they go along. yet another of these disputes flared up in america’s heartland with the case of state of south dakota v wayfair, inc. et al over the past couple of years.
+
+see also: “night of the long knives”: hardliners out as saudi royal family conducts purge
+
+in this case, a number of sellers, including wayfair, overstock.com and newegg, argued that a 2016 state law requiring them to collect and remit sales tax from consumers in south dakota was not in keeping with the u.s. supreme court’s 1992decision in quill vs. north dakota. that case, arising at the dawn of the widespread use of the internet and the earliest attempts at e-commerce, established that only sellers with a physical presence in the state could be forced to collect sales tax.
+
+now, north dakota has petitioned the u.s. supreme court for a writ of certiorari, asking them to hear their appeal and allow the law to go through. if this happens, it’s going to change the entire landscape of online sales and how states deal with questions of revenue from same. (rila)
+
+key excerpts from the retail litigation center’s amicus brief in south dakota v. wayfair, et. al:
+
+“[w]aiting and watching as businesses and states maneuver around quill is like watching to see how a badly broken bone knits on its own before deciding whether or not to set it back in proper alignment. the business and legal structures that are growing up around quill are crooked. some may prove workable, after a fashion, but they will be necessarily inferior to the structures that would arise from a level playing field and a coherent commerce clause jurisprudence.”
+
+“[w]here the court intervenes in interstate commerce with a “fixed” judge-made rule, it has the obligation to review from time to time whether that rule is reflecting or distorting current “economic realit[y].” that is exactly what the court did in quill, when it gave the physical-presence requirement a 25-year checkup. now another 25 years have passed, and the need for another checkup is more pressing than ever.”
+
+“it is imperative that, as the retail industry adapts to the growing ubiquity of the internet and e-commerce, that transformation is driven by business efficiencies and not tax dodges, so that community-based retailers are not forced to abandon their physical presence in order to avail themselves of quill’s “tax shelter.” the invisible hand of the market, and not the visible thumb of quill on the scales, should guide retail’s growth.”
+i’ve never been comfortable with the arguments being made on either side of this debate. (or more correctly, i should say that i’ve gone back and forth on it a couple of times as new information comes in.) nobody wants to pay more taxes, obviously, and the initial goal of the government in relieving the tax burden to help spur the growth of e-commerce was an admirable one. but at the same time, the citizens of each state are the ones who, through their elected representatives, determine whether or not their state will have a sales tax.
+
+e-commerce is no longer in danger of being snuffed out by prices going up a bit. that’s not the main appeal of online shopping, though it’s certainly part of it. originally there was tremendous distrust of the new technology and fear about entering your credit card number into a keyboard and sending off into the unknown wilderness of the internet. that fear proved well founded many times, but the system has become increasingly more secure over the years. it’s also the convenience of online shopping which is the real draw, allowing you to not only shop from home but see more options than you could within reasonable driving distance at conventional retailers.
+
+from those perspectives, i can understand how a more modern interpretation might find that the consumer is always the consumer no matter where they are. and the “store,” for purposes of online shopping, is the buyer’s laptop, tablet or phone. and if there’s a sales tax in your state, then the state can make a claim that your purchases should be taxed.
+
+in the end, it won’t be my interpretation which matters, but that of the court. there’s definitely a problem with the taxes being unevenly applied in one state as compared to another. if the supremes agree to hear this one and render a judgement, they will either confirm the decision in quill or upend the process and allow all the states to pass laws similar to the one in north dakota. either way, at least we’ll have an answer.
+
+&&&&&
+

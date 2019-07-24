@@ -1,0 +1,109 @@
+﻿+++++
+
+The dubious science behind implicit racial bias
+
+2017-10-17
+
+Last week City Journal published a piece by Heather Mac Donald about the history of the implicit association test (IAT) and how it came to be cited by academics and many on the left as proof that everyone has implicit or unconscious racial bias.
+Mac Donald’s piece is lengthy and difficult to summarize but it begins with the creation of the IAT in 1998 by, “social psychologists Anthony Greenwald and Mahzarin Banaji, with funding from the National Science Foundation and National Institute of Mental Health.” The actual test is pretty simple. Faces of white and black children are shown one at a time interspersed with “good” and “bad” words (“pleasant,” “grief,” etc.). The subject is asked to sort the faces into white and black and the words into good and bad as quickly as they can using only two keys. As the test progresses, the subject is asked to switch which key on the keyboard represents black children and which white children. And here’s how the test supposedly measures bias:
+If a subject takes longer sorting black faces using the computer key associated with a “good” word than he does sorting white faces using the computer key associated with a “good” word, the IAT deems the subject a bearer of implicit bias. The IAT ranks the subject’s degree of implicit bias based on the differences in milliseconds with which he accomplishes the different sorting tasks; at the end of the test, he finds out whether he has a strong, moderate, or weak “preference” for blacks or for whites.
+You can take it yourself here if you’re confused or just curious. As Mac Donald points out, this was considered a breakthrough when it was introduced and was being referenced by national leaders including President Obama and candidate Hillary Clinton:
+The implicit-bias conceit spread like wildfire. President Barack Obama denounced “unconscious” biases against minorities and females in science in 2016. NBC anchor Lester Holt asked Hillary Clinton during a September 2016 presidential debate whether “police are implicitly biased against black people.” Clinton answered: “Lester, I think implicit bias is a problem for everyone, not just police.” Then–FBI director James Comey claimed in a 2015 speech that “much research” points to the “widespread existence of unconscious bias.” “Many people in our white-majority culture,” Comey said, “react differently to a white face than a black face.” The Obama Justice Department packed off all federal law-enforcement agents to implicit-bias training. Clinton promised to help fund it for local police departments, many of which had already begun the training following the 2014 fatal police shooting of Michael Brown in Ferguson, Missouri.
+There was a push led by UCLA law professor Jerry Kang to incorporate the IAT into the law. It’s not hard to imagine how this could be used in an employment discrimination case or in a lawsuit against a police officer. But even as all of this cultural and legal machinery was gearing up, it turns out there is really little or no evidence that the IAT actually proves anything at all.
+Any social-psychological instrument must pass two tests to be considered accurate: reliability and validity. A psychological instrument is reliable if the same test subject, taking the test at different times, achieves roughly the same score each time. But IAT bias scores have a lower rate of consistency than is deemed acceptable for use in the real world—a subject could be rated with a high degree of implicit bias on one taking of the IAT and a low or moderate degree the next time around. A recent estimate puts the reliability of the race IAT at half of what is considered usable. No evidence exists, in other words, that the IAT reliably measures anything stable in the test-taker.
+But the fiercest disputes concern the IAT’s validity. A psychological instrument is deemed “valid” if it actually measures what it claims to be measuring—in this case, implicit bias and, by extension, discriminatory behavior. If the IAT were valid, a high implicit-bias score would predict discriminatory behavior, as Greenwald and Banaji asserted from the start. It turns out, however, that IAT scores have almost no connection to what ludicrously counts as “discriminatory behavior” in IAT research—trivial nuances of body language during a mock interview in a college psychology laboratory, say, or a hypothetical choice to donate to children in Colombian, rather than South African, slums…
+A 2009 meta-analysis of 122 IAT studies by Greenwald, Banaji, and two management professors found that IAT scores accounted for only 5.5 percent of the variation in laboratory-induced “discrimination.” Even that low score was arrived at by questionable methods, as Jesse Singal discussed in a masterful review of the IAT literature in New York…If test subjects scored high on implicit bias via the IAT but demonstrated better behavior toward out-group members (such as blacks) than toward in-group members, that was a validation of the IAT on the theory that the subjects were overcompensating for their implicit bias. But studies that found a correlation between a high implicit-bias score and discriminatory behavior toward out-group members also validated the IAT. In other words: heads, I win; tails, I win.
+To their credit, the authors of the test have admitted that the current evidence does not support using the IAT as evidence of how someone will behave. From Jesse Singal’s piece on the IAT published in January:
+Both critics and proponents of the IAT now agree that the statistical evidence is simply too lacking for the test to be used to predict individual behavior. That’s not to say the two teams don’t still disagree on many issues — they do, and as we’ll see there’s some genuine bad blood — but on this point, the architects have effectively conceded. They did so in 2015: The psychometric issues with race and ethnicity IATs, Greenwald, Banaji, and Nosek wrote in one of their responses to the Oswald team’s work, “render them problematic to use to classify persons as likely to engage in discrimination.” In that same paper, they noted that “attempts to diagnostically use such measures for individuals risk undesirably high rates of erroneous classifications.” In other words: You can’t use the IAT to tell individuals how likely they are to commit acts of implicit bias.
+But obviously, word hasn’t gotten to everyone who bought into their work, including the former president and Hillary Clinton. And that’s where Heather Mac Donald argues the real scandal of the IAT is that so many people seem eager to suggest questionable science of hidden bias is a significant factor in minority outcomes in the real world, even as they downplay the tangible benefits these same minority groups get in terms of corporate hiring or college admissions:
+Every selective college today admits black and Hispanic students with much weaker academic qualifications than white and Asian students, as any high school senior knows. At the University of Michigan, for example, an Asian with the same GPA and SAT scores as the median black admit had zero chance in 2005 of admission; a white with those same scores had a 1 percent chance of admission. At Arizona State University, a white with the same academic credentials as the average black admit had a 2 percent chance of admission in 2006; that average black had a 96 percent chance of admission. The preferences continue into graduate and professional schools. UCLA and UC Berkeley law schools admit blacks at a 400 percent higher rate than can be explained on race-neutral grounds, though California law in theory bans them from using racial preferences.
+The whole piece is worth reading and goes into the impact of the IAT on policing. She argues the whole push for the IAT has been a case study in “agenda-driven social science,” one that paints a biased picture of America.
+&&&&&
+
+
++++++
+
+Hollywood screenwriter: Everybody knew about Harvey Weinstein’s ‘appetite’
+
+2017-10-17
+
+“So, uh, yeah. We need to talk about Harvey.” That’s how Hollywood screenwriter Scott Rosenberg opens a lengthy Facebook post talking about his time working closely with the Weinstein brothers in the early days of Miramax. According to Rosenberg, who wrote Beautiful Girls, Con Air and Gone in Sixty Seconds, it was a great time for a group of New York guys trying to shake up the Hollywood film industry. But he says that Weinstein’s interest in young starlets was well known to everyone around him at the time. From Deadline:
+See Also: Katzenberg: The other Weinstein was “genuinely abusive,” too
+Let’s be perfectly clear about one thing:
+Everybody-f**king-knew.
+Not that he was raping.
+No, that we never heard.
+But we were aware of a certain pattern of overly-aggressive behavior that was rather dreadful.
+We knew about the man’s hunger; his fervor; his appetite.
+There was nothing secret about this voracious rapacity; like a gluttonous ogre out of the Brothers Grimm.
+All couched in vague promises of potential movie roles.
+(and, it should be noted: there were many who actually succumbed to his bulky charms. Willingly. Which surely must have only impelled him to cast his fetid net even wider).
+But like I said: everybody-f**king-knew.
+And to me, if Harvey’s behavior is the most reprehensible thing one can imagine, a not-so-distant second is the current flood of sanctimonious denial and condemnation that now crashes upon these shores of rectitude in gloppy tides of bullshit righteousness.
+Because everybody-f**king-knew.
+And do you know how I am sure this is true?
+Because I was there.
+And I saw you.
+And I talked about it with you.
+You, the big producers; you, the big directors; you, the big agents; you, the big financiers.
+And you, the big rival studio chiefs; you, the big actors; you, the big actresses; you, the big models.
+You, the big journalists; you, the big screenwriters; you, the big rock stars; you, the big restaurateurs; you, the big politicians.
+Rosenberg admits that he did nothing about Weinstein’s behavior because Weinstein was his meal ticket, and a generous one at that:
+
+
+Sundance! Cannes! Toronto!
+Telluride! Berlin! Venice!
+Private jets! Stretch limousines! Springsteen shows!
+Hell, Harvey once took me to St. Barth’s for Christmas.
+For 12 days!
+I was a broke-ass kid from Boston who had never even HEARD of St. Barth’s before he booked my travel.
+He once got me tickets to the seven hottest Broadway shows in one week. So I could take a new girlfriend on a dazzling tour of theater.
+He got me seats on the 40-yard-line to the Super Bowl, when the Patriots were playing the Packers in New Orleans…
+So what if he was coming on a little strong to some young models who had moved mountains to get into one of his parties?
+So what if he was exposing himself, in five-star hotel rooms, like a cartoon flasher out of “MAD MAGAZINE” (just swap robe for raincoat!)
+Who were we to call foul?
+Golden Geese don’t come along too often in one’s life.
+Rosenberg apologizes for going along with the ride. To all the women he let down by keeping quiet he says, “I am eternally sorry.” Finally, after not having much contact with Harvey for many years, he recounts a recent call in which Weinstein wanted to reminisce about the old days:
+A few months ago, Harvey called me, out of the blue.
+To talk about the bygone days.
+To talk about how great it would be to get some of the gang back together.
+Make a movie.
+He must have known then the noose was tightening.
+There was a wistfulness to him that I had never heard before.
+A melancholy.
+It most assuredly had a walking-to-the-gallows feel.
+When we hung up I wondered: “what was that all about?”
+In a few short weeks I would know.
+It’s a well-written mea culpa which helps explain how this could go on for so long. It wasn’t just the actresses who had a lot to lose by coming forward, it was everyone around Weinstein. Rosenberg says he mostly lost touch with the brothers around 2000 but presumably the same pattern has continued for the last 17 years. No one wants to call out the host at his own party, especially if everyone else seems to be enjoying themselves. So the party rolls on for 30 years.
+Rosenberg will take some heat for this and justifiably so, but at least he’s owning up to his part in it. What about all the people who are still claiming they had no idea any of this was going on? What he dubs the “flood of sanctimonious denial” from Weinstein employees to actresses like Meryl Streep to Bill and Hillary Clinton. Do they all get to keep pretending they never heard about any of this? It seems like that’s the current plan. All of the cultural progressives who rally in Hollywood for every noble cause are still, mostly, staying quiet so as not to spoil the party.
+&&&&&
+
++++++
+
+Paul Ryan Piles On Hillary: ‘No Wonder Democrats Are Ticked Off’
+
+2017-11-05
+
+On Fox News Sunday, Paul Ryan was asked about the Donna Brazile revelations regarding Hillary Clinton’s control of the DNC during the primaries.
+
+SEE ALSO: “Night of the Long Knives”: Hardliners out as Saudi royal family conducts purge
+
+“I’ve never seen anything like that,” Ryan said. He continued, “We all said that the Clintons thought they lived above the rules but this takes the cake. I mean this is pretty amazing. For them to basically be running the DNC in a primary.
+
+“To see such a deck stacked is really pretty jaw-dropping to me. No wonder the Democrats are ticked off. I would be too. It’s amazing to me how the Clintons just lived above the law, or above the rules in this thing. I understand why they are mad about this. They should be mad about this. And I don’t think I’ve ever seen anything like this, frankly.”
+
+Note that Paul pulled back after suggesting this was above the law, correcting himself that it was “above the rules.” He did go on to say that the FEC should look into it to determine “whether they broke campaign finance laws.”
+
+“We don’t legally regulate how the parties set up their bylaws, but to have a primary—it had one of the primary participants stacking the deck and running the party, I’ve never heard of that before,” Ryan said. He added, “That is—just takes the cake in my mind.”
+
+The divisions in the Democratic Party between Bernie Bros and Hillary supporters have never healed. Hillary’s people planned to run roughshod over Sanders and then justify it retroactively by winning the election. The fact that they didn’t win has left them open to endless questions about what might have been if Bernie had gotten a fair shake. In the midst of that, Donna Brazile’s revelation about Hillary’s control of the DNC is the equivalent of squeezing lemon juice on the wound. And, it seems there are more such revelations in Brazile’s book, even questioning Hillary’s fitness to run.
+
+All Republicans have to do at this point is exactly what Ryan does here: Pile on. Express sympathy for the Sanders’ supporters who (rightly) feel taken advantage of by the process and then step back and enjoy some Jiffy Pop.
+
+Of course, the media is still going to do its thing. As we’ve seen over and over, bad news for Democrats can always be transformed into “Republicans seize on…” headlines (here’s NBC doing just that). That’s an unavoidable aspect of having a national media that empathizes first and often exclusively with Democrats. But media bias is not going to stop the underlying problem in the party from festering.
+
+One thing that might help is to have Hillary Clinton step away from the spotlight. Given that she’s run and lost in two presidential elections it’s not clear why she’s still vying to be the face of the party. It’s not just the book and the book tour. She’s also started that Onward Together group. Her presence on the national stage is a constant reminder of the last campaign and all the bitterness that comes with it. But for some reason, she refuses to walk away and let the dust settle. Is she thinking about running again? For that matter, is Bernie? A 2020 rehash of 2016 could turn into an epic intra-party battle. It could be time to buy Jiffy Pop in bulk.
+
+
+
+&&&&&

@@ -1,0 +1,1 @@
+Game that is a randomized version of ChoHan. Dice game where the die is randomized, the player's moves are randomized, and therfore the end result is random.

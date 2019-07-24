@@ -1,0 +1,40 @@
++++++
+
+INITIAL THOUGHTS ON THE WEINSTEIN EMPLOYMENT CONTRACT
+
+2017-10-13
+
+earlier today, scott wrote about harvey weinstein�s employment contract. reportedly, it provides that if weinstein �treated someone improperly in violation of the company�s code of conduct,� he must reimburse the company for settlements or judgments. additionally, �[weinstein] will pay the company liquidated damages of $250,000 for the first such instance, $500,000 for the second such instance, $750,000 for the third such instance, and $1,000,000 for each additional instance.�
+
+the contract stipulates that if weinstein pays as required, it constitutes a �cure� for the misconduct and no further action can be taken. this language is intended to ensure that weinstein can keep his job no matter how many times he is sued for actions that violate the code of conduct, as long as he writes the checks.
+
+i used to practice employment law. no one i ever represented, or sued, combined the power and the sleaziness to get contractual provisions like the ones scott described. moreover, it�s been some time since i practiced law in this area. thus, my initial thoughts about the contract should not be construed as expert analysis.
+
+nonetheless, weinstein�s contract strikes me as legally problematic, to say the least. weinstein is alleged to have committed serial acts of sexual harassment � some so egregious they may have amounted to assault or even rape. the contract does not protect weinstein if he�s indicted or convicted of a crime, so for purposes of discussion, let�s focus on sexual harassment that falls short of criminal conduct.
+
+the law bans it. specifically, it is against the law to condition an employment decision on submission to sexual advances. it is also against the law to engage in sexual harassment that makes the work environment �hostile.� weinstein violated the first of these prohibitions, at a minimum, if certain allegations against him are true.
+
+if an employer learns that an employee is engaging in either form sexual harassment, it must take reasonable measures to stop the offending conduct. this is true even if the conduct has not yet risen to a level that makes the work environment �hostile,� in the legal sense of that word.
+
+reasonable measures to end harassment may begin with counseling and other soft remedial steps. in severe cases, the employer may be required to take more drastic action at the outset. if the harassment is serial, or if it involves even just one instance of extreme behavior, the only reasonable measure might be to terminate the offending employee or official.
+
+weinstein�s contract seems intended to take that option away from the employer. in effect, it fines him for sexual harassment that results in a settlement or judgment, but prohibits discharging him. a series of fines on a man of weinstein�s wealth is not a reasonable measure to end harassment. it�s more like a license to indulge.
+
+one might argue that the contract applies only to violations of the company code of conduct that don�t violate non-criminal laws. on this reading, the contract would not preclude the company from firing weinstein to remedy his sexual harassment. but given the clear �carve-out� language for behavior that results in indictment or conviction of a crime, it might be difficult to argue that there is an implicit carve-out for non-criminal conduct that violates the law.
+
+can a company escape, via contract, its legal obligation to fire sexual harassers when that is the only reasonable response to his sexual harassment? i don�t think so. a company violates the law by not firing a sexual harasser under these circumstances regardless of what an employment contract says.
+
+in this case, the contract provisions in question represent very strong evidence that the company did not take reasonable action to prevent sexual harassment. if anything, as noted above, the company�s approach enabled it. thus, the company�s exposure might be greater by virtue of the contract.
+
+assuming that harvey weinstein�s sexual harassment has been such that the only reasonable response is to fire him, can weinstein enforce a contract that bars the company from doing so? again, i don�t think so.
+
+my understanding is that, as a general matter, a party cannot enforce a contract that is contrary to an express provision of law or contrary to the public policy behind a law. typically, there are exceptions � e.g., where the party seeking enforcement is less morally blameworthy than the party against whom the contract is being asserted or where the violation of law did not involve serious moral turpitude and non-enforcement would be disproportionately harsh in proportion to the extent of illegality.
+
+i don�t see how weinstein could take advantage of these exceptions on the facts that have come to light.
+
+i emphasize that these thoughts are preliminary and aren�t based on any research performed in preparing the post (i performed almost none). i hope, however, that they provide a solid framework for further analysis and discussion.
+
+note: i have modified this post slightly since it first went up.
+
+&&&&&
+

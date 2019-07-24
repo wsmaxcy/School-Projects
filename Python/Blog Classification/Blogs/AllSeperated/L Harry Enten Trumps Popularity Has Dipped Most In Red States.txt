@@ -1,0 +1,44 @@
++++++
+
+Trump’s Popularity Has Dipped Most In Red States
+
+2017-09-18
+
+there are no national elections for president in the united states. democrats relearned that lesson the hard way in 2016, when president trump won the electoral college despite earning fewer votes nationally than hillary clinton. of course, we still mostly talk about the president’s popularity nationwide in non-election years. it’s simpler, and job approval polls for all 50 states are harder to come by. but it’s worth checking in on trump’s state-by-state strength when we can, and that’s now possible thanks to two polling firms, gallup and surveymonkey1, which recently released trump’s state-by-state approval and disapproval ratings.
+
+although trump is quite unpopular, the political map hasn’t changed much in the eight months since trump won (not surprisingly). compared to his standing nationally, trump is still strong in key swing states.2 he has, however, experienced a disproportionate drop off in his popularity in red states, suggesting the president’s base isn’t as solid as it once was.
+
+overall, trump’s relative popularity in each state tracks very closely3 with how well he did in each state in november. here’s an average of gallup and surveymonkey’s net approval ratings4 compared to trump’s margin over clinton in each state:
+
+
+trump’s best net approval ratings are in west virginia (+21 percentage points) and wyoming (+20 points). those were his two strongest states last november. his lowest net approval ratings are in vermont (-41 points) and massachusetts (-38 points), two of his worst states in 2016.
+
+trump’s also still more popular in key midwestern swing states than he is nationally. his net approval ratings in the states that helped put him over the top in 2016 (michigan, pennsylvania and wisconsin) ranged from -10 percentage points to -12 percentage points. that’s slightly better than his net approval nationally (-15 percentage points) during the same period.
+
+trump’s continued popularity in the midwest (relatively speaking) is important because (i) there are a ton of electoral college votes in those states, and (ii) it shows that democrats still have a problem there. that may also mean that clinton didn’t lose the election because she was uniquely unpopular in key swing states. (she likely didn’t lose wisconsin, for example, because she didn’t campaign there, as some have argued.) trump may just have outsized appeal in the midwest. or perhaps the region — which used to lean slightly more democratic than the nation as a whole — has simply become more republican-leaning relative to the country. that trend could have little to do with clinton or trump.
+
+instead, trump has seen a disproportionate decline in his popularity in red states. let’s compare trump’s net approval rating in each state to his 2016 margin there. in doing so, we’re basically pretending that the 2016 vote was a big job approval poll, with a vote for trump being “approve” and a vote for clinton “disapprove”:
+
+trump has seen his biggest decline in red states
+difference between trump’s 2016 election margin and an average of his net approval ratings in 2017 gallup and surveymonkey polls, by state
+
+all numbers are rounded.
+
+source: dave leip, gallup, surveymonkey
+
+there’s a clear negative correlation5 between the “change” numbers in the table above and trump’s margin in each state. in states where trump won by at least 10 points, his net approval rating is down 18 percentage points, on average, compared to his margin last november. in states that were decided by 10 points or less in november, it’s down only 13 points. and it’s down 8 points in states clinton carried by at least 10 points.
+
+the fact that trump has lost the greatest number of supporters in red states is perhaps the clearest indication yet that he is losing ground among some form of his base, if you think of his base as those who voted for him in november
+
+well … with a couple caveats. it’s possible that the polls are merely underestimating trump in these red states. trump most outperformed his polling in 2016 in red states. maybe that’s happening again. that said, he also beat his polls in midwestern states, and he’s holding his own (relatively speaking) there, which argues that his red-state decline can’t be written off only as polling error.
+
+but even if this polling is perfect, trump still might not have lost ground, per se. trump was able to win in 2016 in large part because he was able to win a decent share of the vote among people who held an unfavorable view of him. that group of voters — we’ve dubbed them “reluctant trump voters” — may have been more plentiful in red states.6 in deeply red kentucky, for example, trump lost among people who held an unfavorable view of him by just 40 percentage points. in deeply blue california, he lost this same group by 74 points.
+
+so perhaps what we’re seeing isn’t a decline in trump’s support in conservative states, but rather a reflection of its weakness from the start: red-state voters who pulled the lever for trump but didn’t like him, still don’t like him.
+
+what will be interesting to see is how many of these red-state voters who dislike trump now will be willing to vote for republicans in 2018 without clinton on the ballot. off-year elections, like those coming up in 2018, are usually a referendum on the party in power. we’ve already seen that democrats have been able to do well in special elections this year, as trump’s approval ratings have slumped. we’ve also seen that house republicans are picking up very few supporters among people who disapprove of trump’s job performance in national polling. that is, there aren’t a lot of voters who dislike trump and are still willing to say they’re going to vote republican.
+
+if red state voters who dislike trump but voted for him in 2016 abandon the republican party in 2018, it could lead to some unexpected electoral results. it’s another reason that democrats, if they want to maximize their chances of winning back the house, should compete in a wide variety of districts.
+
+&&&&&
+

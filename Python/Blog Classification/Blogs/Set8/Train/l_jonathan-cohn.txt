@@ -1,0 +1,343 @@
+﻿+++++
+
+Even With ‘Fixes,’ The GOP Tax Cut Plan Would Likely Damage Health Care
+
+2017-11-19
+
+Fewer people would have insurance — and more would struggle with medical bills.
+
+The biggest political hang-up in the debate over the Senate Republican tax cut bill is likely to be its potential effect on the deficit. But that’s not the only issue, or even the most important one. There’s still the matter of the health insurance mandate ― the requirement, which became law as part of the Affordable Care Act, that all Americans get coverage or pay a fine.
+
+The tax cut bill would eliminate the mandate. If that happens, experts warn, both health insurance premiums and the number of people without coverage will go up. Insurers would be more likely to exit markets altogether. 
+
+Now some Republicans are talking about passing yet another piece of legislation, in order to make sure insurance markets don’t deteriorate. It’s not a crazy idea. But the new legislation would have only a modest impact ― and, even then, only on a temporary basis.
+
+Premiums would still go up. More people would still end up without health insurance, struggling to find care when they need it or facing the prospect of crippling medical bills. Insurers would still have new reason to leave.
+
+And that’s assuming this new proposal could even get through Congress, which is no sure thing.
+
+Effects Of Eliminating The Individual Mandate
+
+The mandate gives healthy people more financial incentive to get insurance. And when more healthy people sign up, insurers can spread the cost of high medical bills more broadly. That holds down premiums.
+
+The mandate also encourages people to investigate their health insurance options. When that happens, many who might have assumed coverage was unaffordable, or at least not worthwhile, tend to discover that they can get cheap, highly subsidized private policies ― or that they qualify for Medicaid, which is basically free.
+
+Notwithstanding these benefits, the mandate remains unpopular ― in part because many people see it as government dictating personal choices and intruding upon liberty, and in part because the penalty can be steep. Republicans have been trying to get rid of the mandate ever since it became part of “Obamacare,” even though many of them once supported the idea. Earlier this month, they amended their tax bill to include elimination of the mandate, largely because they were desperate to find ways to offset the cut’s projected cost. With no mandate in place, the federal government would have an extra $338 billion over the next 10 years, according to the Congressional Budget Office. That’s about a quarter of the tax cut’s price tag.
+
+
+ANDREW HARRER/BLOOMBERG VIA GETTY IMAGES
+Sen. Susan Collins (R-Maine) knows a thing or two about insurance markets.
+But the only reason that $338 billion would materialize is because, by the CBO’s reckoning, the number of people getting Medicaid and subsidized private policies would plummet. Some people would be choosing not to get coverage, because of the price and the value they’d see in the coverage; others would be unaware that coverage was available, or unaware of what it would actually cost them. But the effect would be the same: The number of people with insurance would drop by 13 million.
+
+And it wouldn’t just be any old 13 million people. The ones who would end up without coverage would, on average, tend to be relatively healthy, since they are the ones who would feel most comfortable risking big medical bills. Insurers, left with a pool of beneficiaries in relatively worse health, would respond by raising premiums, so that ― again, according to the CBO ― insurance would be 10 percent more expensive than it would be if the mandate were still in force.
+
+One Senator’s Idea For Reducing The Damage
+
+It’s possible the CBO is overestimating the mandate’s impact, but most serious observers agree that without the requirement and penalty, premiums would rise and insurance rolls would shrink by some significant amount. Among those who have made that point is a Republican senator, Susan Collins from Maine ― who, not coincidentally, was the chief regulator of her state’s insurance industry before she went to Washington. In other words, she knows something about insurance.
+
+Collins, who has expressed a variety of objections to the GOP tax bill, said that one condition for getting her vote would be passing two pieces of legislation designed to shore up health insurance markets.
+
+The first is a bipartisan bill from Sens. Lamar Alexander (R-Tenn.) and Patty Murray (D-Wash.) that would resume a set of payments to insurance companies that President Donald Trump halted last month. That cutoff spooked insurers, and the Alexander-Murray bill, in theory, could help restore some of that confidence. But it wouldn’t address the entirely new problems that eliminating the insurance mandate would create. “Tacking Alexander-Murray onto the partisan Republican tax reform effort is like trying to put out a fire with penicillin,” Murray said in a press release. “It will not do anything to help.”
+
+The second bill Collins has in mind could have a more meaningful impact. It’s also a bipartisan proposal, one that Collins wrote and sponsored with Sen. Bill Nelson (D-Fla.). It would set aside funds for “reinsurance,” which is a way of reimbursing insurers for customers with the biggest medical problems and, thus, the biggest medical bills. The bill has become the subject of serious conversation in the last few days, and on Tuesday, at a Capitol Hill luncheon, Trump said he would support passing it as part of a deal to enact the GOP tax cut. Collins said she was pleased.
+
+As a concept, reinsurance is hardly new. The Affordable Care Act actually had a temporary reinsurance program, operated by the federal government, that expired in 2016. The Collins-Nelson bill would start up a new version, only this time the federal government would simply put up the funds. States would have to apply for the money and then use it to administer the reinsurance programs themselves. (They’d also have the option of creating “invisible high risk pools,” which would function similarly.)
+
+One way to think of reinsurance is that it would provide insurers with some of the money that, with a mandate in place, they would get from healthy enrollees. That would hold down premiums. But the specifics matter, and that’s where the Collins-Nelson bill appears to come up way short.
+
+In order to offset the effects of no mandate, the net cost of a new reinsurance program ― including both the initial outlays and offsetting savings that reinsurance would produce ― would have to be somewhere in the neighborhood of $5 billion a year, according to the Center on Budget and Policy Priorities and several other experts whom HuffPost consulted on Tuesday. The Collins-Nelson bill would allocate less than half that much ― maybe a lot less than half. (It’s not entirely clear from the legislation’s wording.) 
+
+“Without the individual mandate, there will be fewer healthy people in the insurance pool to help cover the cost of those who are sick,” Larry Levitt, senior vice president at the Henry J. Kaiser Family Foundation, said Tuesday. “The question is whether the government is prepared to kick in enough money through a reinsurance program to make up the difference.”
+
+That $5 billion number is very rough ― and it depends on all kinds of variables, including the accuracy of CBO coverage projections and the extent to which insurers have already adjusted prices to reflect uncertainty over the mandate. (Trump has made it clear that if Congress doesn’t eliminate the mandate, he will use his executive authority to weaken it.) It’s not too difficult to imagine a good-faith negotiation over reinsurance producing legislation significant enough to make a real impact on premiums.
+
+But the impact wouldn’t last ― at least not without further, costly amendment. The Collins-Nelson bill would appropriate money for just two years. The effects of mandate would last indefinitely, which means that, after two years, the reprieve from higher premiums would end. And while reinsurance can help with premiums, it would be unlikely to have a huge effect on coverage numbers, most experts say. That’s because the mandate has a number of more subtle effects on how people behave. It prods people to enroll out of a sense of obligation, and it gets people thinking about health insurance more generally.
+
+The net cost of a new reinsurance program would have to be somewhere in the neighborhood of $5 billion a year. The Collins-Nelson bill would allocate less than half that much — maybe a lot less than half.
+Insurers know this ― and that’s one reason the mandate may be more important than it seems. Most carriers lost money in the early years of the Affordable Care Act, because the new system simply hasn’t worked as well as they, or the system’s architects, had hoped. Then, just as insurers were learning how to succeed in the newly reformed markets, Trump took over and began undermining the program, by slashing funds for outreach and cutting off subsidies that insurers needed to offset some of their costs.
+
+Taking away the mandate could drive insurers away, reducing choice and threatening once again to create “bare counties” ― that is, places where no insurers offer coverage.
+
+The Big Unknowns In Policy And Politics
+
+Whether insurers would actually go that far, and leave whole swaths of the country without any carriers, is difficult to say. But there’s another big unknown, and that’s the question of whether a reinsurance proposal could become law. 
+
+Trump’s Tuesday endorsement may not mean much, since he has demonstrated repeatedly that he doesn’t understand policy and doesn’t honor his own commitments. And many Republicans are sure to oppose anything that smacks of helping Obamacare survive. Most likely, GOP leaders would try adding it to the year-end, must-pass spending bill meant to keep the government functioning. That bill is likely to pass with some Republicans voting no and Democrats making up the difference anyway.
+
+Of course, one reason reinsurance has generated bipartisan support is that Democrats in Congress ― echoing a variety of state officials, industry leaders and consumer advocates — have come to realize it could address the Affordable Care Act’s very real shortcomings. Although the health care law has generally made it easier for Americans to get care and pay their medical bills, many people still struggle with high premiums or out-of-pocket costs ― or remain uninsured. Reinsurance could help a lot of them.
+
+But if the Republican tax cut becomes law, and the mandate goes away, even more people will be in trouble. Access to care would almost certainly decline, while financial hardship from medical bills would increase. The Collins-Nelson reinsurance proposal would be an exercise in damage control ― and a pretty limited one, at that.
+
+
+&&&&&
+
++++++
+
+The GOP’s Extremist Agenda Is Making It Easy For Democrats To Stand Their Ground
+
+2017-11-26
+
+Not even the politically vulnerable ones are afraid to defy Trump.
+
+Sixteen years ago, a newly elected Republican president got a huge tax cut through Congress. And he did so with the support of a dozen Democratic senators, most of them politically vulnerable because they came from Republican-leaning states. The mass defection outraged Democratic leaders and grassroots activists, but none of them were really surprised. In the late 1990s and early 2000s, those sorts of Democrats predictably broke ranks on some big issues.
+
+Now, a newly elected Republican president, Donald Trump, is trying to get another huge tax cut through Congress. He and his allies in Congress are having a much tougher time. Even Democrats from the most conservative states want little to do with it, just like they wanted little to do with legislation repealing the Affordable Care Act that Republicans tried to pass over the summer and fall.
+
+Trump and the Republicans could still prevail on the tax cut. They could still return to “Obamacare” repeal, too. But the unwillingness of Senate Democrats to go along with either effort so far is one of the more underappreciated stories of the political year.
+
+That says something important about the skills of Senate Democratic leaders, especially Chuck Schumer of New York. But it also says a lot about Trump, the Republican Party and how their extreme agenda has made it easy for even the most vulnerable Democrats to say no.
+
+A case in point is Democratic Sen. Claire McCaskill of Missouri, a state where voters gave Trump 58 percent of the vote last year. Her net approval rating is barely into positive territory, and she’s likely to draw a strong Republican challenger in 2018. But McCaskill has emerged as a consistent and vocal critic of the tax bill, blasting it as a giveaway to big business and the rich that would hurt most of her constituents.
+
+Republicans have made it easy for the likes of McCaskill to seize the populist high ground on taxes.
+McCaskill has said she would support a bipartisan compromise, and as recently as this month, she met with White House officials to discuss the bill. But she has also decried their refusal to alter the bill in any substantial way. Republicans recently added a provision that would repeal the Affordable Care Act’s individual mandate ― a highly unpopular penalty for people who don’t get insurance ― and McCaskill attacked that too, by arguing (correctly) that removing the mandate would mean millions of poor and middle-income people end up without coverage. 
+
+McCaskill’s opposition to the bill is already provoking attacks from Missouri Republicans, including Josh Hawley, her possible opponent in the 2018 Senate race. But it’s Hawley who appears to be on the politically weaker side of the debate: The tax cut proposal polls terribly. And it doesn’t take too much imagination to see why the public would have soured on it so quickly ― even relative to the 2001 cuts, which also skewed their benefits toward corporations and the wealthy.
+
+Whatever else former President George W. Bush and his allies did, they didn’t propose to raise taxes on lower- and middle-income Americans so that half of them would end up paying more money, not less, within a decade. They didn’t serve up politically radioactive ideas like cutting stipends that help university janitors pay for their kids to go to college. And they didn’t have the treasury secretary, a former investment banker, and his wife smugly pose for a photo in front of a newly minted sheet of dollar bills. (One pundit said they looked like Bond villains.)
+
+All of this has made it easy for McCaskill to seize the populist high ground, and she’s done just that. “I wanted to support real tax reform,” she said last week, after voting no on the bill in the Senate Finance Committee. “This isn’t it — this is a bad deal for Missouri families. Working people in Missouri deserve better than to get scraps, while corporations and wealthy business owners make out like bandits in a plan that explodes our deficit and compromises our military.”
+
+The debate over health care has played out the same way. Here, the best illustration is probably West Virginia’s Joe Manchin, who is arguably the most conservative Democrat in the Senate caucus. Trump got nearly two-thirds of the popular vote in West Virginia, the highest in the country, and he even made a personal visit to the state to rally voters behind “Obamacare” repeal. But Manchin wouldn’t go for it. He said he was happy to discuss changes to the program, but only if it protected insurance for those who had it.
+
+And that’s been Manchin’s argument ever since. It’s what he says on television, and it’s what he says directly to constituents, in town hall meetings all over the state. In fact, when Manchin describes helping people get health care as “the greatest gift in the world” ― or accuses Republicans of voting “to throw the most vulnerable in West Virginia out into the cold” ― it’s easy to imagine a Brooklyn twang instead of an Appalachian one, and think that you’re listening to Sen. Bernie Sanders (I-Vt.).
+
+West Virginia has the second-highest number of Medicaid enrollees in the country. Huge cuts were bound to alienate Manchin.
+To be clear, the philosophical gap between Manchin and Sanders remains substantial. But the effort to repeal the Affordable Care Act appears to the be the most unpopular major legislative initiative in three decades, and it has brought them together over health care. It’s particularly easy to oppose in West Virginia, which has benefited enormously from the Medicaid expansion. Today, 26 percent of residents are on the program, the second-highest percentage in the country. (Repeal legislation would have both ended federal funding for the Medicaid expansion and cut funding for the rest of the program.)
+
+The surprise isn’t that Manchin took such a firm stand against repeal. The surprise, really, is that Shelley Moore Capito, West Virginia’s Republican senator, didn’t. 
+
+It’s tempting to imagine what might have happened if Trump and Republicans hadn’t put forward such extreme ideas on health care and taxes ― if they’d been content to tinker only with the parts of the Affordable Care Act that are truly struggling, or if they’d been willing to give more ground on tax cuts for corporations and the wealthy. But that’s not what the Republican Party is today.
+
+The reality of American politics is that the parties have sorted themselves into more ideologically coherent groups in the last few decades, mostly because of issues related to race, pushing them farther apart from one another. But this polarization of the parties hasn’t been equal on both sides. The available evidence suggests that, at least in Congress, Republicans have become more extreme ― in other words, they are more conservative than the Democrats are liberal.
+
+One way to measure this is by using a widely cited index that a group of political scientists developed and now post at voteview.com. For the current Congress, the mean ideological score for Republicans is 0.49. The corresponding score for Democrats in Congress is negative 0.38 ― which is another way of saying that overall, Republicans are roughly 29 percent more extreme, at least based on their voting patterns.
+
+When Trump became president, it was easy to assume he might pull the party back from the ideological edge, at least on bread-and-butter issues. As a candidate, he kept promising to attack corporations and the rich, while protecting the social welfare programs that middle-class Americans, especially the older white ones that make up his base, value so highly.
+
+But he’s done exactly the opposite since taking office. And unlike Bush, whose approval ratings were comfortably above 50 percent even before the terrorist attacks of Sept. 11, 2001, Trump’s have never hit 50. His approval rating has been hovering in the 30s since May. 
+
+There’s every reason to think that Manchin, McCaskill, and the other Democratic senators opposing Republican tax cuts and repeal plans genuinely find the proposals objectionable on substance. But there’s every reason to think at least some of those Democrats would have been a lot more timid if they’d been up against a president whose agenda wasn’t so wildly out of step with the public ― and whose own poll numbers weren’t the weakest in modern history.
+
+
+&&&&&
+
++++++
+
+The GOP Crusade Against Obamacare’s Mandate Says A Lot About How The Party Changed
+
+2017-11-25
+
+They were the ones who first put the idea on the agenda.
+
+Senate Republicans are set to vote next week on tax legislation that would eliminate the financial penalty for people who don’t get health insurance, often called the “individual mandate.” And plenty of Republicans seem positively giddy about the prospect. “Getting rid of Obamacare’s tax on people who choose not to buy a plan or can’t afford the premiums is the right thing to do,” Sen. Bill Cassidy (R-La.) said.
+
+Republicans and their supporters have been bashing the individual mandate so loudly and so vociferously that it’s easy to forget this outrage is a relatively recent phenomenon. Not so long ago, it was easy to find GOP officials and conservative intellectuals who supported the mandate, and not simply because they thought it was the smart thing to do. They also thought it was the right thing to do. In fact, they were the ones who first put the idea on the political agenda.
+
+The story of how Republicans first came to this conclusion and then abandoned it is a pretty good parable for how the GOP has changed in the last 30 years. It also says a lot about the people who will suffer as their efforts to unwind the Affordable Care Act go forward.
+
+The Mandate Was A Conservative Idea Originally
+
+Most historians trace the mandate back to a 1989 paper by Stuart Butler, who at the time was director of domestic policy studies at The Heritage Foundation. This was a different era, when influential conservative policy thinkers endorsed universal coverage, at least in principle, but wanted to avoid straightforward expansions of government programs or new requirements that employers pay for insurance.
+
+Butler’s proposal envisioned a fine for people who did not get insurance, along with generous new subsidies to make coverage more affordable. And the two went together for a reason: “This requirement would imply a compact between the U.S. government and its citizens,” Butler explained. “In return for the government’s accepting an obligation to devise a market-based system guaranteeing access to care and protecting all families from financial distress due to the cost of an illness, each individual must agree to obtain a minimum level of protection.”
+
+Butler also wanted to avoid a “free rider” problem. Bound by professional ethics and law (the 1986 Emergency Medical Treatment and Active Labor Act), doctors and hospitals would almost always provide care to uninsured people who needed it, Butler knew. But they would also pass the costs of that care onto the rest of society in the form of higher charges for paying customers ― unless, because of a mandate, everybody had insurance.
+
+“If a man is struck down by a heart attack in the street, Americans will care for him whether or not he has insurance,” Butler said. “If we find that he has spent his money on other things rather than insurance, we may be angry but we will not deny him services ― even if that means more prudent citizens end up paying the tab. ...Each household has the obligation, to the extent it is able, to avoid placing demands on society by protecting itself.”
+
+Butler’s call for a health insurance requirement did not generate much of a response at the time. The reality is that not many Republicans were even thinking about the subject in the late 1980s. But that changed a few years later, after Bill Clinton became president and focused on health care as his big domestic policy priority. Desperate to show they had an alternative that would achieve the same basic goals, 20 Republican senators co-sponsored a bill that included an individual mandate.
+
+That represented nearly half of the GOP’s Senate caucus, as Avik Roy, now president of the Foundation for Research on Equal Opportunity, later noted in Forbes. Among those Republican co-sponsors were Charles Grassley of Iowa and Orrin Hatch of Utah, both of whom are still in the Senate today. And it made sense, too, because Butler’s argument emphasized individual responsibility, as Republicans frequently do.
+
+Republicans ultimately succeeded in blocking Clintoncare, and when they did interest in GOP universal coverage plans vanished almost as quickly as they’d appeared. But years later, in Massachusetts, then-Governor Mitt Romney, also a Republican, decided the mandate should be part of his state’s initiative to make coverage universal. He cited the very same logic Butler had ― in part, perhaps, because he’d worked with Heritage on crafting his plan. “It’s the ultimate conservative idea, which is that people have responsibility for their own care, and they don’t look to government to take [care] of them if they can afford to take care of themselves,” Romney said in 2005.
+
+By this time, Democrats were also embracing the mandate, partly because they understood it would encourage healthy people to enroll ― and partly because they hoped that, by trying to pass a system with conservative elements, they could help secure Republican support for universal coverage in the future. For a short while it looked like the gambit might work. In 2009, as Congress was writing what would become the Affordable Care Act, Grassley told Fox News: “Everybody has some health insurance costs, and if you aren’t insured, there’s no free lunch, somebody else is paying for it. … I believe there is a bipartisan consensus to have an individual mandate.”
+
+After Obama Embraced The Mandate, Republicans Rejected It
+
+But then President Barack Obama, who had resisted calls for a full mandate during his presidential campaign, came around to the idea himself. And like everything else Obama touched, the idea became toxic on the right ― eventually attracting the ire of pretty much every leading Republican, including Hatch, who claimed he reconsidered after thinking through the constitutional issues.
+
+A lawsuit challenging the mandate failed thanks to a narrow Supreme Court ruling in 2012, but Republicans never gave up their efforts to get rid of it. And now President Donald Trump has picked up the cause. If Congress won’t get rid of it through legislation, Trump has said, he will use his executive authority to undermine it.
+
+So what explains the shift? For the likes of Hatch, motivated reasoning ― that is, adjusting policy beliefs to fit political situations ― seems like an obvious factor. As Ezra Klein observed in a 2012 New Yorker article, it’s simply not credible to think Republicans who spent two decades supporting or at least tolerating a policy suddenly decided, upon its enactment, that it violated the constitution. More likely, Republicans had committed themselves to opposing “Obamacare” no matter what (as subsequent reporting by journalists Steve Brill and Michael Grunwald confirmed) and these officials changed their positions.
+
+But the ideological composition of the Republican Party has changed too, especially in the last few years. The logic of the mandate depends on a recognition that everybody will need health care at some point, because everybody can get sick or injured, and that society has some obligation to provide that care. That was Butler’s whole point ― and Romney and Grassley’s too.
+
+These days it’s tough to find conservatives or Republicans willing to say the same thing. Not coincidentally, a common element in each Obamacare repeal proposal Republicans tried to pass this year was an effort to isolate people with serious medical problems, by undermining guarantees of coverage for pre-existing conditions. These bills also called for dramatic reductions in funding for insurance subsidies and for Medicaid. Had any of those measures become law, the financial burden for high medical bills would have fallen more squarely on the people who incur them, and less on society as a whole. 
+
+None of that is to say the mandate is sacrosanct or that serious people, particularly libertarians, can’t argue against it in good faith. The penalty really is a burden for some people, many of them lower- and middle-income. It’s also paternalistic, which is something that makes many conservatives genuinely uncomfortable. But it’s telling that, as these efforts to repeal the mandate move forward, only one Republican senator, Susan Collins of Maine, is talking seriously about different policy mechanisms that could achieve the same basic goals of spreading the financial burden of illness and keeping a stable market for comprehensive coverage.
+
+The rest are talking about jettisoning the mandate without a real replacement ― a move that would mean fewer people with insurance, higher premiums for those who hold onto coverage and less stable insurance markets generally. Apparently that outcome is ok with the vast majority of Republicans and their allies. That’s quite a statement about the party’s priorities.
+
+
+&&&&&
+
++++++
+
+Lisa Murkowski Says She’s OK With Killing The Health Insurance Mandate
+
+2017-11-21
+
+Projections suggest millions will lose coverage; the Alaska senator says she simply wants to allow choice.
+
+Sen. Lisa Murkowski (R-Alaska) cast a decisive, dramatic vote to save health care for millions of people over the summer. The chances of her doing it again just went way down. 
+
+With Republicans preparing to vote on tax cut legislation next week, Murkowski announced on Tuesday that she would not oppose the bill simply because it includes a provision repealing the Affordable Care Act’s individual mandate.
+
+Murkowski made the announcement in an op-ed for the Fairbanks Daily News-Miner. And she was careful not to promise she’d vote for the final tax legislation.
+
+That legislation would repeal a variety of corporate and personal taxes. But most of the cuts that benefit lower- and middle-income taxpayers are temporary and, once they expire, half of them would actually end up paying higher taxes, according to official estimates.
+
+Those numbers could help sink the bill, which is expected to get no Democratic votes and thus needs 50 of the Senate’s 52 Republicans to vote for it. But Murkowski’s statement about the mandate leaves open the possibility she’d be one of the 50.
+
+The individual mandate is a requirement that people either obtain insurance or pay a fine to the government. It is among the least popular elements of the Affordable Care Act, but it also serves some important functions ― chief among them, giving healthy people financial incentive to sign up for coverage so that insurers can spread the burden of medical bills broadly and hold down premiums.
+
+The mandate also plays a critical role in boosting enrollment among low-income people who, absent the requirement, might never check out their options. Once they do, many discover they are eligible for deeply discounted private coverage or for Medicaid, which is basically free to them.
+
+In the op-ed, Murkowski said she favored repeal of the mandate because it “simply restores to people the freedom to choose. Nothing else about the structure of the ACA would be changed. ... The only difference would be is if you choose to not buy health insurance, the government would not levy a tax on you.”
+
+She noted that insurance for some Alaskans buying coverage on their own has been far more expensive than they could reasonably afford ― and that for those people who decide coverage isn’t worth the money, the mandate penalty can be steep.
+
+All of that is true. But precisely because of those complicated secondary effects ― healthy people shirking coverage, low-income people not exploring their options, and so on ― the number of people without insurance would rise both in Alaska and across the nation, while premiums would end up even higher than they would have been otherwise.
+
+By 2027, absent a mandate, the number of Americans without coverage would rise by 13 million, while premiums would be up an additional 10 percent, according to the most recent assessment by the Congressional Budget Office ― although the CBO is currently re-evaluating its model, and Republicans say the agency wildly overestimates the mandate’s effects.
+
+Fear of injecting health care into the tax debate ― and losing people like Murkowski, who cast one of three critical votes against a repeal bill in July ― was one reason GOP leaders were initially hesitant to add mandate repeal to their tax bill. But they were desperate for money to offset their $1.4 trillion tax cut, and repeal of the mandate frees up about $338 billion, according to CBO, because the federal government would end up spending so much less paying for Medicaid and subsidized insurance.
+
+Of course, if Republican critics of the CBO are right and the estimate of lost coverage is way too high, then eliminating the mandate won’t generate nearly as much revenue, either ― meaning the tax cut would leave an even bigger hole in the federal budget.
+
+
+&&&&&
+
++++++
+
+Nobody Is Really Sure How Obamacare Enrollment Is Going This Year
+
+2017-11-19
+
+The early signs look good. It’s not clear how much they mean.
+
+TAMPA, Florida ― The Affordable Care Act clearly isn’t “dead,” as President Donald Trump declared a month ago.
+
+But despite some surprisingly large sign-up numbers for the first two weeks of open enrollment, it’s way too early to tell just how big a toll Trump’s war on the program has taken ― or how many people will end up with insurance by Dec. 15, the deadline for obtaining 2018 coverage.
+
+That’s what you’ll hear from most experts who follow the issue closely. It’s also what you’ll hear from people like Jodi Ray, who is the project director for Florida Covering Kids and Families, a nonprofit that has spearheaded state efforts to get residents health insurance under “Obamacare.”
+
+Ray has been there since the program’s beginning, going back to late 2013, when the website didn’t work, and when a combination of plan cancellations and sudden rate hikes sparked an uproar. For a while, it looked like the whole system might just fall apart. It didn’t, of course, and Florida would go on to have some of the largest signup numbers of any state in the country.
+
+This year, Ray says, interest in plans seems even stronger. 
+
+She says she’s seen it at her office and at walk-in enrollment events, like one at the University of South Florida on Wednesday, where a group of “navigators” (the Affordable Care Act’s official enrollment advisors) kept busy with a steady stream of consumers all morning long. 
+
+Ray has heard similar accounts from her contacts around the state ― including enrollment counselors in the small, rural counties that are traditionally the hardest for organizations like hers to reach. “They said this year, they have been busier than they have ever been, which astonishes me.”
+
+The numbers tell a similar story. Through the first two weeks, 1.5 million people signed up for private insurance through HealthCare.gov, the Department of Health and Human Services reported on Wednesday. That’s roughly 50 percent more than last year’s sign-ups after two weeks.
+
+
+CHRIS MCGONIGAL/HUFFPOST
+Jodi Ray, director of Florida Covering Kids and Families, says sign-ups have been brisk. But she’s got plenty of worries, too.
+States that run their own online marketplaces, such as California and Minnesota, are reporting similar surges. Charles Gaba, the analyst who runs ACAsignups.net, says that he expects sign-ups on HealthCare.gov to pass 2 million over the weekend, with enrollments from state-run marketplaces bringing the national total to around 4 million.
+
+But “nobody is calling trends yet,” Ray warns, and it’s easy to see why she is wary. In the past, open enrollment has extended into January. With the much shorter period, accelerated sign-ups are necessary just to hit last year’s mark.
+
+Meanwhile, organizations like hers are operating with fewer financial resources, because the Trump administration decided to slash federal support.  (Florida’s Covering Kids took a cut of about $900,000, out of a total $5.8 million budget, according to Ray.) Nor can they can count on the usual barrage of national advertising to promote enrollment, because the Trump administration pulled way back on that spending, too.
+
+The scaled-back outreach seems especially troubling because Republican efforts to repeal the program appear to have created a great deal of confusion over its status. “We’ve got people calling us and saying they stopped paying their premiums, because they thought it was all gone,” Ray said.
+
+Still, the Affordable Care Act has proven surprisingly resilient in the past -– and it may be doing so again, sometimes for reasons that are surprising a lot of experts. A case in point is the way Trump’s most well-publicized effort at sabotage has played out.
+
+
+CHRIS MCGONIGAL/HUFFPOST
+Open enrollment events across Florida have been drawing steady, strong crowds, according to organizers.
+
+In October, Trump finally carried out his threat to stop a set of vital payments to insurance companies. By that time, several insurers had already left the market, in no small part because they feared such a move was coming. Those that remained jacked up their premiums. But in most states they did so in a way that shielded some or all of their customers ― and, for a variety of complicated reasons, it means that lower-income consumers are actually getting even more assistance than they would have otherwise.
+
+It’s a clumsy solution that hasn’t worked for everybody. The number of upper-middle-class consumers facing high, sometimes unaffordable premiums is going up. And it was already pretty high, for reasons that have as much to do with the program’s design as anything the Trump administration did.
+
+But people who make a little less money, and thus qualify for the law’s financial assistance, are generally getting a better deal this year. Either they can spend the same amount of money and get a better plan, or they can keep the same plan and just spend less on it.
+
+Online brokers, like HealthSherpa, have noticed a shift ― with average lower premiums coming down and interest in “gold” plans, the more generous alternative to traditional “silver” plans, ticking up. And although its sample is not necessarily representative of the whole, officials at Covered California, that state’s marketplace, reported last week they are seeing the same two trends among their consumers.
+
+
+CHRIS MCGONIGAL/HUFFPOST
+Hilta Tanis (left) talks to healthcare navigator Sandra Wells during an open enrollment event at the University of South Florida in Tampa.
+Strange as it may sound, all the turmoil may be helping too ― or, at least, having more of a mixed effect than everybody was expecting as recently as last month. At another open enrollment on Wednesday, sponsored by the Health Council of South Florida and held in northwest Miami, Jesse Miro, one of the Health Council’s navigators, told HuffPost that confusion over news reports may be prompting more people to ask questions ― and, ultimately, to check out their coverage options online, where they are discovering the deep discounts.
+
+Like Ray, Miro said he’s heard of people dropping coverage because they thought the program had ended. But now he’s wondering if the prospect of repeal is having the opposite effect on at least some consumers ― prodding them to sign up, or at least investigate their options, because they think that once they have some insurance it will be easier to hold onto it. “Some seem to think that if they get in now, they’ll get locked in ― end up grandfathered somehow.”
+
+Still, the people who work in outreach say that, with less publicity and less funding from Washington, they will have less capacity to help people who are hardest to reach, or whose circumstances are the most complicated.
+
+“I have a woman, she and her kids were all uninsured ― one college aged, one high school, she’s a waitress in a restaurant,” Ray said on Wednesday, describing a family with a particularly complex income situation. “We enrolled them yesterday, for first time in years. All she could talk about is scheduling her first appointment for a checkup. She was ecstatic. But analyzing health insurance for her was very involved.”
+
+
+&&&&&
+
++++++
+
+The GOP Tax Cut Plan Opens A New Front In The War On Obamacare
+
+2017-11-15
+
+Among the casualties: Millions of Americans who wouldn’t have health insurance.
+
+Here we are again, talking about a Republican proposal that would rattle health insurance markets, increase overall premiums and leave millions without coverage ― all while freeing up money for tax cuts that would disproportionately benefit corporations and wealthy Americans.
+
+The new twist this time is the context. Full repeal of the Affordable Care Act is off the agenda, at least for the moment. Instead, Senate Republicans are talking about a bill, the “Tax Cuts and Jobs Act,” whose primary purpose is to reduce taxes. Until recently, health care wasn’t really part of the conversation.
+
+Then math intervened. The GOP’s tax cut will end up costing somewhere in the neighborhood of $1.5 trillion, according to official government projections, and finding offsets that will get 50 votes has been difficult. Desperate to find a source of money that can work politically ― and, perhaps, to take a shot at Obamacare while they can ― Republicans have set their eyes on the Affordable Care Act’s individual mandate.
+
+The mandate is the requirement that people get insurance or pay a fine. Without that mandate in place, projections suggest, the federal government would end up spending $338 billion less.
+
+But that savings would appear only because fewer people were signing up for Medicaid or subsidized private insurance. Overall, the number of people without coverage would rise ― by 4 million initially, and by 13 million within a decade, according to the nonpartisan Congressional Budget Office.
+
+Republicans are already trying to sell their plan by emphasizing what they consider the upsides of this deal ― like the fact that millions of people on the hook for the penalty would no longer have to pay it and that people who resent the mandate as an intrusion on liberty would no longer have an intrusion to resent. Both claims are true. 
+
+But insurers would almost surely react by raising premiums even higher than they would otherwise and, in some cases, abandoning markets where they were planning to keep selling coverage. As for the millions without insurance, they would be newly exposed to crippling medical bills. By and large, they would be lower- and middle-income people ― who almost certainly would also benefit the least from the broader tax cuts Republicans have in mind. 
+
+Why the mandate exists
+
+The mandate has always been among the Affordable Care Act’s least popular features. But it also helps the law’s other, more popular features to function.
+
+With the penalty in place, healthy people are more likely to sign up for coverage, allowing insurers to spread the financial burden of medical bills broadly. That tends to keep premiums lower. Without the penalty in place, healthy people are more likely to take their chances without coverage, at least temporarily. That leaves insurers with a pool of people in relatively worse health. And the more the pool tilts toward people with serious medical bills, the higher premiums must go to cover their expenses.
+
+Taking away the mandate would likely set off a chain reaction, with insurers raising premiums in order to compensate for a deteriorating risk pool. By design, the Affordable Care Act’s tax credits rise along with premiums, so the people who qualify for those credits ― anybody with household income of less than four times the poverty line, or roughly $98,000 for a family of four ― would be shielded from the effects, at least for the short term.
+
+Those making more would face the brunt of the increase, to the point that some would drop coverage and make the problem worse. Insurers unable to find an equilibrium where premiums covered their expenses would drop out altogether.
+
+Nobody really disputes that this dynamic would play out. The question is just how far it would go ― and how much it should matter.
+
+What ending the mandate would mean
+
+Conservatives have long said that the CBO overestimates the effect of the mandate. Although the agency’s projections track closely those of other widely respected models, the CBO has said it is reevaluating its model. When that process is over, it might end up predicting that the coverage loss is lower than it says now.
+
+Conservatives also say that coverage losses shouldn’t matter when people are choosing not to get health insurance ― since, after all, it’s merely people getting to act on their preferences. Those opting not to get coverage would end up keeping more of their wages instead of handing over those penalty payments to the federal government.
+
+But even if the real effect of repealing the mandate is significantly lesser than the current CBO projections suggest, that would still mean the number of people without health insurance would rise by several million. In other words, it would be a lot of people.
+
+And many of those going without insurance would be people who found it less affordable because of higher premiums ― or because, absent the mandate, they didn’t know to investigate their options. Sometimes people check out prices because of the mandate only to discover, happily, that they are eligible for deeply discounted private insurance or Medicaid, which is basically free.
+
+Also, some of those people passing up coverage are bound to get injured or sick anyway ― and will be on the hook for medical bills that, absent health insurance, they won’t be able to pay.
+
+A key factor, difficult to pin down, would be how insurers react. Over the last year, the Trump administration has carried on its war against Obamacare by trying to undermine it at every turn ― whether it’s cutting the funds for advertising and outreach or stopping some payments designed to offset the cost of special, more generous policies for lower-income consumers.
+
+The effect of these moves has been mixed; as it turns out, many lower-income people can now get cheaper coverage because of how insurers reacted to the end of those payments. But together these moves have taken a severe toll on insurer confidence that the federal government will manage newly reformed insurance markets responsibly. If Congress passes a mandate repeal and Trump signs it, still more insurers are likely to abandon coverage markets.
+
+
+WIN MCNAMEE VIA GETTY IMAGES
+Sen. Ron Wyden (D-Ore.) speaks during a Senate Finance Committee session Tuesday on the GOP tax reform bill. Senate Republicans announced their intention to include a repeal of the Affordable Care Act’s mandate for taxpayers to have health insurance in the tax bill. 
+The availability of those tax credits, which rise as premiums do, would still guarantee carriers millions of customers ― enough, perhaps, to keep at least one insurer in every market. And, without actual repeal legislation, the Affordable Care Act’s reforms would remain in place, still helping a substantial number of Americans get coverage.
+
+But, with coverage levels dropping by the millions, the net effect would almost certainly be some combination of worse access and more financial hardship from medical bills.
+
+Why Republicans want to do this now
+
+All of this would be for the sake of that huge GOP tax cut. Republicans are desperate to pass it because they have strong philosophical objections to taxes and they believe, sincerely, such taxes hobble the nation’s economy. Republicans are also desperate to produce a significant piece of legislation ― a problem they have mainly because their attempts repeal the Affordable Care Act have not succeeded.
+
+Those efforts have failed, so far, in no small part because the public reacted badly to what repeal would entail. Americans are well aware of the law’s shortcomings, which include coverage that is already unaffordable for many, and large majorities would support real efforts to fix those problems. Undoubtedly many would like a tax cut, as well.
+
+But for all of the misgivings about Obamacare, the public appears to have no stomach for undoing what the program has achieved. And that’s precisely what yanking away the mandate would accomplish.
+
+
+&&&&&
+

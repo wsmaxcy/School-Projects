@@ -1,0 +1,33 @@
++++++
+
+Democrats Are Overperforming In Special Elections Almost Everywhere
+
+2017-06-05
+
+republican greg gianforte’s 6 percentage point win in last month’s montana special election was just ambiguous enough that both sides could find something to like. democrats pointed to the narrowness of gianforte’s win in a state that president trump won by 20 percentage points as evidence that an anti-trump wave is building for 2018. but to hear republicans tell it, after gianforte reportedly assaulted a reporter, anything short of a democratic win should be considered an underperformance.
+
+as the extraordinary incident of the election-eve body slam goes to show, it’s never a good idea to draw conclusions about the national political environment from a single special election; there are too many confounding variables at play. but many special election results taken together have shown some predictive power over which party will do well in the next general election. the problem is that, with only one other special u.s. house general election under our belts so far — in kansas’s 4th congressional district — the sample size is still too small to help us draw firm conclusions.
+
+luckily, however, u.s. house elections aren’t the only special elections that have taken place this year. since trump took office, voters have gone to the polls 24 times1 in 13 states to fill vacancies in their state legislatures — giving us a data set that is robust enough for us to start identifying patterns. and the results in these races echo the returns from kansas and montana: democrats have overperformed almost everywhere.2
+since jan. 20, democrats have won 12 special legislative elections, and republicans have won 11.3 but because so many special elections take place in safe districts, win-loss records can only tell you so much. instead, you’re better off comparing their final results to the district’s baseline partisanship, which fivethirtyeight measures using a weighted average of the last two presidential election results4 as calculated by daily kos.5 and in the 15 special legislative elections to pit at least one democrat against at least one republican,6 12 have seen a net swing toward the democrats.
+
+
+state legislative special elections have also swung left
+*2017 special election results are unofficial.
+**democratic and republican vote shares are for all candidates of each respective party.
+the democratic lean compares the district’s voting patterns to the nation. for the presidential election margin, the 2016 election is weighted 75 percent and the 2012 election is weighted 25 percent.
+
+sources: secretaries of state, daily kos
+
+wide variation exists in these results, some of which can probably be explained by local factors. for instance, the gop’s two best performances both came in connecticut, whose democratic governor is deeply unpopular; similarly, one of the democrats’ best improvements came in oklahoma, which has likewise soured on its republican governor.
+
+but, overall, the trend is clear. democratic special-election candidates have improved their margins over republicans relative to their district’s partisan lean by an average of 14.4 percentage points. this pattern has popped up in districts from rural minnesota to the suburbs of atlanta to the black belt of louisiana. in two instances (new hampshire house district carroll 6 and new york assembly district 9), the shift was enough to flip the seat from red to blue. as trump himself might say, “there’s something going on.”
+
+related: politics podcast
+politics podcast: pittsburgh vs. paris
+indeed, the few federal special election results we have so far in 2017 would fit right into the table above. in the april 18 primary in georgia’s 6th congressional district, for instance, the margin shifted 7.4 points to the left7; in its may 16 general election, the margin in georgia senate district 32 (which has a lot of overlap with the 6th congressional district) shifted 7.9 points in the same direction. in other words, the same movement was evident in both federal and state elections, giving democrats hope that their strength in legislative elections in 2017 bodes well for their chances in next year’s midterms.
+
+but legislative special elections aren’t good only for predicting who will control the house of representatives in two years. they’re also leading indicators of future gubernatorial and — get this — state legislative results. if nothing else, 2017’s legislative elections so far put democrats on track to make big gains in statehouses across the country in 2018 — the sector of government where the party suffered the most during the obama years. that’s important because the next round of redistricting is less than four years away, meaning 2018 will decide many of the governors and legislators who will draw the congressional districts of the 2020s. from the smallest of small elections on a random tuesday in this odd year, clues are being dropped about who might hold the balance of power in washington for the next decade or more.
+
+&&&&&
+

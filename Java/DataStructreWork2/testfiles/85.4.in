@@ -1,0 +1,2 @@
+(foo (foo foo 10 foo 4))
+locate foo

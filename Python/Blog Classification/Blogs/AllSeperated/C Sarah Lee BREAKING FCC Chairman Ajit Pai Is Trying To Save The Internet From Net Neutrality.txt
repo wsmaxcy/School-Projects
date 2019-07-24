@@ -1,0 +1,40 @@
++++++
+
+BREAKING: FCC Chairman Ajit Pai Is Trying To Save The Internet From Net Neutrality
+
+2017-11-28
+
+turns out federal communications commission (fcc) chairman ajit pai is a pretty funny guy. at an event tuesday hosted by r street institute in washington, dc, and one that focused on explaining why pai plans on doing-away with the hilariously misnamed “net neutrality” rules, the chairman took a few shots at the hollywood twitterati who fashion themselves experts on internet policy.
+
+responding to the suddenly politically-vocal alyssa milano, who posted this tweet on nov. 20:
+
+ 
+alyssa milano
+
+@alyssa_milano
+i know. we’ve faced a lot of issues threatening our democracy in the last year. but honestly, the @fcc and @ajitpaifcc’s dismantling of #netneutrality is one of the biggest.
+
+pai said, “i’m threatening democracy? really?…if this were ‘who’s the boss’, this would be a ripe time for tony danza to dish out some wisdom,” referring to milano’s time spent as the tv daughter of mr. danza on the 80s sitcom.
+
+at issue is pai’s plan — which he calls “light touch regulation” and would involve renewed oversight by the federal trade commission — to rollback the 2015 rules adopted by the obama administration that regulate broadband providers like at&t, charter, comcast, verizon et al as utilities under title ii. the ostensible reason for the adoption of the 2015 rules was to keep internet providers from blocking web pages or instituting arbitrary rules that would slow connections and limit content to some users.
+
+but as pai noted several times in his remarks, the rules the obama administration adopted were an attempt to fix something that wasn’t broken. the rules that existed prior to 2015, passed in two phases in 1994 and later in 1996’s telecom act, were light on regulation and led to what pai described as a $1.5 trillion investment from the private sector into internet development.
+
+the chairman said he’s simply trying to get back to the looser regulation that was already in place before the obama administration changed it almost 3 years ago.
+
+“there was no market failure that justified the regulatory sledgehammer of title ii,” pai told the crowd in downtown’s historic national union building. he then launched into ways that the “mother-may-i” approach of the obama administration — where providers were at the mercy of a more robust regulatory regime —led to a chilling effect on investment, innovation, and development.
+
+he was also critical of internet giants like google and facebook who have pushed back against his plan on the grounds that the set of rules adopted in 2015 “preserves the consumer experience, competition and innovation online.”
+
+pai said tuesday these companies are mostly interested in maintaining their dominance of the internet. “i don’t blame them for trying,” pai said. “but the government shouldn’t aid in those efforts.”
+
+as for twitter — where pai and his family have been subjected to disturbing threats following tweets from hollywood types with huge followings — pai had some particularly choice words.
+
+“now look: i love twitter,” he said. “but let’s not kid ourselves; when it comes to a free and open internet, twitter is a part of the problem. the company has a viewpoint and uses that viewpoint to discriminate.”
+
+“and unfortunately, [they are] not an outlier. despite all the talk, and all the fear…broadband providers could decide what internet content consumers can see, recent experience shows that so-called ‘edge’ providers are in fact deciding what content [users] see. these providers routinely block or discriminate against content they don’t like.”
+
+the fcc is scheduled to vote on pai’s new plan in december.
+
+&&&&&
+

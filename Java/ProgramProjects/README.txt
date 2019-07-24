@@ -1,0 +1,1 @@
+Created a buch of little toy projects working with basics of java, including get/set, sorting, class interaction, functions, arguments, and other fundamentals.

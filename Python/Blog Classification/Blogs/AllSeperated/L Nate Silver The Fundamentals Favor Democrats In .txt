@@ -1,0 +1,58 @@
++++++
+
+The Fundamentals Favor Democrats In 2018
+
+2017-11-08
+
+democrats had a really good night on tuesday, easily claiming the virginia and new jersey gubernatorial races, flipping control of the washington state senate and possibly also the virginia house of delegates, passing a ballot measure in maine that will expand medicaid in the state, winning a variety of mayoral elections around the country, and gaining control of key county executive seats in suburban new york.
+
+they also got pretty much exactly the results you’d expect when opposing a republican president with a 38 percent approval rating.
+
+that’s not to downplay democrats’ accomplishments. democrats’ results were consistent enough, and their margins were large enough, that tuesday’s elections had a wave-like feel. that includes how they performed in virginia, where ralph northam won by considerably more than polls projected. when almost all the toss-up races go a certain way, and when the party winning those toss-up races also accomplishes certain things that were thought to be extreme long shots (such as possibly winning the virginia house of delegates), it’s almost certainly a reflection of the national environment.
+
+but we didn’t need tuesday night to prove that the national environment was good for democrats; there was plenty of evidence for it already. in no particular order of importance:
+
+president trump’s approval rating is only 37.6 percent.
+democrats lead by approximately 10 points on the generic congressional ballot.
+republican incumbents are retiring at a rapid pace; there were two retirements (from new jersey rep. frank lobiondo and texas rep. ted poe) on tuesday alone.
+democrats are recruiting astonishing numbers of candidates for congress.
+democrats have performed well overall in special elections to the u.s. congress, relative to the partisanship of those districts; they’ve also performed well in special elections to state legislatures.
+the opposition party almost always gains ground at midterm elections. this is one of the most durable empirical rules of american politics.
+so while northam’s 9-point margin of victory was a surprise based on the polls, which had projected him to win by roughly 3 points instead,1 it was right in line with what you might expect based on these “fundamental” factors. for instance, a simple model we developed based on the generic ballot and state partisanship forecasted a 9-point win for democrats in virginia and a 13-point win in new jersey, pretty much matching their actual results in each state.
+
+to put it another way, tuesday’s results shouldn’t have exceeded your expectations for democrats by all that much because you should have had high expectations already. midterm elections — and usually also off-year and special elections — almost always go well for the opposition party, and they’re going to go especially well when the president has a sub-40 approval rating.
+
+so, does that mean that democrats are clear favorites to pick up the house next year? no, not necessarily. i’d say they’re favorites, but not particularly heavy ones. democrats face one major disadvantage, and they have one major source of uncertainty.
+
+the uncertainty is time: there’s still a year to go until the midterms. this could cut either way, of course. the political environment often deteriorates for the president’s party during his second year in office, and one can imagine a variety of factors (from attempting to pass an unpopular tax plan to ongoing bombshells in the russia investigation) that could further worsen conditions for republicans. one can also imagine a variety of factors that would help the gop: democrats overplaying their hand on impeachment; a rally-around-the-flag effect after a war or terror attack; trump quitting twitter. (ok, probably not that last one.) that trump is so unpopular so soon in his term makes all of this harder to predict because there aren’t any good precedents for a president with such a poor approval rating so early on.
+
+democrats also face a big disadvantage in the way their voters are distributed across congressional districts, as a result of both gerrymandering and geographic self-sorting. although these calculations can vary based on the incumbency advantage and other factors, my back-of-the-envelope math suggests that democrats would only be about even-money to claim the house even if they won the popular vote for the house by 7 percentage points next year. the republican ship is built to take on a lot of water, although it would almost certainly capsize if the democratic advantage in the house popular vote stretched into the double digits, as it stands now in some congressional preference polls.
+
+nonetheless, my sense is that the conventional wisdom has, to this point, somewhat underrated the democrats’ chances of having a wave election next year. and it’s for some fairly stupid (although understandable) reasons.
+
+one is in the tendency to fight the last war. journalists and pundits are always chastened by the “lessons” of the most recent election, especially if the outcome was surprising to them. and they usually like to argue that the results represented a realignment or a paradigm shift, rather than — as is more often the case — a fluctuation that came about from a combination of cyclical and circumstantial factors that may not replicate themselves. so they’re often slow to recognize signs that the political climate is shifting in the opposite direction from the supposed realignment, even when they’re really obvious. (like, say, a republican winning a senate seat in massachusetts only a year after the democratic president took office.)
+
+second, the pundit class has a poor understanding of polling, and how it performed in 2016 — and it’s making 2018 punditry worse. as i wrote in our live blog on tuesday night:
+
+[it’s] been interesting to see how television pundits adapt to the post-2016 environment. pretty much everyone on monday morning’s “morning joe” panel predicted that gillespie would win in virginia despite northam’s modest lead in the polls, for instance…
+
+[the] segment was a bit worrisome in that it suggests that political pundits and reporters learned the wrong lessons from 2016. contrary to the conventional wisdom, the polls weren’t that far off last year — they were about as accurate as they’d been in past elections. but they were filtered thru a lens of groupthink that was convinced trump couldn’t possibly win — and so pundits routinely misinterpreted polls and ignored data showing a competitive race.
+
+it’s healthy to take away the lesson from 2016 that polls are not always right… but that polls aren’t always right doesn’t mean that one’s gut instinct is a better way to forecast elections. on the contrary, the conventional wisdom has usually been much wronger than the polls, so much so that it’s given rise to what i’ve called the first rule of polling errors, which is that polls almost always miss in the opposite direction of what pundits expect. that the “morning joe” panel thinks gillespie will win might be a bullish indicator for northam, in other words.
+
+
+if you think numbers like trump’s 37.6 percent approval rating are “fake news” because polls perpetually underrated trump before, then the political climate doesn’t look quite as scary for the gop. however, one needs to be careful about assuming the polling error always runs in the same direction; historically, it’s been just as likely to reverse itself from one election to the next. (for instance, polls lowballed democrats in 2012 but then did the same to republicans in 2014.)
+
+finally, there’s perhaps an unhealthy obsession with the white working-class vote, and its potential to sway the 2018 midterms in favor of republicans. this could be more of a concern for democrats in 2020. but the midterm electorate is typically more educated and better off financially than the presidential-year one. also, most of the pickup opportunities that analysts envision for democrats are in wealthy or at least middle-class areas. on average, the 61 republican-held congressional districts that the cook political report rates as competitive rank in the 65th percentile in educational attainment (as measured by the share of adults with at least a bachelor’s degree) and also the 65th percentile in median household income. some of them are fairly white, and some aren’t — but almost none are both white and working-class.
+
+competitive districts are mostly well-off and well-educated
+demographic ranking for the 61 republican-held congressional districts that the cook political report rates as competitive
+percentile rank among all 435 congressional districtsseat
+
+
+of course, this logic is somewhat circular: if democrats aren’t trying to compete for the white working-class vote, outlets like cook won’t list white working-class districts as being competitive. it’s possible there are some overlooked opportunities, such as in south carolina’s 5th congressional district, which democrats came surprisingly close to winning in a special election earlier this year.
+
+nonetheless, democrats have quite a few pathways toward winning the house that rely primarily on middle-class and upper-middle-class suburban districts, plus a few districts with growing nonwhite populations. many of these are in coastal states or in blue states, including four of them in virginia, four in new jersey, four in illinois, five in new york and eight in california, according to cook’s list. it might not be advisable for democrats to only target these sorts of districts; history suggests that parties usually benefit from competing ambitiously in all sorts of districts and seeing where the chips fall. but it’s plausible for them to do so and reclaim the house. come 2020, though, it will be harder for democrats to win back the electoral college without rebounding among the white working class.
+
+&&&&&
+

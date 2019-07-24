@@ -1,0 +1,1 @@
+week#    approve    dissapprove    no opinion    repApprove    indApprove    demApprove

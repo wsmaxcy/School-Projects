@@ -1,0 +1,1 @@
+Goal: Two people have 4 shirts that match. They are trying to match all 4 days consecutively without telling the other which ones they will wear. This program takes two different methods of solving this problem and comparing the outcome.

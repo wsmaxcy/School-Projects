@@ -1,0 +1,72 @@
++++++
+
+Even With ‘Fixes,’ The GOP Tax Cut Plan Would Likely Damage Health Care
+
+2017-11-19
+
+fewer people would have insurance — and more would struggle with medical bills.
+
+the biggest political hang-up in the debate over the senate republican tax cut bill is likely to be its potential effect on the deficit. but that’s not the only issue, or even the most important one. there’s still the matter of the health insurance mandate ― the requirement, which became law as part of the affordable care act, that all americans get coverage or pay a fine.
+
+the tax cut bill would eliminate the mandate. if that happens, experts warn, both health insurance premiums and the number of people without coverage will go up. insurers would be more likely to exit markets altogether. 
+
+now some republicans are talking about passing yet another piece of legislation, in order to make sure insurance markets don’t deteriorate. it’s not a crazy idea. but the new legislation would have only a modest impact ― and, even then, only on a temporary basis.
+
+premiums would still go up. more people would still end up without health insurance, struggling to find care when they need it or facing the prospect of crippling medical bills. insurers would still have new reason to leave.
+
+and that’s assuming this new proposal could even get through congress, which is no sure thing.
+
+effects of eliminating the individual mandate
+
+the mandate gives healthy people more financial incentive to get insurance. and when more healthy people sign up, insurers can spread the cost of high medical bills more broadly. that holds down premiums.
+
+the mandate also encourages people to investigate their health insurance options. when that happens, many who might have assumed coverage was unaffordable, or at least not worthwhile, tend to discover that they can get cheap, highly subsidized private policies ― or that they qualify for medicaid, which is basically free.
+
+notwithstanding these benefits, the mandate remains unpopular ― in part because many people see it as government dictating personal choices and intruding upon liberty, and in part because the penalty can be steep. republicans have been trying to get rid of the mandate ever since it became part of “obamacare,” even though many of them once supported the idea. earlier this month, they amended their tax bill to include elimination of the mandate, largely because they were desperate to find ways to offset the cut’s projected cost. with no mandate in place, the federal government would have an extra $338 billion over the next 10 years, according to the congressional budget office. that’s about a quarter of the tax cut’s price tag.
+
+
+andrew harrer/bloomberg via getty images
+sen. susan collins (r-maine) knows a thing or two about insurance markets.
+but the only reason that $338 billion would materialize is because, by the cbo’s reckoning, the number of people getting medicaid and subsidized private policies would plummet. some people would be choosing not to get coverage, because of the price and the value they’d see in the coverage; others would be unaware that coverage was available, or unaware of what it would actually cost them. but the effect would be the same: the number of people with insurance would drop by 13 million.
+
+and it wouldn’t just be any old 13 million people. the ones who would end up without coverage would, on average, tend to be relatively healthy, since they are the ones who would feel most comfortable risking big medical bills. insurers, left with a pool of beneficiaries in relatively worse health, would respond by raising premiums, so that ― again, according to the cbo ― insurance would be 10 percent more expensive than it would be if the mandate were still in force.
+
+one senator’s idea for reducing the damage
+
+it’s possible the cbo is overestimating the mandate’s impact, but most serious observers agree that without the requirement and penalty, premiums would rise and insurance rolls would shrink by some significant amount. among those who have made that point is a republican senator, susan collins from maine ― who, not coincidentally, was the chief regulator of her state’s insurance industry before she went to washington. in other words, she knows something about insurance.
+
+collins, who has expressed a variety of objections to the gop tax bill, said that one condition for getting her vote would be passing two pieces of legislation designed to shore up health insurance markets.
+
+the first is a bipartisan bill from sens. lamar alexander (r-tenn.) and patty murray (d-wash.) that would resume a set of payments to insurance companies that president donald trump halted last month. that cutoff spooked insurers, and the alexander-murray bill, in theory, could help restore some of that confidence. but it wouldn’t address the entirely new problems that eliminating the insurance mandate would create. “tacking alexander-murray onto the partisan republican tax reform effort is like trying to put out a fire with penicillin,” murray said in a press release. “it will not do anything to help.”
+
+the second bill collins has in mind could have a more meaningful impact. it’s also a bipartisan proposal, one that collins wrote and sponsored with sen. bill nelson (d-fla.). it would set aside funds for “reinsurance,” which is a way of reimbursing insurers for customers with the biggest medical problems and, thus, the biggest medical bills. the bill has become the subject of serious conversation in the last few days, and on tuesday, at a capitol hill luncheon, trump said he would support passing it as part of a deal to enact the gop tax cut. collins said she was pleased.
+
+as a concept, reinsurance is hardly new. the affordable care act actually had a temporary reinsurance program, operated by the federal government, that expired in 2016. the collins-nelson bill would start up a new version, only this time the federal government would simply put up the funds. states would have to apply for the money and then use it to administer the reinsurance programs themselves. (they’d also have the option of creating “invisible high risk pools,” which would function similarly.)
+
+one way to think of reinsurance is that it would provide insurers with some of the money that, with a mandate in place, they would get from healthy enrollees. that would hold down premiums. but the specifics matter, and that’s where the collins-nelson bill appears to come up way short.
+
+in order to offset the effects of no mandate, the net cost of a new reinsurance program ― including both the initial outlays and offsetting savings that reinsurance would produce ― would have to be somewhere in the neighborhood of $5 billion a year, according to the center on budget and policy priorities and several other experts whom huffpost consulted on tuesday. the collins-nelson bill would allocate less than half that much ― maybe a lot less than half. (it’s not entirely clear from the legislation’s wording.) 
+
+“without the individual mandate, there will be fewer healthy people in the insurance pool to help cover the cost of those who are sick,” larry levitt, senior vice president at the henry j. kaiser family foundation, said tuesday. “the question is whether the government is prepared to kick in enough money through a reinsurance program to make up the difference.”
+
+that $5 billion number is very rough ― and it depends on all kinds of variables, including the accuracy of cbo coverage projections and the extent to which insurers have already adjusted prices to reflect uncertainty over the mandate. (trump has made it clear that if congress doesn’t eliminate the mandate, he will use his executive authority to weaken it.) it’s not too difficult to imagine a good-faith negotiation over reinsurance producing legislation significant enough to make a real impact on premiums.
+
+but the impact wouldn’t last ― at least not without further, costly amendment. the collins-nelson bill would appropriate money for just two years. the effects of mandate would last indefinitely, which means that, after two years, the reprieve from higher premiums would end. and while reinsurance can help with premiums, it would be unlikely to have a huge effect on coverage numbers, most experts say. that’s because the mandate has a number of more subtle effects on how people behave. it prods people to enroll out of a sense of obligation, and it gets people thinking about health insurance more generally.
+
+the net cost of a new reinsurance program would have to be somewhere in the neighborhood of $5 billion a year. the collins-nelson bill would allocate less than half that much — maybe a lot less than half.
+insurers know this ― and that’s one reason the mandate may be more important than it seems. most carriers lost money in the early years of the affordable care act, because the new system simply hasn’t worked as well as they, or the system’s architects, had hoped. then, just as insurers were learning how to succeed in the newly reformed markets, trump took over and began undermining the program, by slashing funds for outreach and cutting off subsidies that insurers needed to offset some of their costs.
+
+taking away the mandate could drive insurers away, reducing choice and threatening once again to create “bare counties” ― that is, places where no insurers offer coverage.
+
+the big unknowns in policy and politics
+
+whether insurers would actually go that far, and leave whole swaths of the country without any carriers, is difficult to say. but there’s another big unknown, and that’s the question of whether a reinsurance proposal could become law. 
+
+trump’s tuesday endorsement may not mean much, since he has demonstrated repeatedly that he doesn’t understand policy and doesn’t honor his own commitments. and many republicans are sure to oppose anything that smacks of helping obamacare survive. most likely, gop leaders would try adding it to the year-end, must-pass spending bill meant to keep the government functioning. that bill is likely to pass with some republicans voting no and democrats making up the difference anyway.
+
+of course, one reason reinsurance has generated bipartisan support is that democrats in congress ― echoing a variety of state officials, industry leaders and consumer advocates — have come to realize it could address the affordable care act’s very real shortcomings. although the health care law has generally made it easier for americans to get care and pay their medical bills, many people still struggle with high premiums or out-of-pocket costs ― or remain uninsured. reinsurance could help a lot of them.
+
+but if the republican tax cut becomes law, and the mandate goes away, even more people will be in trouble. access to care would almost certainly decline, while financial hardship from medical bills would increase. the collins-nelson reinsurance proposal would be an exercise in damage control ― and a pretty limited one, at that.
+
+&&&&&
+

@@ -1,0 +1,23 @@
++++++
+
+HUGE Mac Security Hole Discovered. Update IMMEDIATELY.
+
+2017-11-29
+
+apple made a terrible mistake with the newest version of macos high sierra. here’s why you need to update your computer today.
+
+
+
+
+file – in this april 30, 2015 file photo, apple ceo tim cook responds to a question during a news conference at ibm watson headquarters, in new york. the dispute over whether apple must help the fbi hack into a terror suspect’s iphone is about to play out in a southern california courtroom. the hearing tuesday, march 22, in u.s. district court in riverside is the first in the battle that has seen cook and fbi director james comey spar over issues of privacy and national security. (ap photo/richard drew, file)
+
+as much as apple has been making their iphone line so secure that government needs help breaking in, it’s shocking that apple could make a mistake this stupid with macos high sierra, but they did.
+
+normally when you change any important settings on your computer, the system will ask you to re-input your password, to ensure nobody has hijacked your computer. but with high sierra, they messed up. all it takes to break into your settings is, when the prompt appears, to enter the username ‘root’ with no password, and they’re in.
+
+once in they can change any security settings on your computer, including the ones that control access to unsigned code, which could allow trojans and viruses to be installed.
+
+update today.
+
+&&&&&
+

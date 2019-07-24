@@ -1,0 +1,52 @@
+Will Maxcy					Homework 5				11/19/2013
+----------------------------------------------------------------------------------------------------------------------------
+#include <stdio.h>
+#include <time.h>
+
+//initialize arrays and global variables
+int dist[9999][9999];
+int src[9999][9999];
+int i,j;
+
+//create version A of loop where data is put in with i,j format
+void versionA()
+{
+clock();//start clock function for loop
+//create for loop with nexted for loop
+for(i=0; i<9999; i++){
+   for(j=0;j<9999;j++){
+      dist[i][j]=src[i][j];
+      }
+   }
+//end clock function and prints seconds taken to complete loop
+printf("Version A took %f seconds.\n", ((float)clock()) /CLOCKS_PER_SEC);
+}
+
+//create version B of loop where data is put in with j, i format
+void versionB()
+{
+clock();//start clock function for loop
+//creat for loop with nexted for loop
+for(i=0;i<9999;i++){
+   for(j=0;j<9999;j++){
+      dist[j][i]=src[j][i];
+      }
+   }
+//print the amount of time to complete loop B
+printf("Version B took %f seconds.\n", ((float)clock()) /CLOCKS_PER_SEC);
+}
+
+main(){//main function used to call both versionA and versionB of loop
+versionA();
+versionB();
+}
+
+----------------------------------------------------------------------------------------------------------------------------
+
+2.)
+a.)The machine that I am currently using has an intel Core i5 quad core chip, each core with its own L1 and L2 cache. L1 cache with size 32kb and L2 with size 256kb. There is a shared L3 cache that supports 6MB of data. This has an operating frequency of 3.4GHz overclocked to 3.8GHz. There are x2 4GB cards of DDR3-1600 main memory. However, I am using Oracle VM Virtualbox to create a virtual machine that only has 2GB allocated main memory to the virtual machine. The virtual machine is running Ubuntu 12.04 LTS 32-bit on top of Windows 7 Home Premium 64-bit OS.
+
+b.)The loop that was Version A on the test sheet ran faster than Version B. Version A completed the for loop and nested for loop which both ad iterated through 9999 times (I changed the number so that there would be a noticeable difference between the two loops) for each 9999 times of the previous loop finished its sequence. Therefore, the task completed nearly 100,000,000 operations! Version A completed its operations in around 6.5 to 7 seconds, the lowest being 6.22000 seconds. Version B completed its tasks in around 8.5 to 9.5 seconds, creating a noticeable difference in operation time and clock speed.
+
+c.)The first loop operation took less time than the first loop operation because when you complete each row first before each column, the data is much closer together in main memory than it would be if you cycled through the array column first. The main memory being closer together shows both good temporal and spatial locality, whereas cycling through the loop column first would cause more cache misses and cost time to the operation speed.
+

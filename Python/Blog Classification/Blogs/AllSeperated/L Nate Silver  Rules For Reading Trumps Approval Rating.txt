@@ -1,0 +1,66 @@
++++++
+
+7 Rules For Reading Trump’s Approval Rating
+
+2017-08-24
+
+it still isn’t entirely clear how much president trump’s reaction to the white supremacist rally in charlottesville, virginia — which was criticized by both democratic and republican lawmakers after he blamed “many sides” for the violence there — has affected his job approval rating. as of wednesday evening, trump’s approval rating was 36.9 percent, according to the fivethirtyeight average, down only slightly from 37.6 percent on the day before1 a counter-protester and two police officers were killed in charlottesville. his disapproval rating was 56.8 percent, up only slightly from 56.3 percent before charlottesville. so perhaps there’s been a little movement — but there hasn’t been the sort of unambiguous decline in trump’s approval rating that occurred at earlier moments in his presidency, such as when republicans began to debate their health care bill in march or after trump fired fbi director james comey in may.
+
+approval ratings, of course, aren’t the only way to judge a president’s standing. the fact that republicans in congress have become much more openly defiant of trump could spell trouble for him later on, whether or not rank-and-file voters were all that moved by charlottesville. nonetheless, approval ratings provide a reality check of sorts, as the media’s guesses about what will or won’t affect public opinion aren’t always accurate. so let me walk you through a few propositions for what i think we’ve learned about trump’s approval through the first seven months of his presidency — and why his approval ratings’ modest response to charlottesville shouldn’t have been all that surprising.
+
+proposition no. 1: it’s easy to fight to a draw when your approval rating is only 37 percent.
+the public gave trump poor grades for his response to charlottesville. in a cbs news poll conducted last week, for example, 34 percent approved of his response, compared to 55 percent who disapproved of it. those are poor marks in a country where partisanship means that public opinion on many issues is divided about evenly.
+
+but a 34-55 approval-to-disapproval ratio is not all that different from trump’s overall approval-disapproval rating. in fact, it’s pretty darn similar. trump’s response to charlottesville was quite unpopular, but he’s not a very popular guy to begin with, so it didn’t necessarily move a lot of voters.
+
+proposition no. 2: be wary of claims that trump has hit his approval rating ‘floor’ — so far, his numbers have been declining, not holding steady.
+but let’s not lose sight of the big picture. despite the relatively small shift after charlottesville, the overall trend in trump’s numbers so far has been toward decline. in fact, a simple linear trend line captures most of the variation in his approval ratings so far2 and implies that his approval ratings are dropping slightly more than 1 percentage point per month.3 if trump were to continue losing ground at this rate — though he probably won’t (see below) — it would be truly catastrophic for him, as his numbers would fall into the low 20s by midterms.
+
+
+that’s not to say the daily and weekly fluctuations in trump’s approval ratings are noise, necessarily. many of them reflect responses to real news events. sometimes trump’s rating will decline for a week or two after a negative news story and then partly recover. but if you repeatedly take one step forward and two steps back, you wind up losing a lot of ground over the long run.
+
+proposition no. 3: if trump does have a floor, it’s probably in the 20s and not in the 30s.
+although predictions of a floor for trump’s approval ratings haven’t matched the evidence all that well so far, there are sound theoretical reasons to think that his numbers will be increasingly resistant to downward movement. i’ve already mentioned the most important of these: partisanship is a strong force in american politics and will protect trump to some extent. and trump’s ratings are already fairly low to begin with, with roughly three americans disapproving of trump’s performance for every two who approve of him — so he doesn’t have all that many more voters to turn off.
+
+still, if you’re looking to estimate when trump really might hit a floor, somewhere in the low-to-mid-20s is a pretty good guess. there’s quite a bit of evidence that points in this direction:
+
+the lowest approval ratings achieved by past presidents are in the low-to-mid-20s. richard nixon was at 25 percent at the time of his resignation, for instance, while george w. bush and harry truman bottomed out at 24 percent and 22 percent, respectively, late in their second terms.
+trump won 23 percent of everyone, regardless of party, who cast a vote in the democratic or republican primaries last year. those are the people who were truly with him from the start.
+a recent monmouth university poll found that 61 percent of trump supporters said they’d never change their minds about him. that works out to about 23 percent of the country overall.4
+about 20 percent of voters say they strongly approve of trump.
+proposition no. 4: expect bigger approval rating changes from issues that cut across partisan lines.
+as i mentioned, the clearest declines in trump’s approval ratings came after he fired comey and at moments related to the health care bill — first in march when the gop began to debate its proposal, and then more recently following the collapse of the bill late last month.
+
+each of these issues cut across partisan lines in awkward ways. republicans, including trump, had praised comey following his letter to congress last october, in which he disclosed that the fbi was investigating further emails that could be pertinent to hillary clinton’s email server,5 and comey had been a republican for most of his life. the white house’s initial rationalization for firing comey — which criticized him for speaking out so publicly about the clinton case — didn’t make a lot of sense. that’s not to say that reaction to the firing didn’t polarize itself along partisan lines — it eventually did. but the firing had to produce at least a little bit of cognitive dissonance for voters.
+
+the various versions of the gop health care bill, meanwhile, were oddly designed hybrids that didn’t give republican voters a lot of reason to get on board. the house and senate plans neither fully repealed obamacare (as republicans had promised to do since 2010), nor did they replace it with the sort of health care program that trump had promised to voters. and the gop bills would especially have hurt lower-income, older voters in rural areas — exactly the sort of people who were most inclined to vote for trump last year.
+
+reactions to charlottesville followed a more predictably partisan course, by contrast. for better or worse, views on racial equality — which groups are advantaged and which are discriminated against — now strongly divide voters between the parties. and trump has attempted to pivot the charlottesville discussion into one about confederate statues, which also provoke a highly partisan response.
+
+proposition no. 5: be especially wary of expecting big changes in trump’s approval rating from ‘cultural’ issues.
+this follows from the previous conclusion about partisan polarization. issues related to race, gender, sexuality, religion and social class have long been an animating force in american politics, of course. but they’ve come back in an especially strong way in the trump era, so much so that views on these questions tend to be stronger markers of support for trump than views on economic and policy issues.
+
+so it’s not that issues like the ones raised by the events in charlottesville are unimportant to americans. it’s that they’re already “priced in” to voters’ overall political orientations and assessments of trump. when new controversies crop up along similar lines, they may not affect voter preferences very much.
+
+proposition no. 6: expect bigger changes when trump’s behavior is truly surprising or defies promises he made to voters.
+speaking of “priced in,” trump’s approval rating hasn’t been affected much when he does something, however controversial, that’s consistent with his previous behavior. if trump’s equivocal stance toward white supremacists after charlottesville was surprising to the media, it was perhaps less so to voters given that trump had been slow to denounce groups such as the kkk as a candidate last year and that his rhetoric had often been racially tinged. in a poll conducted last august, 51 percent of voters described trump as “racist.”
+
+by contrast, the republican health care bill was inconsistent with the promises that trump had made to voters on the campaign trail. and trump had also repeatedly promised to repeal and replace obamacare, which he hasn’t been able to do yet. it’s not surprising, therefore, that health care hurt his numbers more than charlottesville. by this rule, an economic downturn could be especially harmful to trump given that he made very aggressive promises to voters about job creation.
+
+proposition no. 7: trump’s approval rating could change a lot before the midterms — and certainly before 2020.
+so there — it sounds like we’ve got all these rules about trump’s approval rating down pat, which must mean we can pretty much know what to expect from here on out. well, maybe not, because history suggests that presidential approval ratings follow a fairly unpredictable course:
+
+approval ratings aren’t that predictable
+via the fivethirtyeight approval tracker
+first-term approval rating
+
+gerald ford faced a midterm election after less than 216 days in office. kennedy was assassinated before he had an opportunity to be re-elected. lyndon johnson became president after kennedy’s midterm.
+
+jimmy carter and george h.w. bush, who didn’t win re-election, were considerably more popular at this point in their terms than barack obama, bill clinton or george w. bush, who did. ronald reagan was quite popular at this point at this term, but his job approval rating plummeted in advance of the 1982 midterm election — only to recover again, allowing him to win a landslide re-election in 1984. presidential approval ratings shift by a median of 13 percentage points between this point in their terms and the midterm elections — which means that if he’s at 37 percent now, trump could very easily be at 50 percent in november of 2018 — or at 24 percent.
+
+and while there are a couple rules of thumb for how presidential approval ratings behave over the long run, they’re contradictory in trump’s case. on the one hand, approval ratings tend to decline over the course of a president’s term, which would predict a further decrease for trump. on the other hand — in part because of partisanship — approval ratings are mean-reverting, meaning that they tend to rise when they’re lower than roughly 40 percent and to decline when they’re above 50 percent, which would tend to produce an increase since trump’s ratings are below 40 percent now.
+
+so far, the first rule — a president’s rating tends to get worse during his term — has usually won out for trump, and his approval rating has continued to decline. but the first rule won’t necessarily keep winning the tug-of-war with the second rule. partisan gravity could pull trump’s numbers back into the low 40s if he has a couple of relatively calm weeks or months — as he did this april, for example. or an issue that americans aren’t thinking about very much now — say, a military confrontation with north korea — could be pivotal in the 2018 and 2020 elections. the best news for trump is that there’s a long way to go before voters go to the polls again.
+
+&&&&&
+

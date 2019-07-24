@@ -1,0 +1,231 @@
+﻿+++++
+
+Facebook Says It’s Getting Pretty Good At Filtering Out Terrorists
+
+2017-11-29
+
+And it’s working with other companies to scrub the internet of recruitment propaganda.
+
+Facebook is getting pretty good at giving terrorist propaganda a thumbs down, the company said Tuesday.
+
+The internet behemoth said its efforts in artificial intelligence (AI) and other automated filtering processes have become so sophisticated that 99 percent of the terror content related to the Islamic State militant group and al Qaeda that’s removed from the site is detected even before being flagged by a human. And once Facebook identifies photos, videos or text related to terror, it successfully removes 83 percent of the copies it finds elsewhere on the site within an hour.
+
+Facebook declined to share specific data on how much terrorist content it actually deletes on a daily basis, so it’s not clear how much content is removed from the site. 
+
+One of the dangers there is that we’re dealing with a nimble set of organizations that frequently change the way that they behave.
+Brian Fishman, head of counterterrorism policy at Facebook
+Monika Bickert, Facebook’s head of global policy management, and Brian Fishman, head of counterterrorism policy, explained the developments in a release, noting that the company has partnered with numerous other online platforms to share anti-terror data.
+
+That’s notable, considering that the internet in general ― and social media sites in particular ― has become a prime recruiting ground for terrorists. 
+
+Facebook and other companies use “hashes,” or unique identification data, to find and remove terror content across multiple different websites. So a propaganda video first uploaded to Facebook, for instance, could easily be deleted from YouTube and Twitter after Facebook identifies and shares the video’s hash.
+
+Despite the success, Fishman told the Wall Street Journal that Facebook still faces an uphill battle.
+
+“One of the dangers there is that we’re dealing with a nimble set of organizations that frequently change the way that they behave,” Fishman explained. “We need to keep training our machines so that they stay current.”
+
+In addition to sorting out ISIS propaganda, Facebook is also using AI to detect and reach out to people sharing suicidal thoughts. 
+
+
+
+&&&&&
+
++++++
+
+Uber Dealt Serious Blow In Corporate Espionage Case
+
+2017-11-28
+
+“You’re making the impression that this is a total cover-up,” the judge told Uber’s lawyers. “Your client is in a bad way now.”
+
+Uber lawyers were hit with a serious setback on Tuesday after U.S. District Judge William Alsup sided with rival Waymo and agreed to postpone a trial between the two companies.
+
+Alsup concluded that Uber withheld critical evidence that could substantiate Waymo’s claim that its competitor stole highly valuable trade secrets to advance its self-driving car technology. 
+
+The delay gives Waymo ― a self-driving car business owned by Google’s parent company ― time to investigate numerous bombshell allegations revealed in court Tuesday and (presumably) bolster its case. The trial between Waymo and Uber was initially set to begin next week. 
+
+Of particular note was testimony from Richard Jacobs, a former Uber security employee who said the company had a team that specialized in high-level corporate espionage. He said Uber had even gone as far as to hire former CIA agents via contractors in its bid to obtain information on its rivals.
+
+That revelation ― and numerous others related to it ― were contained in a letter that Jacobs’ lawyer provided to federal investigators in May. The sealed letter only came to light early last week after the Justice Department told Alsup that it existed.
+
+“I can no longer trust the words of the lawyers for Uber in this case,” Alsup said. “If even half of what is in that letter is true, it would be an injustice for Waymo to go to trial.”
+
+Any company that would set up such a surreptitious system is as suspicious as can be.
+U.S. District Judge William Alsup
+Other allegations from the Jacobs letter that emerged Tuesday include:
+
+Uber instructed certain employees how to “impede, obstruct or influence any lawsuit” against the company, and used strategies “to ensure we didn’t create a paper trail that came back to haunt the company in any potential civil or criminal litigation.”
+
+Those strategies included housing sensitive, potentially incriminating information on separate servers that weren’t connected to the rest of Uber, and using encrypted, self-deleting messaging technology to orchestrate their efforts.
+
+Uber identified employees at rival companies it believed it could flip in pursuit of competitors’ secrets.
+
+Uber sought to lower its operating costs by “identifying high threat areas where crime takes place” and refusing to operate in them. (The strategy sounds suspiciously like redlining, a racist business practice that’s illegal.)
+
+Jacobs disputed some of the letter’s contents in his testimony, including a claim that Uber stole trade secrets from Waymo.
+
+“I don’t think I did as thorough a job as I wish I could have,” he said, noting he hadn’t read his lawyer’s letter before it was sent. He described parts of the letter as “hyperbolic.”
+
+Uber representatives disputed much of the letter’s contents, including by saying the use of encrypted messaging was a security measure, but they also sought to distance themselves from it.
+
+For example, lawyer Arturo González told Alsup that “nobody on this defense team knew about” Uber using “shadow servers” to hide potentially incriminating information.
+
+The revelation that such servers may have existed is particularly significant. In previous hearings, Uber said searches for stolen Waymo documents on its servers came up largely empty, thereby proving the company’s innocence.
+
+The hearing on Tuesday gave Alsup reason to doubt Uber’s testimony.
+
+“It turns out the server is just for the dummies and the real stuff goes on the shadow system,” he said.
+
+“Any company that would set up such a surreptitious system is as suspicious as can be,” he later told Uber’s lawyers. “You’re making the impression that this is a total cover-up. Your client is in a bad way now.”
+
+
+&&&&&
+
++++++
+
+How To Make Sure Your Donation Goes The Furthest On ‘Giving Tuesday’
+
+2017-11-28
+
+Almost all of those online donation platforms charge administrative fees.
+
+Today isn’t just Tuesday, it’s “Giving Tuesday” ― a day of charity styled after the far less charitable Black Friday, Small Business Saturday and Cyber Monday that precede it.
+
+These days, given the plethora of online fundraising sites, it’s not quite as simple as dropping your spare change in a Salvation Army kettle (though that’s still an option). To help sort out the confusion, and ensure your donations actually end up where you intend, here’s a small rundown of those sites, the fees they collect, and how best to give.
+
+Facebook
+
+Facebook offers a number of charitable giving tools, with fees ranging from 5 percent for approved charitable organizations to 6.9 percent plus an additional $0.30 fee per transaction for personal cause fundraisers in the U.S. (fees vary from country to country).
+
+In celebration of Giving Tuesday, Facebook is waiving fees for donations made to nonprofits. Plus, the Bill & Melinda Gates Foundation has ponied up $2 million to match donations, with a limit of $50,000 per nonprofit.
+
+GoFundMe
+
+GoFundMe, one of the most popular fundraising sites, takes a 5 percent cut of all donations, in addition to levying a 2.9 percent charge for payment processing, plus $0.30 per donation. That’s a total of 7.9 percent (and $0.30 per transaction) out of every campaign.
+
+YouCaring
+
+YouCaring charges a processing fee of 2.9 percent plus $0.30 per transaction, but doesn’t levy any additional charges. Instead of taking a flat fee, donors are prompted to contribute to YouCaring via a voluntary donation if they see fit.
+
+Crowdrise
+
+This GoFundMe offshoot has fees ranging from 5.9 percent to 8.9 percent (plus $0.30 per transaction), but sets itself apart by asking donors upfront if they’d like to pay more to cover said fees.
+
+GiveWell
+
+GiveWell takes a much more selective approach to its donation process than the above platforms, starting with identifying specific charities themselves using a rigorous data-driven analysis. Donors can opt to give to any one of the charities that meets GiveWell’s standards, or allow GiveWell to make the decision on their behalf. GiveWell doesn’t charge any administrative fees, but donations made by credit card are subject to a 2.15 percent processing fee, plus an additional $0.28 per transaction.
+
+Consider giving directly
+
+Instead of donating via a platform like GoFundMe or Facebook, consider contacting your charity of choice and giving directly — many have a setup to match donations in honor of Giving Tuesday. Here are some pointers for evaluating charitable organizations, with an eye for making sure your donation does the most amount of good possible. Plus, here are tips to ensure that donation works with your budget.
+
+
+
+&&&&&
+
++++++
+
+CBS Cancels Jeremy Piven Show Amid Sexual Assault Allegations
+
+2017-11-27
+
+“Wisdom of the Crowd” will end after just one season.
+
+CBS plans to end “Wisdom of the Crowd” after just one season, sources close to the show told TVLine Monday, as more women come forward with allegations of sexual harassment by lead actor Jeremy Piven throughout his career. 
+
+Piven confirmed the show was being canceled via his Twitter account Monday afternoon.
+
+At least five women have shared stories of Piven’s misconduct. Several first described their experiences with the actor in an interview with BuzzFeed News last week.
+
+One of the women, Anastasia Taneie, told the outlet Piven forcefully groped her breasts and genitals in 2009 when she was working as an extra on the HBO series “Entourage.”
+
+The claim echoes one made by actress Ariane Bellamar, who also said Piven groped her while on the “Entourage” set. 
+
+Ariane Bellamar
+
+@ArianeBellamar
+Jeremy Piven, on two occasions, cornered me & forcefully fondled my breasts & bum. Once at the mansion & once on set. 
+
+Another woman, Amy Meador, recalled Piven unexpectedly showing up at her house in 1995 and forcing himself on her, only to lock himself in her bathroom with her phone after she successfully fought him off.
+
+Piven has adamantly denied all of the claims, going so far as to take a polygraph test earlier this month, which he says proves his innocence.
+
+S didn’t immediately respond to a request for comment from HuffPost regarding the circumstances of the show’s cancellation, but it’s worth noting ― allegations against Piven aside ― the show wasn’t exactly a smash hit.
+
+Per The Hollywood Reporter, “Wisdom of the Crowd” was the least-watched series on the network’s Sunday lineup, pulling in around 8.9 million viewers among adults aged 18–49
+
+
+
+&&&&&
+
++++++
+
+FCC Faces Scrutiny For Refusing To Turn Over Evidence On Net Neutrality Comments
+
+2017-11-22
+
+New York’s attorney general says the federal agency is holding up an investigation.
+
+The Federal Communications Commission received millions of suspicious comments in support of its plan to repeal net neutrality, and it ignored multiple requests for evidence that would explain their origin. New York Attorney General Eric Schneiderman isn’t happy about that.
+
+On Tuesday, one day after Trump-appointed FCC Commissioner Ajit Pai announced he would forge forward with a plan to gut net neutrality, Schneiderman published an open letter calling out the agency for some serious misdeeds.
+
+In particular, he noted the FCC “has refused multiple requests for crucial evidence” that is essential to his office’s ongoing investigation into the “fake comments.” Since many of those comments used the identities of “hundreds of thousands” of real Americans, Schneiderman says, whoever submitted them likely broke the law.
+
+The New York attorney general says his office requested the FCC records at least nine times over five months from multiple top FCC officials, yet “received no substantive response.”
+
+That lines up with the experiences of others who are looking into the origins of the comments.
+
+On Sept. 8, a freelance journalist name Jason Prechtel filed suit against the FCC after it failed to respond in a timely manner to a Freedom of Information Act request he filed for similar information regarding the comments.
+
+And at least three other groups also filed lawsuits earlier this year after their FOIAs requesting information on the FCC’s net neutrality comment-gathering process were ignored.
+
+
+ZACH GIBSON/BLOOMBERG VIA GETTY IMAGES
+Ajit Pai, the Trump-appointed chairman of the Federal Communications Commission, speaks during an open meeting on Nov. 16.
+An analysis by data analytics company Gravwell of the 22 million net neutrality comments the FCC received found that only 17.4 percent of them were unique and not submitted in bulk. Per Gravwell, those authentic comments were “overwhelmingly in support of net neutrality regulations.” In contrast, a majority of the far more numerous suspicious comments were against net neutrality.
+
+(Also troubling: The FCC told reporters Tuesday that it has been more or less ignoring all of the comments anyway, except those that made unique legal arguments or contributed previously unconsidered facts.)
+
+Yet, despite how fraught the issues are, Schneiderman says his investigation isn’t actually about net neutrality ― it’s about the far more serious task of protecting the integrity of our democratic process.
+
+“This investigation isn’t about the substantive issues concerning net neutrality,” he wrote Tuesday. “It’s about the right to control one’s own identity and prevent the corruption of a process designed to solicit the opinion of real people and institutions.
+
+“Misuse of identity online by the hundreds of thousands should concern everyone  ―  for and against net neutrality, New Yorker or Texan, Democrat or Republican,” he continued. “We all have a powerful reason to hold accountable those who would steal Americans’ identities and assault the public’s right to be heard in government rulemaking.
+
+“If law enforcement can’t investigate and (where appropriate) prosecute when it happens on this scale, the door is open for it to happen again and again.” 
+
+
+
+&&&&&
+
++++++
+
+Uber Data Breach, Cover-Up, Prompts Investigations And Lawsuit
+
+2017-11-22
+
+At least five states and three countries are investigating Uber’s conduct.
+
+Numerous federal and state agencies on Wednesday announced they’ve launched inquiries into Uber, one day after the ride-hailing company acknowledged it paid hackers $100,000 in hush money last year to keep quiet about a massive data breach affecting 57 million customers and drivers.
+
+In addition to fielding inquiries from the U.S. Federal Trade Commission (FTC), attorneys general in at least five states say they’re investigating the hack.
+
+So far, the list includes Connecticut, Illinois, Massachusetts, Missouri and New York, but it’s likely to grow given that all but two states have laws requiring affected individuals be notified in the event of a security breach.
+
+Sen. Richard Blumenthal (D-Conn.) called out Uber on Twitter Wednesday, describing the company’s decision making as “inexplicable” and “corporate malfeasance.”
+
+A disgruntled customer has also filed suit against Uber in Los Angeles, seeking class action status on behalf of all those affected.
+
+Authorities in Australia, Britain and the Philippines are also investigating the incident.
+
+The U.K.’s Information Commissioners Office, which helps oversee individual data privacy in the country, said in a statement Wednesday it informed Uber of its noncompliance and warned the company to expect fines.
+
+British law sets an upper limit for failing to notify users of a data breach at 500,000 pounds (roughly $662,000), Reuters reports, but the ICO statement seemed to hint that more might be possible.
+
+“It’s always the company’s responsibility to identify when U.K. citizens have been affected as part of a data breach and take steps to reduce any harm to consumers,” said James Dipple-Johnstone, ICO deputy commissioner. “Deliberately concealing breaches from regulators and citizens could attract higher fines for companies.” 
+
+&&&&&
+
+
+

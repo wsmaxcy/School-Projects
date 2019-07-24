@@ -1,0 +1,25 @@
++++++
+
+Congress Needs To Modernize Laws Regulating Communications Privacy
+
+2017-04-27
+
+i am amazed that the laws that govern communications and digital privacy are a relic from a generation ago. did you know that the law only protects the privacy of emails for six months, because these laws were written during a time when not many people used email? just as the laws governing emails are outdated, the laws governing the way we store data in the “cloud” are also outdated and in dire need of congressional attention.
+
+right now a case relating to a warrant for data is winding its way up to the u.s. supreme court, because congress has failed to be specific in writing the law governing the reach of a warrant for data. the law is silent on the reach of a warrant for email content, held by a company, that is stored on foreign servers. one reason may be that back when the law was written during the reagan years, nobody ever envisioned a world where email would replace mail and calls and where you would replace filing cabinets with file folders on your computer screen.
+
+the case in question, microsoft v. the u.s., comes down to the question of an interpretation of the “stored communications act,” a law written over 30 years ago, and whether that law authorizes the courts to issue warrants for this data served on a company held overseas. although this sounds confusing, it is a simple concept when you think about your email and the data you hold on your computer – is that data yours or is it owned by the company you use to store the data. most people consider emails private and data private only to be seized by the government when they have a warrant based on probable cause.
+
+it is also a simple concept when you think about the idea of a “warrant.” a warrant is a document issued by the government, after a judge hears evidence, that is served on an individual or corporation for documents or items. but it is common sense that the reach of a warrant stops at the border. if i tried to serve a warrant on a company in egypt or south korea, the company might tell me no. if this were a u.s. company based in the u.s. and they said no, i would have federal agents take the documents or items, but when not in the united states, the person serving the warrant would not have the power of the government to force anybody to give me anything. that is because warrants are territorial and can only be served in the territory where the government has power to enforce the warrant. in other words, a warrant’s reach ends at the border.
+
+our founders wrote the 4th amendment to the constitution to memorialize the idea that your private papers can only be seized by the government when the government has a reason to seize them and when the government has an objective proceeding that produces a warrant. the 4th amendment states “the right of the people to be secure in their persons, houses, papers and effects, against unreasonable searches and seizures, shall not be violated, and no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.” one could argue that unreasonable searches and seizures lead to our revolution and according to the heritage guide to the constitution:
+
+james otis defended several colonial smugglers against seizures made through the use of “writs of assistance,” which permitted the customs agents to search any place in which smuggled goods might be concealed, even if there was no particular suspicion the goods were there. though otis lost the case, no less than an authority than john adams saw the dispute as the spark of the american revolution: “then and there was the child ‘independence’ born.”
+the government argues that a warrant can be served on a company, because the company is holding the data and the company must produce the data. the consumers believe that data in the “cloud” or stored email communications are private and any warrant for data should be served on the person who created the data. this issue, and the reach of a warrant are in the process of being debated all the way up to the highest court in the land.
+
+one concern is that if the courts were to overturn this decision, then the problem will still not be solved without legislation and agreements with foreign governments to respect a u.s. court issued warrant. another concern is that allowing warrants to reach foreign individuals and stored data would put u.s. citizens and companies at risk by encouraging them to show up in the u.s. trying to serve orders for data and items. and as we know, most foreign nations treat privacy much less protectively than we do in the united states.
+
+if congress wants to earn back the respect of the american public, they should find the proper balance between privacy and security when updating the laws to deal with this emerging situation. leaving thirty year old laws on the books for the courts to deal with is not good government and will lead to even more distrust of the federal government from “we the people.”
+
+&&&&&
+

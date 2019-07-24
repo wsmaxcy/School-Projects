@@ -1,0 +1,20 @@
++++++
+
+SCOTUS Overturns 9th Circuit 8-0
+
+2017-05-30
+
+believe it or not, the supreme court doesn’t always split along ideological lines.  take, for instance, today’s opinion in the case of county of los angeles v. mendez.  the court vacated and remanded the case after holding that the fourth amendment provides no basis for the ninth circuit’s “provocation rule.”
+
+justice alito authored the opinion, in which all other justices, except gorsuch, joined. (it’s not unfair to assume gorsuch would have joined, as well, had he participated in the argument and consideration of the case.  he did get billing in this decision, also published today.) the case involved three fourth amendment claims by angel mendez and jennifer garcia: a warrantless entry claim; a knock-and-announce claim; and an excessive force claim. mendez and garcia were sleeping inside a shack in the back yard of a property being searched by the los angeles county sheriff’s department. two deputies searching the rear of the property opened the door of the shack sans warrant or announcing their presence. mendez greeted them with a bb gun and the officers responded with multiple shots which wounded mendez and garcia.
+
+the district court found in favor of mendez and garcia on the warrantless entry and knock-and-announce claims and then, on the excessive force claim, found the deputies’ use of force reasonable under the supreme court case of graham v. connor, but employed the “provocation rule” crafted by the ninth circuit to find the officers liable for excessive force, as well. without getting too far into the weeds, the “provocation rule” provides that an otherwise reasonable use of force by an officer becomes unreasonable if 1) the officer “intentionally or recklessly provokes a violent confrontation” and 2) “the provocation is an independent fourth amendment violation.”
+
+the supreme court begged to differ, noting that the provocation rule “is an unwarranted and illogical expansion of graham.”  the ninth circuit is somewhat notorious for being reversed by scotus, but this ruling addressing the appellate court’s inappropriate expansion of supreme court precedent caught my attention in light of speculation as to what the court will do with the trump administration’s travel ban.
+
+that is, assuming the court actually agrees to hear the matter.  in the travel ban litigation, most expect the ninth circuit will, like the fourth circuit, find the ban unconstitutional.  if that happens, there will not be a circuit split and, as ilya shapiro mused last night, that might mean scotus declines to take it up:
+
+while that would certainly come as a disappointment to many, it wouldn’t necessarily be out of character for the court.  just today, it declined to act on several “hot button” cases, including a major gun-rights case out of california, a fourth amendment challenge to the government obtaining historical cell-phone location records without a warrant, and a first amendment challenge by the colorado baker who objected to create a cake for a same-sex wedding ceremony. stay tuned!
+
+&&&&&
+

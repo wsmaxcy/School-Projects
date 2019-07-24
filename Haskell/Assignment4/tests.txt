@@ -1,0 +1,90 @@
+Will Maxcy Test Results
+
+#1 tests
+*SandwichDSL> newSandwich Rye
+Sandwich [Bread Rye]
+*SandwichDSL> newSandwich White
+Sandwich [Bread White]
+*SandwichDSL> newSandwich Wheat
+Sandwich [Bread Wheat]
+
+*SandwichDSL> addLayer (Sandwich [Bread Rye,Meat Tofu,Condiment Ketchup]) (Bread Rye)
+Sandwich [Bread Rye,Bread Rye,Meat Tofu,Condiment Ketchup]
+*SandwichDSL> addLayer (Sandwich [Bread Rye,Meat Tofu,Condiment Ketchup]) (Meat Turkey)
+Sandwich [Meat Turkey,Bread Rye,Meat Tofu,Condiment Ketchup]
+*SandwichDSL> addLayer (Sandwich []) (Meat Turkey)
+Sandwich [Meat Turkey]
+
+
+*SandwichDSL> newPlatter
+Platter []
+
+*SandwichDSL> addSandwich (newPlatter) (Sandwich [Bread Rye,Condiment Ketchup,Bread Rye])
+Platter [Sandwich [Bread Rye,Condiment Ketchup,Bread Rye]]
+
+
+#2
+*SandwichDSL> isBread(Bread Rye)
+True
+*SandwichDSL> isBread(Bread Wheat)
+True
+*SandwichDSL> isBread(Bread White)
+True
+*SandwichDSL> isBread(Condiment Ketchup)
+False
+*SandwichDSL> isBread(Vegetable Tomato)
+False
+*SandwichDSL> isVegetable(Vegetable Tomato)
+True
+*SandwichDSL> isMeat(Vegetable Tomato)
+False
+*SandwichDSL> isMeat(Meat Tofu)
+True
+*SandwichDSL> isMeat(Meat Turkey)
+True
+*SandwichDSL> isCheese(Cheese American)
+True
+*SandwichDSL> isCheese(Cheese Swiss)
+True
+*SandwichDSL> isCheese(Meat Turkey)
+False
+
+#3
+*SandwichDSL> noMeat( Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham,Bread Rye])
+False
+*SandwichDSL> noMeat( Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Bread Rye])
+True
+*SandwichDSL> noMeat( Sandwich [])
+True
+*SandwichDSL> noMeat( Sandwich [Meat Turkey])
+False
+
+#4
+skipped both
+
+#5
+*SandwichDSL> priceSandwich(Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham,Bread Rye])
+245
+*SandwichDSL> priceSandwich(Sandwich [])
+0
+*SandwichDSL> priceSandwich(Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham,Meat Turkey,Meat Chicken,Vegetable Tomato,Bread Rye])
+450
+
+#6
+*SandwichDSL> eqSandwich (Sandwich [Bread Rye]) (Sandwich [Bread Rye,Meat Turkey])
+False
+*SandwichDSL> eqSandwich (Sandwich [Bread Rye]) (Sandwich [Bread Rye])
+True
+*SandwichDSL> eqSandwich (Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham,Bread Rye]) (Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham,Bread Rye])
+True
+*SandwichDSL> eqSandwich (Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham,Bread Rye]) (Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham])
+False
+
+Part 2
+#1
+*SandwichDSL> compileSandwich (Sandwich [Bread Rye,Condiment Mayo,Cheese Swiss,Meat Ham,Bread Rye])
+[StartSandwich,AddBread Rye,AddCondiment Mayo,AddCheese Swiss,AddMeat Ham,AddBread Rye,FinishSandwich,MoveToPlatter]
+*SandwichDSL> compileSandwich (Sandwich [])
+[StartSandwich,FinishSandwich,MoveToPlatter]
+*SandwichDSL> compileSandwich (Sandwich [Bread Rye,Condiment Mayo,Condiment Mustard,Condiment Ketchup,Cheese American,Cheese Jack,Cheese Swiss,Meat Turkey,Meat Chicken,Meat Ham,Bread Rye])
+[StartSandwich,AddBread Rye,AddCondiment Mayo,AddCondiment Mustard,AddCondiment Ketchup,AddCheese American,AddCheese Jack,AddCheese Swiss,AddMeat Turkey,AddMeat Chicken,AddMeat Ham,AddBread Rye,FinishSandwich,MoveToPlatter]

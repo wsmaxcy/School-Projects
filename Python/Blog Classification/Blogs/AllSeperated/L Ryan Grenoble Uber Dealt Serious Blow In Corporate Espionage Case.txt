@@ -1,0 +1,50 @@
++++++
+
+Uber Dealt Serious Blow In Corporate Espionage Case
+
+2017-11-28
+
+“you’re making the impression that this is a total cover-up,” the judge told uber’s lawyers. “your client is in a bad way now.”
+
+uber lawyers were hit with a serious setback on tuesday after u.s. district judge william alsup sided with rival waymo and agreed to postpone a trial between the two companies.
+
+alsup concluded that uber withheld critical evidence that could substantiate waymo’s claim that its competitor stole highly valuable trade secrets to advance its self-driving car technology. 
+
+the delay gives waymo ― a self-driving car business owned by google’s parent company ― time to investigate numerous bombshell allegations revealed in court tuesday and (presumably) bolster its case. the trial between waymo and uber was initially set to begin next week. 
+
+of particular note was testimony from richard jacobs, a former uber security employee who said the company had a team that specialized in high-level corporate espionage. he said uber had even gone as far as to hire former cia agents via contractors in its bid to obtain information on its rivals.
+
+that revelation ― and numerous others related to it ― were contained in a letter that jacobs’ lawyer provided to federal investigators in may. the sealed letter only came to light early last week after the justice department told alsup that it existed.
+
+“i can no longer trust the words of the lawyers for uber in this case,” alsup said. “if even half of what is in that letter is true, it would be an injustice for waymo to go to trial.”
+
+any company that would set up such a surreptitious system is as suspicious as can be.
+u.s. district judge william alsup
+other allegations from the jacobs letter that emerged tuesday include:
+
+uber instructed certain employees how to “impede, obstruct or influence any lawsuit” against the company, and used strategies “to ensure we didn’t create a paper trail that came back to haunt the company in any potential civil or criminal litigation.”
+
+those strategies included housing sensitive, potentially incriminating information on separate servers that weren’t connected to the rest of uber, and using encrypted, self-deleting messaging technology to orchestrate their efforts.
+
+uber identified employees at rival companies it believed it could flip in pursuit of competitors’ secrets.
+
+uber sought to lower its operating costs by “identifying high threat areas where crime takes place” and refusing to operate in them. (the strategy sounds suspiciously like redlining, a racist business practice that’s illegal.)
+
+jacobs disputed some of the letter’s contents in his testimony, including a claim that uber stole trade secrets from waymo.
+
+“i don’t think i did as thorough a job as i wish i could have,” he said, noting he hadn’t read his lawyer’s letter before it was sent. he described parts of the letter as “hyperbolic.”
+
+uber representatives disputed much of the letter’s contents, including by saying the use of encrypted messaging was a security measure, but they also sought to distance themselves from it.
+
+for example, lawyer arturo gonzález told alsup that “nobody on this defense team knew about” uber using “shadow servers” to hide potentially incriminating information.
+
+the revelation that such servers may have existed is particularly significant. in previous hearings, uber said searches for stolen waymo documents on its servers came up largely empty, thereby proving the company’s innocence.
+
+the hearing on tuesday gave alsup reason to doubt uber’s testimony.
+
+“it turns out the server is just for the dummies and the real stuff goes on the shadow system,” he said.
+
+“any company that would set up such a surreptitious system is as suspicious as can be,” he later told uber’s lawyers. “you’re making the impression that this is a total cover-up. your client is in a bad way now.”
+
+&&&&&
+

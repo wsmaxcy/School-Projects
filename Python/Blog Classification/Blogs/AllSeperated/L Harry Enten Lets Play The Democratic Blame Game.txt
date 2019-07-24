@@ -1,0 +1,180 @@
++++++
+
+Let’s Play The Democratic Blame Game!
+
+2017-06-21
+
+in this week’s politics chat, we sift through democratic finger-pointing after their latest special election losses. the transcript below has been lightly edited.
+
+micah (micah cohen, politics editor): democrats are not happy today, having lost special elections in georgia and south carolina on tuesday. and we’re here to talk about that unhappiness, to really dive deep into it, let it flow over us and try to understand it.
+
+harry (harry enten, senior political writer): but what about the mail-in votes?
+
+micah: so we’ll do five questions about the democratic blame game (which is raging on the interwebs at the moment).
+
+question no. 1: blame the blame game! should democrats even be playing the blame game?
+
+harry: what’s the purpose of playing the blame game? to help the party succeed in 2018? or is the purpose to throw blame around because it feels good? if the former, then it is always good to go over what could be done better in the future. if the latter, then it’s not worth it. there were questionable choices that were made by the democrats in these special elections, but none of them were indefensible in my opinion.
+
+natesilver (nate silver, editor in chief): the whole fact that democrats talked themselves into the narrative that georgia 6 was a game-changer — and that, therefore, they need to put their tails between their legs today — suggests to me that they’re pretty bad at politics.
+
+perry (perry bacon jr., senior writer): i guess i don’t want to tell democrats or republicans or anyone what they should be doing. but does a blame game make sense? when your party is losing key races a lot, some kind of debate about why is natural. i think looking at candidate selection, how the large amount of money raised by the campaign was spent, etc., seems natural. some of the particular questions in this blame game are not great ones, though. we will get to that later, i suspect.
+
+natesilver: democrats have been competitive in four substantially red districts. we can debate what “red” means, because the districts are red in different ways. but they’re the sort of results you’d expect in an election where the house was in play. heck, some of them are even consistent with the sort of results you’d expect in a massive wave election. we’re only five months into trump’s term.
+
+perry: in other words, nate, you think there is really nothing to be blamed for? there were not real, unexpected “losses”?
+
+micah: wait a second, nate. this was a red district, but it was also an eminently winnable race for democrats. sure winning it wouldn’t have been a game-changer, but shouldn’t they be doing some self-examination today? they lost by 4 percentage points in a district hillary clinton lost by 1.5 points. i know other non-trump republicans have done better there, but if democrats are hoping to ride dissatisfaction with trump to the house majority, shouldn’t they be concerned they couldn’t do that in a district we know already doesn’t love trump?
+
+natesilver: was trump on the ballot last night? no. when we modeled the house in 2010, we used a combination of the presidential results in the last two presidential elections, plus the previous house result, plus a bunch of other factors.
+
+using the last presidential race is just a shorthand that works fine in most cases, but wasn’t particularly good here. and we have a great example of that, given what happened in south carolina, which was literally the opposite of georgia in many respects: historically a swingy district that went very pro-trump. democrats did quite well there.
+
+harry: i think micah’s point is the argument why georgia 6 was bad for democrats, but i want to get at something i said last night. first off, as nate points out, we usually use the past two presidential elections (with 2016 weighted more) to understand the lean of a district. second, back in 2006, there was a district (california 50) that had the same partisan lean as georgia 6 in the prior two presidential elections. the result was that francine busby, the democrat, lost by pretty much exactly the same margin as ossoff did last night. did that mean democrats were screwed come november 2006? no. they won big. obviously, that doesn’t mean democrats will be riding the wave in 2018, but it does show that sometimes these special elections that are built up to be the be-all, end-all aren’t. and keep in mind that the 2006 cycle, like this one, featured democrats outperforming their baseline by a lot in other places.
+
+natesilver: certainly, we can debate the strategy in individual races. but basically it’s like if an obscure college football team goes and plays against ohio state at ohio stadium, and loses 30-27 when they were big underdogs going in. it’s disappointing for them, but, at the same time, an indication that the team has bright things in its future and that ohio state has a lot to worry about.
+
+perry: but what if the coach of team x got the team all hyped up about how it could beat ohio state? and told the booster club this would be a big win?
+
+micah: yes ^^^. which gets back to democrats being bad at politics.
+
+natesilver: well, sure. i think democrats can be blamed for that, to some extent.
+
+micah: it does seem like many people, including us, were telling people this race was a referendum (in part) on trump, and now they/we are de-emphasizing that.
+
+natesilver: the official fivethirtyeight pre-election spin was that georgia 6 mattered more in perception than in reality. which i think i still agree with.
+
+we were looking to see if a candidate won by 5+ percentage points, which neither one did, although handel wasn’t far from it. on the other hand, democrats did much better than we would have guessed in south carolina.
+
+micah: hmmm. i think georgia 6 suggests that marginal trump voters (whom we’ve dubbed reluctant trump voters) — i.e., people who voted for him but had an unfavorable view of him — are still generally with the gop. that’s backed up by our survey data too.
+
+and that is bad for democrats.
+
+natesilver: but micah, the relevant factor is that they were marginal trump republicans. if you had a district where you had marginal trump independents or democrats — you had a few of those in south carolina 5 — the outcome might have been different.
+
+perry: i agree with nate and harry that last night should not be over-read, by democrats or, frankly, journalists. but could the democrats have some kind of internal debate about, say, “should we direct our base towards spending millions of dollars on better causes than house races that will be hard to win?”
+
+natesilver: yeah, i’m not sure why democrats felt they had to go narratively all-in on an idiosyncratic district with a weird candidate.
+
+micah: ok, next question. (i’m stealing most of these from perry.)
+
+question no. 2: blame ossoff! how much was the georgia 6 result about ossoff as a candidate and his being too blah or too centrist?
+
+harry: who knows? is my answer.
+
+natesilver: i’m kind of ambivalent about ossoff. on the one hand, the basic metric that we usually look at is whether a candidate has been elected in the past, especially to another office in that state or district. ossoff hadn’t been. on the other hand, i think of his performance as basically having been “fine” in georgia 6, and he entered the race when few other democrats were willing to do so.
+
+put another way, i think he was an average candidate in a race where democrats could maybe have won with a great candidate, but could also have lost by 12 points with a candidate who wasn’t taking the race seriously.
+
+harry: yeah, there was nothing that ossoff did that screamed “awful candidate.” he was milquetoast.
+
+perry: i didn’t meet ossoff. i wasn’t in georgia. and i’m always loath to criticize candidates i have not seen in person. i read some more populist democrats last night claiming the party needed a more populist candidate. handel emphasized that he did not live in the district. he was obviously young and had little electoral experience. but he didn’t make any major gaffes, seemed to know the issues, got an endorsement from bernie sanders and received strong support from john lewis.
+
+i don’t see him as a clearly bad candidate.
+
+micah: and what do we make of that “democrats should have run a proud progressive” argument? i’ve seen that argument a lot!
+
+natesilver: i mean, i think you can say he played it a little too safe. he played to not lose.
+
+harry: now, now, he wanted to connect everyone, nate.
+
+
+natesilver: for me, there are basically three prototypes of campaigns that democrats will need to run in 2018: (i) anti-trump; (ii) anti-republican; (iii) anti-incumbent.
+
+i think georgia 6 ought to have been an anti-trump campaign, given that trump is a much bigger liability in georgia 6 than the gop overall is and that people are doing pretty well there economically.
+
+for me, there’s lots of room for populist progressives to do well as anti-republican and anti-incumbent messengers. i actually don’t think they’re ideal as anti-trump messengers, however, which is what you needed in this district.
+
+perry: i don’t totally think we have any sense if voters, as opposed to democrats on twitter, vote differently between a bernie-sanders-type democrat and a hillary clinton one or can really tell the difference. even in vermont and massachusetts, i think any democrat would win those states, not just elizabeth warren and sanders. in fact, both of those states have kind of non-populist democratic senators right now.
+
+harry: that’s interesting. keep in mind that this is more of a bloomingdales district than a walmart one. it’s a well-off, well-educated district. further, you know that archie parnell fella in south carolina 5? he’s a former managing director for goldman sachs. doesn’t exactly scream populism.
+
+micah:
+
+question no. 3: blame nancy pelosi! republicans ran a bunch of ads featuring the former democratic speaker of the house, and some analysts are asking today if she’s a liability for democrats in districts like georgia 6.
+
+clare is doing some reporting on this, btw. so i don’t want to steal her thunder, but a lot of people are talking about this so i thought we should include.
+
+perry: do we really think voters are sitting around thinking about nancy pelosi when they go to the polls?
+
+natesilver: handel gained ground during the stretch run of the campaign, and this was a big part of the gop’s message.
+
+micah: doesn’t the fact that she’s featured in so many ads (and also was in 2010 and 2014 if i remember correctly), suggest that republicans know — or at least think — that it works?
+
+perry: it’s possible we’re just capturing partisanship there.
+
+natesilver: for sure — any democratic leader would become villainized after a sufficient length of time. but i think there’s something to be said for giving voters symbolically a new look.
+
+i also suspect that this is what’s behind some of the democratic infighting this morning. the knives are out for pelosi. she took quite a few defections in the leadership vote late last year, which suggests there’s a lot of dissatisfaction in the democratic caucus.
+
+micah: but gender could play a role in all this too in addition to her being from san francisco and all that. but again, clare is doing some reporting on this, so we’ll get more deeply into it separately.
+
+question no. 4: blame the party brand! is the democratic brand toxic in certain areas? (rep. tim ryan, who challenged pelosi, said this in the new york times).
+
+perry: here’s the quote:
+
+representative tim ryan of ohio, who tried to unseat ms. pelosi as house minority leader late last fall, said she remained a political millstone for democrats. but mr. ryan said the democratic brand had also become “toxic” in much of the country because voters saw democrats as “not being able to connect with the issues they care about.”“our brand is worse than trump,” he said.
+
+heynawl-enten: this is a historically republican district, so i’m not sure this is the best test for that. nationally, the democratic brand is usually stronger than the republican brand. and more people identify as democrat than as republican.
+
+natesilver: yeah … this is a district where the democratic brand is their biggest liability, because it’s much more of a republican district than a trump district.
+
+the democratic brand has been surprisingly nontoxic in places such as montana, south carolina and kansas, however.
+
+micah: so why not-as-toxic in those places and more toxic in georgia 6?
+
+natesilver: because georgia 6 is a strongly republican-identifying place, more so than south carolina 5 is.
+
+handel and the gop figured that out and it got them over the finish line.
+
+perry: ok, i don’t have the data in front of me. but i think the democratic brand is a problem in the south.
+
+micah: ok, final question …
+
+question no. 5: blame the media and national democratic groups and operatives! this was a theory harry and clare floated last night: national democrats dumped a bunch of money and energy into this race, and we saw record turnout. but did that have the effect of motivating both already motivated democratic voters and unenthused republican voters?
+
+perry: in other words, is the south carolina result a blowout if it became the big race with all of the attention?
+
+micah: exactly.
+
+perry: i think that right. turning a race into a nationalized, partisan battle is going to favor the party that has the most voters in that district/state.
+
+harry: nate thinks democrats should have spent more money/energy in south carolina.
+
+natesilver: i do, yeah. next year is going to be a very expensive, high-stakes election. not a lot of candidates are going to fly under the radar. democrats have to get used to competing everywhere.
+
+harry: what’s the purpose of these special elections? to win now? or to test messages/strategies/tactics for 2018?
+
+natesilver: to test for next year, because the marginal vote in the house isn’t very important right now. (if a senate seat were in play in a special election, different story.)
+
+micah: ok, so let’s sum things up and then i have one final question:
+
+who’s to blame? well, nate doesn’t think democrats should even be playing the blame game — they did “fine.”
+
+natesilver: overall, they should be very excited about their special election results, in fact. georgia 6 was the worst of the bunch.
+
+
+perry: they did fine and maybe blaming each other is not that important. but they should be worried that if republicans campaign hard in every district, spend a lot of money, bash the democrat enough, mobilize the base, democrats will have a hard time gaining 24 seats next year.
+
+harry: overall, i think the special elections are a great sign for the democrats. however, i always think lessons can be learned about what could have possibly been done differently.
+
+micah: relative to the weighted past presidential vote that we use, democrats did worse in georgia 6 than any other special election so far in 2017. so maybe it’s just a modest outlier in that regard. but georgia 6 was also the 1. most competitive district to vote so far, and 2. highest profile race. in other words, maybe georgia 6 is a closer approximation to the conditions in 2018 than other special elections. so, my question: should democrats, as the media has, pay more attention to the result in georgia than to the results in other special elections?
+
+harry: here’s what i said two months ago, which i still think holds today …
+
+… special house and senate elections in the two years leading up to a midterm can go any which way. in any of the previous four cycles before a midterm, there’s at least one example of a candidate doing poorly in a special election — relative to the previous weighted presidential vote — only to have their party do well in the midterms.
+
+so even if ossoff won — even if he won comfortably — it wouldn’t be safe to assume a democratic wave is building in 2018.
+
+instead, if you really want to use special election results to look ahead to 2018, you need to look at a bunch of them. while any individual special election may mislead, the average special house and senate result compared to the past presidential vote provides a decent indication of the national environment heading into the following midterm election.
+
+natesilver: we actually overshot a bit in georgia 6 in that turnout was higher than it’s likely to be in the midterm, and spending was obviously much higher too. the most representative race of midterm-type conditions so far is probably montana.
+
+micah: i don’t know. i think people will be bonkers in the midterms.
+
+natesilver: ballpark, i’d say south carolina 5 was roughly 60 percent as important as georgia 6 in terms of helping us to forecast the 2018 midterms. and it’s gotten like 0.6 percent as much attention.
+
+perry: i’m not the data expert here. but my general reaction is to not underreact to things anymore, since i under-reacted to the events of 2015 (the rise of sanders and trump.) so this does not change my overall view that democrats have a strong chance of winning the house in 2018. but i’m not going to dismiss that handel won by more than i expected and that maybe 2018 won’t follow the patterns of previous midterms.
+
+&&&&&
+

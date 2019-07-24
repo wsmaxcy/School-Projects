@@ -1,0 +1,566 @@
++++++
+
+Where Is The Trump Presidency Headed?
+
+2017-10-18
+
+in this week’s politics chat, we check back in on the trajectory of president trump’s presidency. the transcript below has been lightly edited.
+
+micah (micah cohen, politics editor): welcome, all! we’re lucky to have our washington editor, hilary krieger, joining us!
+
+our topic: “14 versions of trump’s presidency, from #maga to impeachment”
+
+nate wrote this article after trump’s inauguration; it lays out 14 possible tracks the administration could take. we’ll go through each scenario, and everyone has to rank it on a scale from 1 (has become much less likely since trump was sworn in) to 10 (has become much more likely since trump was sworn in).
+
+you have to factor in where things stand now and where they might be headed. everyone got that?
+
+natesilver (nate silver, editor in chief): shouldn’t the scale be 0 to 10?
+
+micah: omg. stop.
+
+harry (harry enten, senior political writer): 11 options is too many.
+
+hilary.krieger (hilary krieger, washington editor): but 14 versions is totally manageable.
+
+harry: i like even numbers.
+
+micah: the idea here is to periodically take a step back and view the trump era in aggregate. we last checked in on this back in may, if you remember.
+
+ok …
+
+no. 1: trump keeps on trumpin’ and the country remains evenly divided. in this scenario, trump continues to implement his campaign-trail agenda. he still rants on twitter every morning and picks unnecessary fights, although … he mostly avoids major entanglements with foreign leaders that could really get him into trouble. and it … sort of works. the press regularly predicts trump’s demise, but difficult periods are followed by comparatively successful ones and he benefits from relatively low expectations. at the same time, he doesn’t win over many new converts. still, trump’s base of 40 to 45 percent of the country sticks with him.
+
+natesilver: 6.
+
+harry: 3.5. trump’s job approval rating has been below 40 percent since mid-may.
+
+perry (perry bacon jr., senior writer): 5.
+
+hilary.krieger: 7.
+
+harry: fairly wide disagreement here.
+
+micah: yeah, that’s surprising.
+
+perry: did micah give a number?
+
+micah: i’m the moderator!
+
+natesilver: that’s a cop-out! what’s your number?
+
+micah: i’ll go with a 4.
+
+the trump administration, were it a boat, has sorta oscillated between rotted-out hull/taking on water and barnacle-covered-but-very-much-afloat. this scenario is sorta at the better end of that range.
+
+natesilver: it’s worth pointing out that trump’s approval ratings are in about the same place that they were back in may, after he fired fbi director james comey. although they’ve fluctuated up and down a couple of times since then. but the case for “low-but-steady approval rating” is a bit stronger than it was a couple of months ago.
+
+the tricky thing is that low-but-steady might be ok for trump if low means 42 or 43 percent, but less so if it means 37 or 38 or 39 percent.
+
+hilary.krieger: yeah, and that’s why i gave this version a high number: it tracks with what’s happened so far and because for all of trump’s low approval ratings, republican primary candidates don’t seem to be running away from him.
+
+natesilver: the spirit of this scenario holds up pretty well, but maybe not so much the letter of it (which envisioned an approval rating in the low 40s instead of high 30s).
+
+harry: we’ve found that trump has lost some of his base, so i don’t see how we can say his base sticking with him has become more likely. granted, the twitter part is still very true.
+
+perry: if the gop can pass a tax cut — that’s a big, big if — trump will hold a signing ceremony and tout the bill as a big win. it’ll get lots of positive media coverage. and maybe he can get to 41 to 43 percent and there we are. i’m also not as convinced as i was three months ago that russia will be a huge scandal that implicates trump personally when it is over.
+
+micah: i’m closer to where harry is.
+
+but this gets us a bit into the second scenario …
+
+no. 2. trump gradually (or not-so-gradually) enters a death spiral. liberals and other trump adversaries might overrate the likelihood of this scenario … his problems could be self-reinforcing as issues pile on top of one another and public opinion turns against him, especially if the more coolheaded and competent advisers and cabinet members flee the white house as trump begins to falter. in this scenario, trump’s approval ratings wouldn’t necessarily fall off a cliff — his base would give him a mulligan or two — but they would move slowly and inexorably downward, as happened to george w. bush during his last two years in office.
+
+perry: 9.
+
+hilary.krieger: 7.5.
+
+natesilver: 6.5.
+
+harry: greater than 5, less than 10. i agree with hilary: 7.5.
+
+agreement!
+
+micah: hmmm …
+
+i’ll go 7.
+
+perry: i guess i feel like this is happening, even if it’s not more likely than it was in february. are we debating if this is happening or if this is a shift from expectations?
+
+micah: a combo.
+
+natesilver: yeah, we’re sort of splitting the uprights between the first two scenarios so far. if i had to lean toward one, i’d go with no. 2 over no. 1. narratively, it holds up better: “his problems could be self-reinforcing as issues pile on top of one another and public opinion turns against him” sounds fairly prescient.
+
+perry: right.
+
+micah: see, maybe perry is right that this is happening — it’s just a very sloooooow process.
+
+natesilver: there haven’t been very many russia/mueller revelations lately, and, presumably there eventually will be. i’d like to see what happens when that’s dropped into trump’s pile.
+
+sen. bob corker’s comments about trump’s mental fitness are also relevant here, in terms of problems piling up.
+
+harry: in order to be convinced of no. 2, i’d want to see trump’s approval rating at least as low as 35 percent or so by december. i’d want to see a continual decline of his floor, even if his rating bounces up and down a bit.
+
+natesilver: it’s worth noting that for past presidents, the tendency is for approval ratings to revert to a mean of about 40 to 50 percent — more like scenario no. 1 than scenario no. 2. so in some ways, betting heavily on no. 2 is betting on the case that trump is an outlier/exception.
+
+hilary.krieger: that’s why i’m just going with .5 spread between the two scenarios.
+
+natesilver: yeah, i think both cases are pretty reasonable.
+
+micah:
+
+no. 3. trump keeps rewriting the political rules and gradually becomes more popular. trump won the presidency despite being fairly unpopular, and he remains fairly unpopular now. nonetheless, what he’s accomplished is impressive, especially given the long odds that many people (including yours truly) gave trump at the start. maybe the guy is pretty good at politics? one can imagine various scenarios where trump’s default approach to politics turns out to be a winning one over the long run, even if it leads to its fair share of rocky moments.
+
+harry: 1.5.
+
+micah: 3.
+
+perry: 3.
+
+natesilver: 2.5.
+
+hilary.krieger: 1.5 (since harry went with my number last time).
+
+harry: awwwwww
+
+🙂
+
+micah: harry, hilary … too low!
+
+it’s definitely become less likely. but the fact that trump is still near the 40s suggests that this is still a live possibility.
+
+hilary.krieger: ok, you convinced me. 2.
+
+harry: booooooo.
+
+hilary.krieger: sorry, harry — he made an astute point.
+
+perry: trump had that weird period where he seemed to want to cut deals with democrats. if he does more of that, he could win over some of the middle of the electorate. and i’m not totally convinced, despite his governing so far, that he is really conservative or cares about ideology that much.
+
+so, less likely, but not impossible to see this happening.
+
+natesilver: there are lots of scenarios under which trump’s flaws prove to be less-than-fatal to his political prospects and he gets re-elected. that’s sort of how he won the election in the first place. that doesn’t mean they’re not flaws, though. and the tendency to rationalize stupid shit that he does as some sort of brilliant strategy has been one of the most annoying characteristics of how the media has covered trump so far.
+
+micah:
+
+no. 4: trump mellows out, slightly. this is the mildest course change. in this case, after an up-and-down first three to six months, trump gradually gets better at the job of being president, not necessarily because of a concerted effort to pivot but because he learns through trial and error that he needs to pick his battles. steve bannon and other more incendiary advisers lose stature, and trump’s bonds with republican leaders in congress strengthen as he somewhat faithfully carries out their agenda.
+
+natesilver: 3.
+
+perry: 3.
+
+hilary.krieger: can we divide up bannon losing stature and “trump’s bonds with republican leaders in congress strengthen”? they kind of cancel each other out in my calculation.
+
+harry: 2.
+
+micah: .00001
+
+(i don’t think bannonism has lost stature, though.)
+
+natesilver: i guess this one sort of had a timestamp of three to six months, and we’re beyond that now — and there aren’t really signs that he’s becoming more effective since the six-month mark. probably the opposite, given puerto rico and north korea.
+
+harry: i mean, bannon is gone. but trump isn’t any closer to senate and house leaders.
+
+hilary.krieger: yeah, but we’re talking about the future. i could see bannonism losing stature. i can’t see republicans developing a strong bond with trump.
+
+micah: here’s the thing, and it’s why i rate no. 4 as much less likely than no. 3: i think there’s still a chance that trump’s shtick will prove effective in moments, but i’d bet there’s very, very little chance of trump changing his shtick. no. 4 imagines him changing in ways i can’t see happening.
+
+hilary.krieger: agreed.
+
+perry: good point. the bannon exit did happen, and i could see trump liking party leaders better if tax reform/cuts happen.
+
+micah: yeah, taxes could change a lot.
+
+natesilver: with all that said, i think people might be underrating the chance that trump can get things turned around by two years from now, as opposed to two weeks or two months from now. the problem with all the “p***t” stories isn’t so much that it’s impossible for trump to change — or improve — but that they rely on (often cherry-picked) short-term evidence, instead of waiting until there’s actually been an upward trajectory.
+
+harry: i don’t know if he can p***t, but i think a p***t could be successful.
+
+hilary.krieger: philosophical, i like it.
+
+natesilver: when you say you don’t know that trump can p***t, harry, is that because you think he might not be mentally fit enough to p***t?
+
+that question looms very large for me, in terms of how i’m assessing the scenarios.
+
+harry: i meant it in the same way that i try to give up french fries, but just cannot. maybe one day i will, though.
+
+natesilver: like, if mitt romney or someone suddenly inhabited the brain of trump, eventually romneytrump would p***t, right?
+
+micah: yes.
+
+i’m not sure “fit” is the right word, but trump doesn’t seem to have the mentality to change in certain ways. and those ways would be required for a true p***t.
+
+perry: well, i think trump’s relationships can improve, because of how other people treat him. if more policies pass in congress and get signed, he will be criticized by people in his party less. and maybe then he won’t feel compelled to attack back. does the whole trump-corker battle happen if the obamacare repeal had passed?
+
+hilary.krieger: yeah, perry, you’re right that congress is more likely than, say, bannon to change its relationship with trump — they’re only going on expediency, rather than ideology, and that opens up a lot of possibilities.
+
+micah: that’s a good point — trump doesn’t change but circumstances do. the stimuli going into the oval office change.
+
+harry: intriguing.
+
+natesilver: and those stimuli probably won’t get better as the midterms get closer.
+
+although they could get better by the time the 2020 general election does, and republican fortunes are tied to trump — they’ll have to sort of sink or swim with trump and choose swim yet again.
+
+micah:
+
+no. 5. trump cedes authority. i rarely see this possibility discussed, but it has several historical precedents among presidents who found the job mentally or physically overwhelming. the key aspect is that within a year or two, trump would have effectively relinquished day-to-day control of the government to vice president mike pence and to his cabinet, instead focusing on the more ceremonial aspects of the presidency and perhaps exploiting it for personal enrichment.
+
+perry: 2.
+
+micah: this is a tough one.
+
+harry: 4.5.
+
+micah: 5.
+
+natesilver: 6.
+
+actually, let me revise to 7.
+
+micah: isn’t there a chance that this has already happened?
+
+hilary.krieger: 0 if we’re talking about trump literally ceding authority. 4 if we’re talking about trump quietly letting pence et al. run everything.
+
+micah: the latter.
+
+perry: iran. crs payments. national anthem. no, this has not happened.
+
+micah: oh. yeah. perry is right.
+
+perry: chief of staff john kelly would not have done any of those things on his own, i don’t think.
+
+natesilver: i don’t think it’s already happened — this is one of the scenarios that would take a longer time to play out. but the prerequisite is that “he finds the job mentally or physically overwhelming,” and there’s a fair amount of evidence for that.
+
+micah: there was this:
+
+
+hilary.krieger: it’s also not a total either-or. he can gradually leave more decisions to others.
+
+natesilver: i’d also mention that he doesn’t seem to be spending that many hours at the white house. i’m not one of those people who thinks the trump-always-plays-golf thing is a huge deal. but it’s somewhat relevant here. his attention to the job is hit-and-miss.
+
+harry: well, it appeared that he left most of the health care policy details to others, although, he’s been selling tax reform pretty hard. he also seems to be out to lunch with golf, as nate mentioned.
+
+hilary.krieger: there’s also the variable of how much cabinet members try to covertly wrest control from him and how far they get.
+
+micah:
+
+no. 6. trump successfully pivots to the populist center (but with plenty of authoritarianism too). this … involves trump becoming more of a true populist, remaining hard-line on immigration and trade but calling for significant infrastructure and social welfare spending.
+
+perry: 2.
+
+natesilver: 3.
+
+micah: 1.
+
+harry: 1.25.
+
+i refuse to agree with micah.
+
+hilary.krieger: i was going to say 4, but i think that requires more strategy and consistency than trump exhibits. so i’ll downgrade to 2.5.
+
+perry: he is just not interested in doing big-government stuff. i don’t know if that is because the hill is blocking him or he is more conservative than his campaign rhetoric or what.
+
+micah: yeah, i haven’t seen any evidence that trump’s “true” position is populist in nature, so i’m not sure why he would revert to it, if that makes sense.
+
+harry: i have heard conservative stuff from trump, with few exceptions. i’m talking tax cuts, obamacare repeal, etc. where is the talk of infrastructure spending?
+
+natesilver: i agree with micah that trump more borrows from the stylistic elements of populism — including some of its other-isms (e.g., nationalism, racism) — than actually being a populist. that tax plan sure as hell isn’t populist, for instance. it’s about the furthest thing imaginable from being populist.
+
+micah:
+
+no. 7. trump flails around aimlessly after an unsuccessful attempt to pivot. in this scenario, trump is like george steinbrenner running the 1980s new york yankees, firing his managers and changing course all the time without ever really getting anywhere. instead, he churns through advisers and alienates allies faster than he makes new ones.
+
+perry: 7.
+
+natesilver: 8.
+
+harry: 7.5.
+
+natesilver: this is actually the best description of what’s going on right now — more so than the downward spiral.
+
+micah: 10. this is happening!!!!
+
+jinx.
+
+harry: yay, we can end the chat!
+
+hilary.krieger: yeah. 10 for now, 9.5 for all four years.
+
+i guess the question is whether this is mutually exclusive with other scenarios.
+
+perry: exactly what i was typing.
+
+micah: yeah, good point. i don’t think it is.
+
+natesilver: it was only five weeks ago that trump had “upended 150 years of two-party rule.”
+
+now he’s back to making fun of “crooked hillary” again.
+
+harry: this is for nate:
+
+
+hilary.krieger: what year did the yankees rebound?
+
+perry: 1995. right?
+
+harry: the yankees had a winning record in 1993, were in first in 1994 (strike year) and then in 1995 made the playoffs for the first time since 1981.
+
+micah:
+
+no. 8. trump is consumed by scandal. on the one hand, the threshold for what it takes to make the public truly outraged about trump is likely to be higher than it would be for almost any other politician. on the other hand, perhaps no president has had such high potential for scandal.
+
+perry: 5.
+
+harry: 4.
+
+micah: yeah. 5.
+
+natesilver: oh, come on. 7.
+
+micah: wait, yeah … actually …
+
+9.
+
+the comey firing by itself makes this way more likely.
+
+hilary.krieger: again, i think we’re near a 10 now. but in the future, 8.5.
+
+micah: i would reverse those two.
+
+hilary.krieger: yeah, i would too. but the point is that you can argue that the white house is already consumed by scandal. the question is what difference that makes.
+
+micah: lol.
+
+natesilver: you’re still a 4, harry?!?!?!?!?
+
+perry: so this is not more likely to me. this was always one of my assumptions. he walked into office with the russia controversy.
+
+harry: i just don’t think the investigation has touched trump yet. it has touched people close to trump, but not trump. not in the way that “consumed” suggests.
+
+micah: perry’s point is fair. it comes down to your priors, i guess.
+
+harry’s point is stupid.
+
+harry: it’s too bad that i won’t be filing my article later this week, micah. i’m too hurt.
+
+i don’t think it’s become more likely.
+
+natesilver: you’re being much too short-term focused there, harry. special counsel robert mueller is a huge risk to trump, and the fact that he doesn’t leak a lot shouldn’t be confused for that risk having abated.
+
+perry: i think nate is right here that the lack of russia news has made me forget about russia a bit. but it remains the biggest threat to his presidency.
+
+natesilver: also, trump’s worsening relationship with the congressional gop — which i don’t think was a given — makes things much dicier for him if and when mueller comes down with an finding that trump obstructed justice in the russia investigation.
+
+harry: you’d think i wrote a “1”!
+
+micah:
+
+no. 9. trump is undermined by a failure to deliver jobs. although the u.s. economic outlook is fairly bright in the near term, macroeconomic conditions are largely unpredictable more than about six months in advance. some of trump’s economic policies, such as imposing tariffs, could also contribute to the likelihood of an economic downturn. presidents usually see their popularity suffer amidst a declining economy, and trump could be especially vulnerable after having promised to create so many jobs.
+
+natesilver: 3.5.
+
+harry: 7.
+
+perry: 4.
+
+micah: 3.
+
+hilary.krieger: 4?
+
+perry: harry’s was interesting.
+
+harry: talk about getting fooled by the short-term stuff.
+
+perry: lol.
+
+micah: bam! 💥
+
+natesilver: so you’re an economic forecaster now, harry?
+
+harry: his overall job approval rating is low despite getting good marks on the economy.
+
+i don’t know what the economy will do. it could go up and could go down. my guess is that at least at some point, it will go down.
+
+natesilver: a 7 would seem to imply that the long-term outlook for the economy has gotten worse since january. and i’m not sure that it has.
+
+micah: the chances of trump policies themselves tanking the economy has gone down, right? just in the sense that he can’t really get anything big passed?
+
+perry: so trump has been less committed to his trade agenda than i thought. the wall street wing has basically pushed him to govern like a regular republican on those issues.
+
+hilary.krieger: yeah, though we might get a better sense of trump’s stance on trade pretty soon, based on where he comes down on nafta.
+
+perry: right. this could be changing.
+
+micah:
+
+no. 10. trump’s law-and-order agenda is bolstered by an international incident or terrorist attack. it’s all too easy to envision this scenario, since the tactics trump might use if this happened are similar to the ones he used on the campaign trail. a terrorist attack or an international conflagration initially boosts trump’s popularity because of the so-called rally-’round-the-flag effect, which we saw with bush after the sept. 11 attacks. trump uses his popularity boost to promote nationalism, curtail civil liberties, erode the rule of law and demonize minority groups such as muslims.
+
+perry: 7.
+
+micah: 5.
+
+hilary.krieger: 3.
+
+harry: 5?
+
+micah: lots of disagreement!
+
+natesilver: 8.
+
+micah: this seems just as likely to me as it was on jan. 20.
+
+natesilver: although, i’m throwing north korea in here when i originally envisioned a terror attack.
+
+micah: oh, that’s a good point.
+
+harry: all right, maybe 5.5.
+
+hilary.krieger: it’s important to keep in mind that trump is as likely to bungle handling of this crisis as benefit from it. yeah, he might get a two-month boost, but it could well lead to a two-year low. and while presidents often have popular support amid growing foreign confrontations, trump is already getting low ratings on these issues. this poll found that 65 percent of americans think he has made the situation with north korea worse, and only 8 percent think he’s made it better. if people blame a north korea crisis on trump, it could tank his popularity.
+
+perry: his numbers are bad enough that i think he would use a terrorist attack in this way. so the fact that his approval ratings have gotten worse since january makes this more likely. and remember how he handled the london terrorist attack? he started talking about his travel ban, like immediately.
+
+micah: hilary’s point about trump being just as likely to bungle the response as benefit from it is right.
+
+natesilver: if the las vegas shooter had been muslim, trump’s response might have been very different.
+
+harry: “might” is a weak word from you, nate.
+
+micah:
+
+no. 11. trump plunges america into outright authoritarianism. while frum imagines a gradual eight-year drift toward authoritarianism, there are other precedents (such as in turkey and russia) for a more abrupt shock to the system. bannon … spoke in 2013 of wanting to “bring everything crashing down, and destroy all of today’s establishment.” if trump feels the same way, he could decide that there are lots of advantages to moving quickly while his opponents are still disoriented, and while he has a republican congress that has not yet shown much appetite to resist him.
+
+harry: 3.
+
+perry: 4.
+
+natesilver: 2
+
+micah: yeah. 2.
+
+hilary.krieger: 1.25. he might try, but he won’t succeed.
+
+harry: his administration is not competent enough.
+
+natesilver: it says an “abrupt shock to the system.” which i don’t think there has been.
+
+micah: america’s other institutions have proven more resilient than i expected, and trump’s white house has been more inept than … well, it’s often been inept.
+
+natesilver: i’m not sure if people are underrating or overrating the chance of a less-than-abrupt shock to the system, however.
+
+perry: i guess this seems much less likely in that trump seems so ineffectual right now. but i don’t think these shifts happened that fast in other countries.
+
+micah might be right, but i would say “2” if we have six more months like the first year has gone.
+
+micah:
+
+no. 12. resistance to trump from elsewhere in the government undermines his authority but prompts a constitutional crisis. have you ever heard talk about the “deep state” or the “military-industrial complex”? we may soon see how much power it actually has. traditionally, we think of congress and the judiciary as providing a check on the president’s powers. but there are lots of people within the executive branch (including the military and the federal bureaucracy) who have the potential to stymie trump, whether by expressly refusing to carry out his orders or by what amounts to sabotage (i.e., by leaking to the press, foot-dragging, etc.).
+
+perry: 5.
+
+harry: this feels not unreal.
+
+micah: 7.6.
+
+natesilver: 7.599999999999
+
+hilary.krieger: 6. (see above about not succeeding.)
+
+harry: 5.10124.
+
+hilary.krieger: see also mattis, national parks service and national science foundation.
+
+micah: we haven’t had a crisis yet, per se, but we have all the ingredients for one.
+
+natesilver: yeah, the “undermines his authority” part seems like a safer bet than the “prompts a constitutional crisis” part.
+
+micah: jinx.
+
+perry: i don’t have a great sense if this is happening right now or not. it seems like it is, but this is where i will learn more from books published in, say, 2030. i’m not sure if i view mattis and kelly as stymieing trump in a real way.
+
+harry: i think they’re stopping the worst from occurring.
+
+natesilver: in some ways, the stories about trump basically having to be baby-sat indicate that there are a lot of implicit and explicit checks built into the system.
+
+with that said, what happens when the baby sitter goes out for a smoke and trump still has the nuclear football with him?
+
+or at least his twitter account.
+
+harry: what type of baby sitter smokes?
+
+micah:
+
+no. 13. trump becomes governor schwarzenegger. … after a rough first couple of years on the job, schwarzenegger dropped his tough-guy act and shifted significantly to the center, winning re-election in a landslide in 2006. could trump do something similar? … one can imagine him becoming obsessed with his approval ratings and deciding fairly early in his term that a bipartisan approach would be the best way to improve them. the desire to be popular can do unexpected things to even the most stubborn-seeming politicians.
+
+perry: 1.
+
+natesilver: 6.
+
+harry: 5. the reason i say 5 is i’d want to see what happens after the midterms.
+
+perry: this depends on whether we are talking about economic issues or identity issues.
+
+micah: 2.
+
+hilary.krieger: 3.5.
+
+we’re likely to see this as something he resorts to from time to time, when he needs a hit of approval from the elites and media, but he’s unlikely to fundamentally reorient along these lines.
+
+natesilver: trump doesn’t seem to give a shit about the republican party and could easily try to become “bipartisan” if democrats do well at the midterms. now, would that be effective? probably not, which is why i put a lot of chips on the flailing around scenario. but it might be more effective than what he’s doing now.
+
+micah: weirdly, i do think trump would need to become obsessed with his approval rating in order for this to happen. and all the evidence we have suggests that — confronted with bad numbers — he’s more likely to dismiss and undermine them than accept that he’s unpopular and change course. last one!
+
+no. 14. trump’s button-mashing works because the system really is broken. another possibility is that it turns out that the elite consensus is in fact wrong in many areas — on the economic benefits of free trade and open borders, for instance. in that case, trump does fairly well with a somewhat contrarian approach that “shakes up the system.” it’s not that all of his ideas are brilliant, necessarily, it’s just that deviating from the status quo is a good default because the status quo isn’t working very well.
+
+harry: 1.72.
+
+perry: 2.
+
+natesilver: 3.69.
+
+hilary.krieger: 2.
+
+micah: 0.
+
+harry: the scale is 1 to 10.
+
+perry: lol.
+
+natesilver: the rest of you are pre-judging this one too much. it says that somehow, even though it seems crazy at the time, his shit works. it’s too early to say if it works.
+
+harry: i think we’re all below 5.
+
+micah: i’m as contrarian and anti-elite as your average fivethirtyeight employee, but one thing i think we’ve learned from the trump era so far is that the government bureaucracy, the rules, the processes, the norms, etc., are there for reasons — and many of those are good reasons. so upending all that stuff is unlikely to be a successful strategy.
+
+hilary.krieger: some of his anti-status-quo stuff could work (or be spun as working), but i don’t see him doing enough shaking up to really undermine or fundamentally alter stuff (except perhaps by getting into a war with north korea). but i don’t think that will give him real success, just a win or two here and there.
+
+natesilver: but what if we have eight years of 3 percent gdp growth and no major wars? that’s what we’ve had so far!
+
+it’s working!!!!!!!
+
+micah: the key phrase here is “button-mashing.” it implies trump doing things.
+
+hilary.krieger: nate, i don’t think that counts as success by shaking up the system. it’s success by maintaining the status quo + some angry tweets.
+
+micah: what hilary said.
+
+micah: final question!
+
+if you had to put all your chips on one scenario, which would it be?
+
+natesilver: the steinbrenner scenario.
+
+perry: steinbrenner is safer, but i will go with slow death spiral to george w. bush-levels of unpopularity. no. 2, i think.
+
+harry: some combined version of nos. 2 and 7.
+
+so i’m with the crowd.
+
+natesilver: how the midterms go and mueller are the two big known unknowns here.
+
+harry: right.
+
+hilary.krieger: i would say nos. 1 and 7. because those are both pretty much happening now. i have no vision. also, no respect for micah’s deadlines.
+
+micah: i’m averaging out 2, 5, 7 and 8, with a sudden turn toward no. 10 still possible.
+
+&&&&&
+

@@ -1,0 +1,48 @@
++++++
+
+The Normal Rules Of Politics Still Apply To Trump — And To Republicans In Congress
+
+2017-08-14
+
+one of the big questions heading into the 2018 midterm elections — maybe the biggest — is how president trump’s unpopularity will affect republican fortunes. normally, a president with historically low approval ratings would be a disaster for his party in senate and house races in a midterm year.
+
+but should we really be presuming that what “normally” happens will happen again? for one, trump won the white house despite having record low favorable ratings. and it’s possible, as cnbc’s john harwood pointed out, that partisan allegiances may be so baked in nowadays that democrats won’t be able to attract republican voters, however much they’ve soured on trump. maybe partisan polarization has grown too strong.
+
+some commentators have taken this argument to extremes. fox news host eric bolling last month effectively argued that trump is immune from the normal rules of politics. “just look at those crowds,” he said, referring to a recent trump rally in ohio. “watch the people, not the polls.”
+
+the available evidence, however, suggests many of the old rules do still apply. caution, like what harwood and political analyst scott rasmussen have advised, is more than warranted, especially given trump’s history of surprising analysts and pundits. partisan polarization has increased, and there is plenty of time for trump’s approval rating to improve. but caution is one thing; ignoring history and evidence, as pundits like bolling want us to do, is another. and the idea that “the normal rules of politics don’t apply to trump” strikes me as the latter — at least according to the data before us. early signs suggest that trump’s low approval rating is having exactly the negative effect on down-ballot republicans that history would predict.
+
+midterm elections are often thought of as referendums on the sitting president. when there’s been an unpopular democrat in the white house, voters have swung toward republicans in congressional races. with a struggling republican president, voters swing democratic. you can see this by looking at the effect a president’s approval rating has on the national house vote. specifically, we can look at how much the national house margin would be expected to shift from the previous presidential election based upon the president’s approval rating right before the midterm election.
+
+in 2004, for example, republicans won the national house vote by 3 percentage points. but two years later, in 2006, with president george w. bush’s approval rating at 38 percent, republicans lost the house vote by 8 points — a 11-point swing from 2004.
+
+
+it’s far from perfect, but in midterm elections since 1946, there’s a clear relationship between the president’s approval rating and the swing in the house vote.
+
+trump’s current approval rating is 38 percent.1 historically, we would expect a president that unpopular to cause his party to lose around 11 points off its previous house margin. republicans won the national house vote by 1 percentage point in 2016, so this suggests they would lose it by 10 points if the midterm elections were held today.
+
+obviously, the 2018 midterm isn’t being held today. trump’s approval could rise or fall over the next year. but we do have some measures of the current political environment we can use to see if the normal relationship between a president’s popularity and voter preferences is holding.
+
+first up: the generic congressional ballot, a common poll question that asks respondents whether they will vote for the democrat or republican in their congressional district.2 democrats right now hold a 46 percent to 37 percent lead, according to the fivethirtyeight aggregate. that’s a bigger lead than democrats had at any point in 2016 cycle, and it’s in line with the margin necessary for democrats to take back the house.
+
+that 9-point democratic edge is also right in line with what you’d expect given an incumbent president with an approval rating in the high 30s. so according to the generic congressional ballot, the normal rules of politics are still hanging on in the trump era — voters’ dissatisfaction with trump is affecting their preferences for the house in the way you’d expect based on past elections.
+
+ok, i can already feel the “fake polls!” tweets coming. but it’s not just in polling where we see the negative effect of trump’s unpopularity on republicans. you can also see it in the special elections held so far this year — actual voters actually voting.
+
+there have been 30 special state legislature and u.s. congressional elections3 since trump was sworn-in as president. democrats, as a group, have been outperforming the partisan lean in these districts — tending to come close in ruby red districts, winning swing districts and romping in light blue districts. more specifically, democratic candidates have done about 16 percentage points better, on average, than you’d expect in a national environment in which no party held the advantage. (imagine a world in which the democratic and republican presidential candidates tie 50-50 in the popular vote).4 this overperformance holds as well for the smaller subset of congressional elections.
+
+
+*democratic and republican vote shares are for all candidates of each respective party.
+the partisan lean compares the district’s vote in the last two presidential elections to the nation’s, with the 2016 election weighted 75 percent and the 2012 election weighted 25 percent.
+
+source: secretaries of state, daily kos elections
+
+that 16-point difference is about what you’d expect given a president with an average approval rating in the low 40s — trump’s average over the course of his presidency so far.5 below, you can see the president’s average approval rating from his inauguration to the next midterm election since 19946 and compare it to how much the president’s party over- or underperformed the partisan lean in the average special congressional election7 during that time.
+
+
+the dataset is small and the relationship isn’t perfect, but it clearly exists. a president whose approval rating averages 41 percent from his inauguration to the midterm corresponds to his party underperforming the weighted lean in the average district by 11 points. republicans are actually doing slightly worse than that right now, though well within the range expected.
+
+so the generic ballot and the special elections held so far both suggest trump’s low approval ratings are having a normal effect on down-ballot races. the question going forward is whether trump can improve his approval ratings or whether congressional republicans can distance themselves from the trump brand. if either occurs, then republicans stand a good chance of holding onto their majority in the house. if neither happens and republicans lose the house, trump will get a big portion of the blame.
+
+&&&&&
+

@@ -1,0 +1,757 @@
+﻿+++++
+
+The Fundamentals Favor Democrats In 2018
+
+2017-11-08
+
+Democrats had a really good night on Tuesday, easily claiming the Virginia and New Jersey gubernatorial races, flipping control of the Washington state Senate and possibly also the Virginia House of Delegates, passing a ballot measure in Maine that will expand Medicaid in the state, winning a variety of mayoral elections around the country, and gaining control of key county executive seats in suburban New York.
+
+They also got pretty much exactly the results you’d expect when opposing a Republican president with a 38 percent approval rating.
+
+That’s not to downplay Democrats’ accomplishments. Democrats’ results were consistent enough, and their margins were large enough, that Tuesday’s elections had a wave-like feel. That includes how they performed in Virginia, where Ralph Northam won by considerably more than polls projected. When almost all the toss-up races go a certain way, and when the party winning those toss-up races also accomplishes certain things that were thought to be extreme long shots (such as possibly winning the Virginia House of Delegates), it’s almost certainly a reflection of the national environment.
+
+But we didn’t need Tuesday night to prove that the national environment was good for Democrats; there was plenty of evidence for it already. In no particular order of importance:
+
+President Trump’s approval rating is only 37.6 percent.
+Democrats lead by approximately 10 points on the generic Congressional ballot.
+Republican incumbents are retiring at a rapid pace; there were two retirements (from New Jersey Rep. Frank LoBiondo and Texas Rep. Ted Poe) on Tuesday alone.
+Democrats are recruiting astonishing numbers of candidates for Congress.
+Democrats have performed well overall in special elections to the U.S. Congress, relative to the partisanship of those districts; they’ve also performed well in special elections to state legislatures.
+The opposition party almost always gains ground at midterm elections. This is one of the most durable empirical rules of American politics.
+So while Northam’s 9-point margin of victory was a surprise based on the polls, which had projected him to win by roughly 3 points instead,1 it was right in line with what you might expect based on these “fundamental” factors. For instance, a simple model we developed based on the generic ballot and state partisanship forecasted a 9-point win for Democrats in Virginia and a 13-point win in New Jersey, pretty much matching their actual results in each state.
+
+To put it another way, Tuesday’s results shouldn’t have exceeded your expectations for Democrats by all that much because you should have had high expectations already. Midterm elections — and usually also off-year and special elections — almost always go well for the opposition party, and they’re going to go especially well when the president has a sub-40 approval rating.
+
+So, does that mean that Democrats are clear favorites to pick up the House next year? No, not necessarily. I’d say they’re favorites, but not particularly heavy ones. Democrats face one major disadvantage, and they have one major source of uncertainty.
+
+The uncertainty is time: There’s still a year to go until the midterms. This could cut either way, of course. The political environment often deteriorates for the president’s party during his second year in office, and one can imagine a variety of factors (from attempting to pass an unpopular tax plan to ongoing bombshells in the Russia investigation) that could further worsen conditions for Republicans. One can also imagine a variety of factors that would help the GOP: Democrats overplaying their hand on impeachment; a rally-around-the-flag effect after a war or terror attack; Trump quitting Twitter. (OK, probably not that last one.) That Trump is so unpopular so soon in his term makes all of this harder to predict because there aren’t any good precedents for a president with such a poor approval rating so early on.
+
+Democrats also face a big disadvantage in the way their voters are distributed across congressional districts, as a result of both gerrymandering and geographic self-sorting. Although these calculations can vary based on the incumbency advantage and other factors, my back-of-the-envelope math suggests that Democrats would only be about even-money to claim the House even if they won the popular vote for the House by 7 percentage points next year. The Republican ship is built to take on a lot of water, although it would almost certainly capsize if the Democratic advantage in the House popular vote stretched into the double digits, as it stands now in some congressional preference polls.
+
+Nonetheless, my sense is that the conventional wisdom has, to this point, somewhat underrated the Democrats’ chances of having a wave election next year. And it’s for some fairly stupid (although understandable) reasons.
+
+One is in the tendency to fight the last war. Journalists and pundits are always chastened by the “lessons” of the most recent election, especially if the outcome was surprising to them. And they usually like to argue that the results represented a realignment or a paradigm shift, rather than — as is more often the case — a fluctuation that came about from a combination of cyclical and circumstantial factors that may not replicate themselves. So they’re often slow to recognize signs that the political climate is shifting in the opposite direction from the supposed realignment, even when they’re really obvious. (Like, say, a Republican winning a Senate seat in Massachusetts only a year after the Democratic president took office.)
+
+Second, the pundit class has a poor understanding of polling, and how it performed in 2016 — and it’s making 2018 punditry worse. As I wrote in our live blog on Tuesday night:
+
+[It’s] been interesting to see how television pundits adapt to the post-2016 environment. Pretty much everyone on Monday morning’s “Morning Joe” panel predicted that Gillespie would win in Virginia despite Northam’s modest lead in the polls, for instance…
+
+[The] segment was a bit worrisome in that it suggests that political pundits and reporters learned the wrong lessons from 2016. Contrary to the conventional wisdom, the polls weren’t that far off last year — they were about as accurate as they’d been in past elections. But they were filtered thru a lens of groupthink that was convinced Trump couldn’t possibly win — and so pundits routinely misinterpreted polls and ignored data showing a competitive race.
+
+It’s healthy to take away the lesson from 2016 that polls are not always right… But that polls aren’t always right doesn’t mean that one’s gut instinct is a better way to forecast elections. On the contrary, the conventional wisdom has usually been much wronger than the polls, so much so that it’s given rise to what I’ve called the First Rule of Polling Errors, which is that polls almost always miss in the opposite direction of what pundits expect. That the “Morning Joe” panel thinks Gillespie will win might be a bullish indicator for Northam, in other words.
+
+
+If you think numbers like Trump’s 37.6 percent approval rating are “fake news” because polls perpetually underrated Trump before, then the political climate doesn’t look quite as scary for the GOP. However, one needs to be careful about assuming the polling error always runs in the same direction; historically, it’s been just as likely to reverse itself from one election to the next. (For instance, polls lowballed Democrats in 2012 but then did the same to Republicans in 2014.)
+
+Finally, there’s perhaps an unhealthy obsession with the white working-class vote, and its potential to sway the 2018 midterms in favor of Republicans. This could be more of a concern for Democrats in 2020. But the midterm electorate is typically more educated and better off financially than the presidential-year one. Also, most of the pickup opportunities that analysts envision for Democrats are in wealthy or at least middle-class areas. On average, the 61 Republican-held Congressional districts that the Cook Political Report rates as competitive rank in the 65th percentile in educational attainment (as measured by the share of adults with at least a bachelor’s degree) and also the 65th percentile in median household income. Some of them are fairly white, and some aren’t — but almost none are both white and working-class.
+
+Competitive districts are mostly well-off and well-educated
+Demographic ranking for the 61 Republican-held Congressional districts that the Cook Political Report rates as competitive
+PERCENTILE RANK AMONG ALL 435 CONGRESSIONAL DISTRICTSSEAT
+
+
+Of course, this logic is somewhat circular: if Democrats aren’t trying to compete for the white working-class vote, outlets like Cook won’t list white working-class districts as being competitive. It’s possible there are some overlooked opportunities, such as in South Carolina’s 5th Congressional District, which Democrats came surprisingly close to winning in a special election earlier this year.
+
+Nonetheless, Democrats have quite a few pathways toward winning the House that rely primarily on middle-class and upper-middle-class suburban districts, plus a few districts with growing nonwhite populations. Many of these are in coastal states or in blue states, including four of them in Virginia, four in New Jersey, four in Illinois, five in New York and eight in California, according to Cook’s list. It might not be advisable for Democrats to only target these sorts of districts; history suggests that parties usually benefit from competing ambitiously in all sorts of districts and seeing where the chips fall. But it’s plausible for them to do so and reclaim the House. Come 2020, though, it will be harder for Democrats to win back the Electoral College without rebounding among the white working class.
+
+
+&&&&&
+
++++++
+
+Where Is The Trump Presidency Headed?
+
+2017-10-18
+
+In this week’s politics chat, we check back in on the trajectory of President Trump’s presidency. The transcript below has been lightly edited.
+
+micah (Micah Cohen, politics editor): Welcome, all! We’re lucky to have our Washington editor, Hilary Krieger, joining us!
+
+Our topic: “14 Versions Of Trump’s Presidency, From #MAGA To Impeachment”
+
+Nate wrote this article after Trump’s inauguration; it lays out 14 possible tracks the administration could take. We’ll go through each scenario, and everyone has to rank it on a scale from 1 (has become much less likely since Trump was sworn in) to 10 (has become much more likely since Trump was sworn in).
+
+You have to factor in where things stand now and where they might be headed. Everyone got that?
+
+natesilver (Nate Silver, editor in chief): Shouldn’t the scale be 0 to 10?
+
+micah: omg. Stop.
+
+harry (Harry Enten, senior political writer): 11 options is too many.
+
+hilary.krieger (Hilary Krieger, Washington editor): But 14 versions is totally manageable.
+
+harry: I like even numbers.
+
+micah: The idea here is to periodically take a step back and view the Trump era in aggregate. We last checked in on this back in May, if you remember.
+
+OK …
+
+No. 1: Trump keeps on Trumpin’ and the country remains evenly divided. In this scenario, Trump continues to implement his campaign-trail agenda. He still rants on Twitter every morning and picks unnecessary fights, although … he mostly avoids major entanglements with foreign leaders that could really get him into trouble. And it … sort of works. The press regularly predicts Trump’s demise, but difficult periods are followed by comparatively successful ones and he benefits from relatively low expectations. At the same time, he doesn’t win over many new converts. Still, Trump’s base of 40 to 45 percent of the country sticks with him.
+
+natesilver: 6.
+
+harry: 3.5. Trump’s job approval rating has been below 40 percent since mid-May.
+
+perry (Perry Bacon Jr., senior writer): 5.
+
+hilary.krieger: 7.
+
+harry: Fairly wide disagreement here.
+
+micah: Yeah, that’s surprising.
+
+perry: Did Micah give a number?
+
+micah: I’m the moderator!
+
+natesilver: That’s a cop-out! What’s your number?
+
+micah: I’ll go with a 4.
+
+The Trump administration, were it a boat, has sorta oscillated between rotted-out hull/taking on water and barnacle-covered-but-very-much-afloat. This scenario is sorta at the better end of that range.
+
+natesilver: It’s worth pointing out that Trump’s approval ratings are in about the same place that they were back in May, after he fired FBI Director James Comey. Although they’ve fluctuated up and down a couple of times since then. But the case for “low-but-steady approval rating” is a bit stronger than it was a couple of months ago.
+
+The tricky thing is that low-but-steady might be OK for Trump if low means 42 or 43 percent, but less so if it means 37 or 38 or 39 percent.
+
+hilary.krieger: Yeah, and that’s why I gave this version a high number: It tracks with what’s happened so far and because for all of Trump’s low approval ratings, Republican primary candidates don’t seem to be running away from him.
+
+natesilver: The spirit of this scenario holds up pretty well, but maybe not so much the letter of it (which envisioned an approval rating in the low 40s instead of high 30s).
+
+harry: We’ve found that Trump has lost some of his base, so I don’t see how we can say his base sticking with him has become more likely. Granted, the Twitter part is still very true.
+
+perry: If the GOP can pass a tax cut — that’s a big, big if — Trump will hold a signing ceremony and tout the bill as a big win. It’ll get lots of positive media coverage. And maybe he can get to 41 to 43 percent and there we are. I’m also not as convinced as I was three months ago that Russia will be a huge scandal that implicates Trump personally when it is over.
+
+micah: I’m closer to where Harry is.
+
+But this gets us a bit into the second scenario …
+
+No. 2. Trump gradually (or not-so-gradually) enters a death spiral. Liberals and other Trump adversaries might overrate the likelihood of this scenario … His problems could be self-reinforcing as issues pile on top of one another and public opinion turns against him, especially if the more coolheaded and competent advisers and Cabinet members flee the White House as Trump begins to falter. In this scenario, Trump’s approval ratings wouldn’t necessarily fall off a cliff — his base would give him a mulligan or two — but they would move slowly and inexorably downward, as happened to George W. Bush during his last two years in office.
+
+perry: 9.
+
+hilary.krieger: 7.5.
+
+natesilver: 6.5.
+
+harry: Greater than 5, less than 10. I agree with Hilary: 7.5.
+
+Agreement!
+
+micah: Hmmm …
+
+I’ll go 7.
+
+perry: I guess I feel like this is happening, even if it’s not more likely than it was in February. Are we debating if this is happening or if this is a shift from expectations?
+
+micah: A combo.
+
+natesilver: Yeah, we’re sort of splitting the uprights between the first two scenarios so far. If I had to lean toward one, I’d go with No. 2 over No. 1. Narratively, it holds up better: “His problems could be self-reinforcing as issues pile on top of one another and public opinion turns against him” sounds fairly prescient.
+
+perry: Right.
+
+micah: See, maybe Perry is right that this is happening — it’s just a very sloooooow process.
+
+natesilver: There haven’t been very many Russia/Mueller revelations lately, and, presumably there eventually will be. I’d like to see what happens when that’s dropped into Trump’s pile.
+
+Sen. Bob Corker’s comments about Trump’s mental fitness are also relevant here, in terms of problems piling up.
+
+harry: In order to be convinced of No. 2, I’d want to see Trump’s approval rating at least as low as 35 percent or so by December. I’d want to see a continual decline of his floor, even if his rating bounces up and down a bit.
+
+natesilver: It’s worth noting that for past presidents, the tendency is for approval ratings to revert to a mean of about 40 to 50 percent — more like scenario No. 1 than scenario No. 2. So in some ways, betting heavily on No. 2 is betting on the case that Trump is an outlier/exception.
+
+hilary.krieger: That’s why I’m just going with .5 spread between the two scenarios.
+
+natesilver: Yeah, I think both cases are pretty reasonable.
+
+micah:
+
+No. 3. Trump keeps rewriting the political rules and gradually becomes more popular. Trump won the presidency despite being fairly unpopular, and he remains fairly unpopular now. Nonetheless, what he’s accomplished is impressive, especially given the long odds that many people (including yours truly) gave Trump at the start. Maybe the guy is pretty good at politics? One can imagine various scenarios where Trump’s default approach to politics turns out to be a winning one over the long run, even if it leads to its fair share of rocky moments.
+
+harry: 1.5.
+
+micah: 3.
+
+perry: 3.
+
+natesilver: 2.5.
+
+hilary.krieger: 1.5 (since Harry went with my number last time).
+
+harry: AWWWWWW
+
+🙂
+
+micah: Harry, Hilary … too low!
+
+It’s definitely become less likely. But the fact that Trump is still near the 40s suggests that this is still a live possibility.
+
+hilary.krieger: OK, you convinced me. 2.
+
+harry: BOOOOOOO.
+
+hilary.krieger: Sorry, Harry — he made an astute point.
+
+perry: Trump had that weird period where he seemed to want to cut deals with Democrats. If he does more of that, he could win over some of the middle of the electorate. And I’m not totally convinced, despite his governing so far, that he is really conservative or cares about ideology that much.
+
+So, less likely, but not impossible to see this happening.
+
+natesilver: There are lots of scenarios under which Trump’s flaws prove to be less-than-fatal to his political prospects and he gets re-elected. That’s sort of how he won the election in the first place. That doesn’t mean they’re not flaws, though. And the tendency to rationalize stupid shit that he does as some sort of brilliant strategy has been one of the most annoying characteristics of how the media has covered Trump so far.
+
+micah:
+
+No. 4: Trump mellows out, slightly. This is the mildest course change. In this case, after an up-and-down first three to six months, Trump gradually gets better at the job of being president, not necessarily because of a concerted effort to pivot but because he learns through trial and error that he needs to pick his battles. Steve Bannon and other more incendiary advisers lose stature, and Trump’s bonds with Republican leaders in Congress strengthen as he somewhat faithfully carries out their agenda.
+
+natesilver: 3.
+
+perry: 3.
+
+hilary.krieger: Can we divide up Bannon losing stature and “Trump’s bonds with Republican leaders in Congress strengthen”? They kind of cancel each other out in my calculation.
+
+harry: 2.
+
+micah: .00001
+
+(I don’t think Bannonism has lost stature, though.)
+
+natesilver: I guess this one sort of had a timestamp of three to six months, and we’re beyond that now — and there aren’t really signs that he’s becoming more effective since the six-month mark. Probably the opposite, given Puerto Rico and North Korea.
+
+harry: I mean, Bannon is gone. But Trump isn’t any closer to Senate and House leaders.
+
+hilary.krieger: Yeah, but we’re talking about the future. I could see Bannonism losing stature. I can’t see Republicans developing a strong bond with Trump.
+
+micah: Here’s the thing, and it’s why I rate No. 4 as much less likely than No. 3: I think there’s still a chance that Trump’s shtick will prove effective in moments, but I’d bet there’s very, very little chance of Trump changing his shtick. No. 4 imagines him changing in ways I can’t see happening.
+
+hilary.krieger: Agreed.
+
+perry: Good point. The Bannon exit did happen, and I could see Trump liking party leaders better if tax reform/cuts happen.
+
+micah: Yeah, taxes could change a lot.
+
+natesilver: With all that said, I think people might be underrating the chance that Trump can get things turned around by two years from now, as opposed to two weeks or two months from now. The problem with all the “p***t” stories isn’t so much that it’s impossible for Trump to change — or improve — but that they rely on (often cherry-picked) short-term evidence, instead of waiting until there’s actually been an upward trajectory.
+
+harry: I don’t know if he can p***t, but I think a p***t could be successful.
+
+hilary.krieger: Philosophical, I like it.
+
+natesilver: When you say you don’t know that Trump can p***t, Harry, is that because you think he might not be mentally fit enough to p***t?
+
+That question looms very large for me, in terms of how I’m assessing the scenarios.
+
+harry: I meant it in the same way that I try to give up french fries, but just cannot. Maybe one day I will, though.
+
+natesilver: Like, if Mitt Romney or someone suddenly inhabited the brain of Trump, eventually RomneyTrump would p***t, right?
+
+micah: Yes.
+
+I’m not sure “fit” is the right word, but Trump doesn’t seem to have the mentality to change in certain ways. And those ways would be required for a true p***t.
+
+perry: Well, I think Trump’s relationships can improve, because of how other people treat him. If more policies pass in Congress and get signed, he will be criticized by people in his party less. And maybe then he won’t feel compelled to attack back. Does the whole Trump-Corker battle happen if the Obamacare repeal had passed?
+
+hilary.krieger: Yeah, Perry, you’re right that Congress is more likely than, say, Bannon to change its relationship with Trump — they’re only going on expediency, rather than ideology, and that opens up a lot of possibilities.
+
+micah: That’s a good point — Trump doesn’t change but circumstances do. The stimuli going into the Oval Office change.
+
+harry: Intriguing.
+
+natesilver: And those stimuli probably won’t get better as the midterms get closer.
+
+Although they could get better by the time the 2020 general election does, and Republican fortunes are tied to Trump — they’ll have to sort of sink or swim with Trump and choose swim yet again.
+
+micah:
+
+No. 5. Trump cedes authority. I rarely see this possibility discussed, but it has several historical precedents among presidents who found the job mentally or physically overwhelming. The key aspect is that within a year or two, Trump would have effectively relinquished day-to-day control of the government to Vice President Mike Pence and to his Cabinet, instead focusing on the more ceremonial aspects of the presidency and perhaps exploiting it for personal enrichment.
+
+perry: 2.
+
+micah: This is a tough one.
+
+harry: 4.5.
+
+micah: 5.
+
+natesilver: 6.
+
+Actually, let me revise to 7.
+
+micah: Isn’t there a chance that this has already happened?
+
+hilary.krieger: 0 if we’re talking about Trump literally ceding authority. 4 if we’re talking about Trump quietly letting Pence et al. run everything.
+
+micah: The latter.
+
+perry: Iran. CRS payments. National anthem. No, this has not happened.
+
+micah: Oh. Yeah. Perry is right.
+
+perry: Chief of Staff John Kelly would not have done any of those things on his own, I don’t think.
+
+natesilver: I don’t think it’s already happened — this is one of the scenarios that would take a longer time to play out. But the prerequisite is that “he finds the job mentally or physically overwhelming,” and there’s a fair amount of evidence for that.
+
+micah: There was this:
+
+
+hilary.krieger: It’s also not a total either-or. He can gradually leave more decisions to others.
+
+natesilver: I’d also mention that he doesn’t seem to be spending that many hours at the White House. I’m not one of those people who thinks the Trump-always-plays-golf thing is a huge deal. But it’s somewhat relevant here. His attention to the job is hit-and-miss.
+
+harry: Well, it appeared that he left most of the health care policy details to others, although, he’s been selling tax reform pretty hard. He also seems to be out to lunch with golf, as Nate mentioned.
+
+hilary.krieger: There’s also the variable of how much Cabinet members try to covertly wrest control from him and how far they get.
+
+micah:
+
+No. 6. Trump successfully pivots to the populist center (but with plenty of authoritarianism too). This … involves Trump becoming more of a true populist, remaining hard-line on immigration and trade but calling for significant infrastructure and social welfare spending.
+
+perry: 2.
+
+natesilver: 3.
+
+micah: 1.
+
+harry: 1.25.
+
+I refuse to agree with Micah.
+
+hilary.krieger: I was going to say 4, but I think that requires more strategy and consistency than Trump exhibits. So I’ll downgrade to 2.5.
+
+perry: He is just not interested in doing big-government stuff. I don’t know if that is because the Hill is blocking him or he is more conservative than his campaign rhetoric or what.
+
+micah: Yeah, I haven’t seen any evidence that Trump’s “true” position is populist in nature, so I’m not sure why he would revert to it, if that makes sense.
+
+harry: I have heard conservative stuff from Trump, with few exceptions. I’m talking tax cuts, Obamacare repeal, etc. Where is the talk of infrastructure spending?
+
+natesilver: I agree with Micah that Trump more borrows from the stylistic elements of populism — including some of its other-isms (e.g., nationalism, racism) — than actually being a populist. That tax plan sure as hell isn’t populist, for instance. It’s about the furthest thing imaginable from being populist.
+
+micah:
+
+No. 7. Trump flails around aimlessly after an unsuccessful attempt to pivot. In this scenario, Trump is like George Steinbrenner running the 1980s New York Yankees, firing his managers and changing course all the time without ever really getting anywhere. Instead, he churns through advisers and alienates allies faster than he makes new ones.
+
+perry: 7.
+
+natesilver: 8.
+
+harry: 7.5.
+
+natesilver: This is actually the best description of what’s going on right now — more so than the downward spiral.
+
+micah: 10. THIS IS HAPPENING!!!!
+
+jinx.
+
+harry: Yay, we can end the chat!
+
+hilary.krieger: Yeah. 10 for now, 9.5 for all four years.
+
+I guess the question is whether this is mutually exclusive with other scenarios.
+
+perry: Exactly what I was typing.
+
+micah: Yeah, good point. I don’t think it is.
+
+natesilver: It was only five weeks ago that Trump had “upended 150 years of two-party rule.”
+
+Now he’s back to making fun of “Crooked Hillary” again.
+
+harry: This is for Nate:
+
+
+hilary.krieger: What year did the Yankees rebound?
+
+perry: 1995. Right?
+
+harry: The Yankees had a winning record in 1993, were in first in 1994 (strike year) and then in 1995 made the playoffs for the first time since 1981.
+
+micah:
+
+No. 8. Trump is consumed by scandal. On the one hand, the threshold for what it takes to make the public truly outraged about Trump is likely to be higher than it would be for almost any other politician. On the other hand, perhaps no president has had such high potential for scandal.
+
+perry: 5.
+
+harry: 4.
+
+micah: Yeah. 5.
+
+natesilver: Oh, come on. 7.
+
+micah: Wait, yeah … actually …
+
+9.
+
+The Comey firing by itself makes this way more likely.
+
+hilary.krieger: Again, I think we’re near a 10 now. But in the future, 8.5.
+
+micah: I would reverse those two.
+
+hilary.krieger: Yeah, I would too. But the point is that you can argue that the White House is already consumed by scandal. The question is what difference that makes.
+
+micah: lol.
+
+natesilver: You’re still a 4, Harry?!?!?!?!?
+
+perry: So this is not more likely to me. This was always one of my assumptions. He walked into office with the Russia controversy.
+
+harry: I just don’t think the investigation has touched Trump yet. It has touched people close to Trump, but not Trump. Not in the way that “consumed” suggests.
+
+micah: Perry’s point is fair. It comes down to your priors, I guess.
+
+Harry’s point is stupid.
+
+harry: It’s too bad that I won’t be filing my article later this week, Micah. I’m too hurt.
+
+I don’t think it’s become more likely.
+
+natesilver: You’re being much too short-term focused there, Harry. Special Counsel Robert Mueller is a huge risk to Trump, and the fact that he doesn’t leak a lot shouldn’t be confused for that risk having abated.
+
+perry: I think Nate is right here that the lack of Russia news has made me forget about Russia a bit. But it remains the biggest threat to his presidency.
+
+natesilver: Also, Trump’s worsening relationship with the congressional GOP — which I don’t think was a given — makes things much dicier for him if and when Mueller comes down with an finding that Trump obstructed justice in the Russia investigation.
+
+harry: You’d think I wrote a “1”!
+
+micah:
+
+No. 9. Trump is undermined by a failure to deliver jobs. Although the U.S. economic outlook is fairly bright in the near term, macroeconomic conditions are largely unpredictable more than about six months in advance. Some of Trump’s economic policies, such as imposing tariffs, could also contribute to the likelihood of an economic downturn. Presidents usually see their popularity suffer amidst a declining economy, and Trump could be especially vulnerable after having promised to create so many jobs.
+
+natesilver: 3.5.
+
+harry: 7.
+
+perry: 4.
+
+micah: 3.
+
+hilary.krieger: 4?
+
+perry: Harry’s was interesting.
+
+harry: Talk about getting fooled by the short-term stuff.
+
+perry: LOL.
+
+micah: BAM! 💥
+
+natesilver: So you’re an economic forecaster now, Harry?
+
+harry: His overall job approval rating is low despite getting good marks on the economy.
+
+I don’t know what the economy will do. It could go up and could go down. My guess is that at least at some point, it will go down.
+
+natesilver: A 7 would seem to imply that the long-term outlook for the economy has gotten worse since January. And I’m not sure that it has.
+
+micah: The chances of Trump policies themselves tanking the economy has gone down, right? Just in the sense that he can’t really get anything big passed?
+
+perry: So Trump has been less committed to his trade agenda than I thought. The Wall Street wing has basically pushed him to govern like a regular Republican on those issues.
+
+hilary.krieger: Yeah, though we might get a better sense of Trump’s stance on trade pretty soon, based on where he comes down on NAFTA.
+
+perry: Right. This could be changing.
+
+micah:
+
+No. 10. Trump’s law-and-order agenda is bolstered by an international incident or terrorist attack. It’s all too easy to envision this scenario, since the tactics Trump might use if this happened are similar to the ones he used on the campaign trail. A terrorist attack or an international conflagration initially boosts Trump’s popularity because of the so-called rally-’round-the-flag effect, which we saw with Bush after the Sept. 11 attacks. Trump uses his popularity boost to promote nationalism, curtail civil liberties, erode the rule of law and demonize minority groups such as Muslims.
+
+perry: 7.
+
+micah: 5.
+
+hilary.krieger: 3.
+
+harry: 5?
+
+micah: Lots of disagreement!
+
+natesilver: 8.
+
+micah: This seems just as likely to me as it was on Jan. 20.
+
+natesilver: Although, I’m throwing North Korea in here when I originally envisioned a terror attack.
+
+micah: Oh, that’s a good point.
+
+harry: All right, maybe 5.5.
+
+hilary.krieger: It’s important to keep in mind that Trump is as likely to bungle handling of this crisis as benefit from it. Yeah, he might get a two-month boost, but it could well lead to a two-year low. And while presidents often have popular support amid growing foreign confrontations, Trump is already getting low ratings on these issues. This poll found that 65 percent of Americans think he has made the situation with North Korea worse, and only 8 percent think he’s made it better. If people blame a North Korea crisis on Trump, it could tank his popularity.
+
+perry: His numbers are bad enough that I think he would use a terrorist attack in this way. So the fact that his approval ratings have gotten worse since January makes this more likely. And remember how he handled the London terrorist attack? He started talking about his travel ban, like immediately.
+
+micah: Hilary’s point about Trump being just as likely to bungle the response as benefit from it is right.
+
+natesilver: If the Las Vegas shooter had been Muslim, Trump’s response might have been very different.
+
+harry: “Might” is a weak word from you, Nate.
+
+micah:
+
+No. 11. Trump plunges America into outright authoritarianism. While Frum imagines a gradual eight-year drift toward authoritarianism, there are other precedents (such as in Turkey and Russia) for a more abrupt shock to the system. Bannon … spoke in 2013 of wanting to “bring everything crashing down, and destroy all of today’s establishment.” If Trump feels the same way, he could decide that there are lots of advantages to moving quickly while his opponents are still disoriented, and while he has a Republican Congress that has not yet shown much appetite to resist him.
+
+harry: 3.
+
+perry: 4.
+
+natesilver: 2
+
+micah: Yeah. 2.
+
+hilary.krieger: 1.25. He might try, but he won’t succeed.
+
+harry: His administration is not competent enough.
+
+natesilver: It says an “abrupt shock to the system.” Which I don’t think there has been.
+
+micah: America’s other institutions have proven more resilient than I expected, and Trump’s White House has been more inept than … well, it’s often been inept.
+
+natesilver: I’m not sure if people are underrating or overrating the chance of a less-than-abrupt shock to the system, however.
+
+perry: I guess this seems much less likely in that Trump seems so ineffectual right now. But I don’t think these shifts happened that fast in other countries.
+
+Micah might be right, but I would say “2” if we have six more months like the first year has gone.
+
+micah:
+
+No. 12. Resistance to Trump from elsewhere in the government undermines his authority but prompts a constitutional crisis. Have you ever heard talk about the “deep state” or the “military-industrial complex”? We may soon see how much power it actually has. Traditionally, we think of Congress and the judiciary as providing a check on the president’s powers. But there are lots of people within the executive branch (including the military and the federal bureaucracy) who have the potential to stymie Trump, whether by expressly refusing to carry out his orders or by what amounts to sabotage (i.e., by leaking to the press, foot-dragging, etc.).
+
+perry: 5.
+
+harry: This feels not unreal.
+
+micah: 7.6.
+
+natesilver: 7.599999999999
+
+hilary.krieger: 6. (See above about not succeeding.)
+
+harry: 5.10124.
+
+hilary.krieger: See also Mattis, National Parks Service and National Science Foundation.
+
+micah: We haven’t had a crisis yet, per se, but we have all the ingredients for one.
+
+natesilver: Yeah, the “undermines his authority” part seems like a safer bet than the “prompts a constitutional crisis” part.
+
+micah: jinx.
+
+perry: I don’t have a great sense if this is happening right now or not. It seems like it is, but this is where I will learn more from books published in, say, 2030. I’m not sure if I view Mattis and Kelly as stymieing Trump in a real way.
+
+harry: I think they’re stopping the worst from occurring.
+
+natesilver: In some ways, the stories about Trump basically having to be baby-sat indicate that there are a lot of implicit and explicit checks built into the system.
+
+With that said, what happens when the baby sitter goes out for a smoke and Trump still has the nuclear football with him?
+
+Or at least his Twitter account.
+
+harry: What type of baby sitter smokes?
+
+micah:
+
+No. 13. Trump becomes Governor Schwarzenegger. … After a rough first couple of years on the job, Schwarzenegger dropped his tough-guy act and shifted significantly to the center, winning re-election in a landslide in 2006. Could Trump do something similar? … One can imagine him becoming obsessed with his approval ratings and deciding fairly early in his term that a bipartisan approach would be the best way to improve them. The desire to be popular can do unexpected things to even the most stubborn-seeming politicians.
+
+perry: 1.
+
+natesilver: 6.
+
+harry: 5. The reason I say 5 is I’d want to see what happens after the midterms.
+
+perry: This depends on whether we are talking about economic issues or identity issues.
+
+micah: 2.
+
+hilary.krieger: 3.5.
+
+We’re likely to see this as something he resorts to from time to time, when he needs a hit of approval from the elites and media, but he’s unlikely to fundamentally reorient along these lines.
+
+natesilver: Trump doesn’t seem to give a shit about the Republican Party and could easily try to become “bipartisan” if Democrats do well at the midterms. Now, would that be effective? Probably not, which is why I put a lot of chips on the flailing around scenario. But it might be more effective than what he’s doing now.
+
+micah: Weirdly, I do think Trump would need to become obsessed with his approval rating in order for this to happen. And all the evidence we have suggests that — confronted with bad numbers — he’s more likely to dismiss and undermine them than accept that he’s unpopular and change course. LAST ONE!
+
+No. 14. Trump’s button-mashing works because the system really is broken. Another possibility is that it turns out that the elite consensus is in fact wrong in many areas — on the economic benefits of free trade and open borders, for instance. In that case, Trump does fairly well with a somewhat contrarian approach that “shakes up the system.” It’s not that all of his ideas are brilliant, necessarily, it’s just that deviating from the status quo is a good default because the status quo isn’t working very well.
+
+harry: 1.72.
+
+perry: 2.
+
+natesilver: 3.69.
+
+hilary.krieger: 2.
+
+micah: 0.
+
+harry: The scale is 1 to 10.
+
+perry: lol.
+
+natesilver: The rest of you are pre-judging this one too much. It says that somehow, even though it seems crazy at the time, his shit works. It’s too early to say if it works.
+
+harry: I think we’re all below 5.
+
+micah: I’m as contrarian and anti-elite as your average FiveThirtyEight employee, but one thing I think we’ve learned from the Trump era so far is that the government bureaucracy, the rules, the processes, the norms, etc., are there for reasons — and many of those are good reasons. So upending all that stuff is unlikely to be a successful strategy.
+
+hilary.krieger: Some of his anti-status-quo stuff could work (or be spun as working), but I don’t see him doing enough shaking up to really undermine or fundamentally alter stuff (except perhaps by getting into a war with North Korea). But I don’t think that will give him real success, just a win or two here and there.
+
+natesilver: But what if we have eight years of 3 percent GDP growth and no major wars? That’s what we’ve had so far!
+
+It’s working!!!!!!!
+
+micah: The key phrase here is “button-mashing.” It implies Trump doing things.
+
+hilary.krieger: Nate, I don’t think that counts as success by shaking up the system. It’s success by maintaining the status quo + some angry tweets.
+
+micah: What Hilary said.
+
+micah: FINAL QUESTION!
+
+If you had to put all your chips on one scenario, which would it be?
+
+natesilver: The Steinbrenner scenario.
+
+perry: Steinbrenner is safer, but I will go with slow death spiral to George W. Bush-levels of unpopularity. No. 2, I think.
+
+harry: Some combined version of Nos. 2 and 7.
+
+So I’m with the crowd.
+
+natesilver: How the midterms go and Mueller are the two big known unknowns here.
+
+harry: Right.
+
+hilary.krieger: I would say Nos. 1 and 7. Because those are both pretty much happening now. I have no vision. Also, no respect for Micah’s deadlines.
+
+micah: I’m averaging out 2, 5, 7 and 8, with a sudden turn toward No. 10 still possible.
+
+
+&&&&&
+
++++++
+
+The Media Needs To Stop Rationalizing President Trump’s Behavior
+
+2017-09-30
+
+His outburst on Hurricane Maria and Puerto Rico shows that not everything is a clever ploy to rally his base.
+
+Whenever President Trump lashes out against someone or something in a way that defies traditional expectations for presidential behavior — for instance, his decision to criticize the mayor of San Juan, Puerto Rico, on Saturday morning after her city was devastated by Hurricane Maria — it yields a debate about what was behind it. After Trump’s series of attacks on the NFL and its players earlier this month, for example, there were two major theories about what motivated his conduct.
+
+The first theory is that it was a deliberate political tactic — or as a New York Times headline put it, “a calculated attempt to shore up his base.” We often hear theories like this after Trump does or says something controversial or outrageous. His response to the white supremacist rally in Charlottesville, Virginia, in August was sometimes explained in this way, for example. “Mr. Trump has always appreciated the emotional pull of questioning bias and fairness, especially with his white working-class base,” the Times wrote, portraying Charlottesville as an issue that drove a wedge between the Trumpian and the Republican establishment.
+
+It’s also often claimed that Trump leans into controversies such as the NFL protests as a way to distract the media from other, more serious issues, such as the repeated Republican failures to repeal Obamacare, or the various investigations into Trump’s dealings with Russia. These claims also assume that Trump’s actions are calculated and deliberate — that he’s a clever media manipulator, always staying one step ahead of editors in Washington and New York.
+
+The second theory is that the response was impulsive and primarily emotional. Trump initially began criticizing the NFL and NFL players at a rally last Friday in Huntsville, Alabama, including referring (although not by name) to former San Francisco 49ers quarterback Colin Kaepernick as a “son of a bitch” for protesting during the national anthem. Perhaps encouraged by the raucous response he received from the crowd, Trump went on a tweetstorm about the NFL, its owners and its players that stretched over several days of intermittent posting. Somewhere along the way, he also disinvited former NBA MVP Stephen Curry from attending the White House ceremony scheduled to honor the NBA Champion Golden State Warriors. (Curry had already said that he didn’t like what Trump stood for and didn’t plan to attend.)
+
+Not all of this — particularly not roping the popular Curry into the controversy — necessarily seemed all that “calculated” to me. Instead, it seemed to fit a different behavioral pattern: Trump is piqued by criticism and rarely backs down, especially when he’s challenged by women or minorities — such as Curry, the predominantly black NFL player pool, ESPN’s Jemele Hill, Khizr and Ghazala Khan, Judge Gonzalo Curiel, London Mayor Sadiq Khan, former Fox News anchor Megyn Kelly or Massachusetts Senator Elizabeth Warren, to take some of many examples.
+
+I know what you, as an analytically inclined FiveThirtyEight reader, are probably thinking: Are these theories necessarily mutually exclusive? Couldn’t these responses reflect fits of emotional pique on Trump’s behalf — and yet also have the effect of pleasing his base, or distracting the media from health care and Russia?
+
+Sure, they could. Trump’s base support isn’t quite as immovable as some pundits seem to assume — but public opinion on many issues like Charlottesville quickly polarizes itself along partisan lines. And Trump’s tweets and insults often have the effect of upending the news cycle; covering Trump is in some sense covering one distraction after another.
+
+But the theories are in conflict because they’re about the intent and motivation for Trump’s behavior and not necessarily its effects. The first theory says that Trump is calculating and rational; the second says that he’s impulsive and emotional. The first theory implies that Trump may be employing “racially charged” rhetoric and actions for political gain. The second implies that Trump himself may harbor degrees of racial resentment, and resentment toward women, and that it colors his response to news events. Either way, Trump’s actions could be politically effective or ineffective. (Trump’s approval rating declined slightly this week after his NFL comments, although it’s hard to know if they’re the reason why.) However, it seems important to know what motivates them. If Trump’s actions are driven by emotional outbursts more than calculated trollishness, that might predict a different response to how he deals with escalating tensions with North Korea, for example.
+
+After Trump’s NFL remarks, you really could have argued either theory. In addition to the racial dynamics at play, Trump has some personal grievances with the NFL, including his failure to purchase an NFL franchise. But the protests from Kaepernick and others have been unpopular, and the response to them has been highly partisan. One can imagine Trump thinking it was effective politics to bring them up as a wedge issue, especially at a political rally in Alabama.
+
+It’s much harder to describe some of Trump’s other outbursts — like those against the Khan family or Judge Curiel, for example — as representing a calculated political strategy. The same goes for Trump’s tweetstorm on Saturday morning about San Juan mayor Carmen Yulín Cruz, who had criticized the White House’s response to Hurricane Maria.
+
+No matter how cynical one is, it’s hard to see what possible political benefit Trump could get from criticizing Cruz, whose city was devastated by Maria and remains largely without power and otherwise in crisis. Nor is the government’s response to Maria necessarily something that Trump wants to draw a lot of attention to. I’ve seen debates back and forth in the media over the past week about whether Trump’s response to Maria is analogous to the one former President George W. Bush had to Hurricane Katrina in 2005. Trump’s dismissiveness toward Cruz almost certainly won’t help his side of the argument; instead, it will amplify growing criticism about how the government handled Puerto Rico and why Trump seemed to be more interested in the NFL protests than in his administration’s hurricane recovery plan.
+
+I’m happy to acknowledge that Trump’s responses to the news are sometimes thought-out and deliberate. His criticisms of the media often seem to fall into this category, for example, since they’re sure to get widespread coverage and Republican voters have overwhelmingly lost faith in the media.
+
+But at many other times, journalists come up with overly convoluted explanations for Trump’s behavior (“This seemingly self-destructive emotional outburst is actually a clever political strategy!”) when simpler ones will suffice (“This is a self-destructive emotional outburst.”). In doing so, they violate both Ockham’s razor1 and Hanlon’s razor — the latter of which can be stated as “never attribute to malice that which is adequately explained by stupidity.” One can understand why journalists who rely on having close access to Trump avoid explanations that portray Trump as being irrational, incompetent or bigoted. But sometimes they’re the only explanations that make sense.
+
+CORRECTION (Oct. 2, 12:45): A previous version of this article gave the wrong middle initial for Judge Gonzalo Curiel. His middle initial is P, not B.
+
+
+&&&&&
+
++++++
+
+7 Rules For Reading Trump’s Approval Rating
+
+2017-08-24
+
+It still isn’t entirely clear how much President Trump’s reaction to the white supremacist rally in Charlottesville, Virginia — which was criticized by both Democratic and Republican lawmakers after he blamed “many sides” for the violence there — has affected his job approval rating. As of Wednesday evening, Trump’s approval rating was 36.9 percent, according to the FiveThirtyEight average, down only slightly from 37.6 percent on the day before1 a counter-protester and two police officers were killed in Charlottesville. His disapproval rating was 56.8 percent, up only slightly from 56.3 percent before Charlottesville. So perhaps there’s been a little movement — but there hasn’t been the sort of unambiguous decline in Trump’s approval rating that occurred at earlier moments in his presidency, such as when Republicans began to debate their health care bill in March or after Trump fired FBI Director James Comey in May.
+
+Approval ratings, of course, aren’t the only way to judge a president’s standing. The fact that Republicans in Congress have become much more openly defiant of Trump could spell trouble for him later on, whether or not rank-and-file voters were all that moved by Charlottesville. Nonetheless, approval ratings provide a reality check of sorts, as the media’s guesses about what will or won’t affect public opinion aren’t always accurate. So let me walk you through a few propositions for what I think we’ve learned about Trump’s approval through the first seven months of his presidency — and why his approval ratings’ modest response to Charlottesville shouldn’t have been all that surprising.
+
+Proposition No. 1: It’s easy to fight to a draw when your approval rating is only 37 percent.
+The public gave Trump poor grades for his response to Charlottesville. In a CBS News poll conducted last week, for example, 34 percent approved of his response, compared to 55 percent who disapproved of it. Those are poor marks in a country where partisanship means that public opinion on many issues is divided about evenly.
+
+But a 34-55 approval-to-disapproval ratio is not all that different from Trump’s overall approval-disapproval rating. In fact, it’s pretty darn similar. Trump’s response to Charlottesville was quite unpopular, but he’s not a very popular guy to begin with, so it didn’t necessarily move a lot of voters.
+
+Proposition No. 2: Be wary of claims that Trump has hit his approval rating ‘floor’ — so far, his numbers have been declining, not holding steady.
+But let’s not lose sight of the big picture. Despite the relatively small shift after Charlottesville, the overall trend in Trump’s numbers so far has been toward decline. In fact, a simple linear trend line captures most of the variation in his approval ratings so far2 and implies that his approval ratings are dropping slightly more than 1 percentage point per month.3 If Trump were to continue losing ground at this rate — though he probably won’t (see below) — it would be truly catastrophic for him, as his numbers would fall into the low 20s by midterms.
+
+
+That’s not to say the daily and weekly fluctuations in Trump’s approval ratings are noise, necessarily. Many of them reflect responses to real news events. Sometimes Trump’s rating will decline for a week or two after a negative news story and then partly recover. But if you repeatedly take one step forward and two steps back, you wind up losing a lot of ground over the long run.
+
+Proposition No. 3: If Trump does have a floor, it’s probably in the 20s and not in the 30s.
+Although predictions of a floor for Trump’s approval ratings haven’t matched the evidence all that well so far, there are sound theoretical reasons to think that his numbers will be increasingly resistant to downward movement. I’ve already mentioned the most important of these: Partisanship is a strong force in American politics and will protect Trump to some extent. And Trump’s ratings are already fairly low to begin with, with roughly three Americans disapproving of Trump’s performance for every two who approve of him — so he doesn’t have all that many more voters to turn off.
+
+Still, if you’re looking to estimate when Trump really might hit a floor, somewhere in the low-to-mid-20s is a pretty good guess. There’s quite a bit of evidence that points in this direction:
+
+The lowest approval ratings achieved by past presidents are in the low-to-mid-20s. Richard Nixon was at 25 percent at the time of his resignation, for instance, while George W. Bush and Harry Truman bottomed out at 24 percent and 22 percent, respectively, late in their second terms.
+Trump won 23 percent of everyone, regardless of party, who cast a vote in the Democratic or Republican primaries last year. Those are the people who were truly with him from the start.
+A recent Monmouth University poll found that 61 percent of Trump supporters said they’d never change their minds about him. That works out to about 23 percent of the country overall.4
+About 20 percent of voters say they strongly approve of Trump.
+Proposition No. 4: Expect bigger approval rating changes from issues that cut across partisan lines.
+As I mentioned, the clearest declines in Trump’s approval ratings came after he fired Comey and at moments related to the health care bill — first in March when the GOP began to debate its proposal, and then more recently following the collapse of the bill late last month.
+
+Each of these issues cut across partisan lines in awkward ways. Republicans, including Trump, had praised Comey following his letter to Congress last October, in which he disclosed that the FBI was investigating further emails that could be pertinent to Hillary Clinton’s email server,5 and Comey had been a Republican for most of his life. The White House’s initial rationalization for firing Comey — which criticized him for speaking out so publicly about the Clinton case — didn’t make a lot of sense. That’s not to say that reaction to the firing didn’t polarize itself along partisan lines — it eventually did. But the firing had to produce at least a little bit of cognitive dissonance for voters.
+
+The various versions of the GOP health care bill, meanwhile, were oddly designed hybrids that didn’t give Republican voters a lot of reason to get on board. The House and Senate plans neither fully repealed Obamacare (as Republicans had promised to do since 2010), nor did they replace it with the sort of health care program that Trump had promised to voters. And the GOP bills would especially have hurt lower-income, older voters in rural areas — exactly the sort of people who were most inclined to vote for Trump last year.
+
+Reactions to Charlottesville followed a more predictably partisan course, by contrast. For better or worse, views on racial equality — which groups are advantaged and which are discriminated against — now strongly divide voters between the parties. And Trump has attempted to pivot the Charlottesville discussion into one about Confederate statues, which also provoke a highly partisan response.
+
+Proposition No. 5: Be especially wary of expecting big changes in Trump’s approval rating from ‘cultural’ issues.
+This follows from the previous conclusion about partisan polarization. Issues related to race, gender, sexuality, religion and social class have long been an animating force in American politics, of course. But they’ve come back in an especially strong way in the Trump era, so much so that views on these questions tend to be stronger markers of support for Trump than views on economic and policy issues.
+
+So it’s not that issues like the ones raised by the events in Charlottesville are unimportant to Americans. It’s that they’re already “priced in” to voters’ overall political orientations and assessments of Trump. When new controversies crop up along similar lines, they may not affect voter preferences very much.
+
+Proposition No. 6: Expect bigger changes when Trump’s behavior is truly surprising or defies promises he made to voters.
+Speaking of “priced in,” Trump’s approval rating hasn’t been affected much when he does something, however controversial, that’s consistent with his previous behavior. If Trump’s equivocal stance toward white supremacists after Charlottesville was surprising to the media, it was perhaps less so to voters given that Trump had been slow to denounce groups such as the KKK as a candidate last year and that his rhetoric had often been racially tinged. In a poll conducted last August, 51 percent of voters described Trump as “racist.”
+
+By contrast, the Republican health care bill was inconsistent with the promises that Trump had made to voters on the campaign trail. And Trump had also repeatedly promised to repeal and replace Obamacare, which he hasn’t been able to do yet. It’s not surprising, therefore, that health care hurt his numbers more than Charlottesville. By this rule, an economic downturn could be especially harmful to Trump given that he made very aggressive promises to voters about job creation.
+
+Proposition No. 7: Trump’s approval rating could change a lot before the midterms — and certainly before 2020.
+So there — it sounds like we’ve got all these rules about Trump’s approval rating down pat, which must mean we can pretty much know what to expect from here on out. Well, maybe not, because history suggests that presidential approval ratings follow a fairly unpredictable course:
+
+Approval ratings aren’t that predictable
+Via the FiveThirtyEight approval tracker
+FIRST-TERM APPROVAL RATING
+
+Gerald Ford faced a midterm election after less than 216 days in office. Kennedy was assassinated before he had an opportunity to be re-elected. Lyndon Johnson became president after Kennedy’s midterm.
+
+Jimmy Carter and George H.W. Bush, who didn’t win re-election, were considerably more popular at this point in their terms than Barack Obama, Bill Clinton or George W. Bush, who did. Ronald Reagan was quite popular at this point at this term, but his job approval rating plummeted in advance of the 1982 midterm election — only to recover again, allowing him to win a landslide re-election in 1984. Presidential approval ratings shift by a median of 13 percentage points between this point in their terms and the midterm elections — which means that if he’s at 37 percent now, Trump could very easily be at 50 percent in November of 2018 — or at 24 percent.
+
+And while there are a couple rules of thumb for how presidential approval ratings behave over the long run, they’re contradictory in Trump’s case. On the one hand, approval ratings tend to decline over the course of a president’s term, which would predict a further decrease for Trump. On the other hand — in part because of partisanship — approval ratings are mean-reverting, meaning that they tend to rise when they’re lower than roughly 40 percent and to decline when they’re above 50 percent, which would tend to produce an increase since Trump’s ratings are below 40 percent now.
+
+So far, the first rule — a president’s rating tends to get worse during his term — has usually won out for Trump, and his approval rating has continued to decline. But the first rule won’t necessarily keep winning the tug-of-war with the second rule. Partisan gravity could pull Trump’s numbers back into the low 40s if he has a couple of relatively calm weeks or months — as he did this April, for example. Or an issue that Americans aren’t thinking about very much now — say, a military confrontation with North Korea — could be pivotal in the 2018 and 2020 elections. The best news for Trump is that there’s a long way to go before voters go to the polls again.
+
+
+&&&&&
+
++++++
+
+Trump’s Populism Isn’t Popular — But That’s On Him, Not Bannon
+
+2017-08-18
+
+What if upon taking office in January, President Trump had carefully balanced the insurgent influence of Steve Bannon, his chief strategist (now gone), with the establishment-friendly approach of Reince Priebus, his chief of staff (now gone) — and governed as a kinder, gentler, more media-savvy populist?
+
+It wasn’t so long ago that such an outcome seemed possible. In January, The Atlantic’s David Frum envisioned a scenario in which Trump passed a truly populist program of “big tax cuts, big spending, and big deficits,” along with “restrictive immigration policies.” Such an agenda would prove fairly popular, Frum imagined, leading to Trump’s easy re-election in 2020. Trump would continue to push everyone’s boundaries but would also pick his battles somewhat carefully; there might be a border wall,1 for instance, but there would be no mass deportations of illegal immigrants.
+
+Instead, almost the exact opposite has occurred. Trump has maintained most of populism’s rough edges — including its tendency to inflame racial resentment, as was evidenced by his comments on the Charlottesville white supremacist rally earlier this week. But he’s adopted few of the policies that actually make populism popular — or, at least, made it popular enough for Trump to win the Electoral College.
+
+This isn’t Bannon’s fault — it’s Trump’s.
+
+Take the various iterations of the Republican health care bill, which Bannon was reportedly lukewarm about. It proposed massive cuts to Medicaid spending and would greatly have reduced subsidies for older, poorer Americans — exactly the people who helped propel Trump to victory in November. And it would have done all of this partly to finance tax cuts that primarily benefited the wealthy. It was one of the least populist bills that one can imagine. And it cost Trump politically; his approval rating fell significantly while the bill was first being debated in March and then again after it finally failed to pass the Senate last month.
+
+Or take Trump’s decision to fire FBI Director James Comey. There was nothing especially populist about the Comey firing, which put Trump — who campaigned as a “law and order” president — at odds with the intelligence community. And like health care, it’s brought nothing but trouble for him, having led to the appointment of special counsel Robert Mueller and having further hurt Trump’s popularity rating. But it wasn’t Bannon’s doing; he reportedly opposed the firing. Instead, more establishment-friendly figures such as Jared Kushner had reportedly advocated for canning Comey.
+
+But when Bannon prevailed and won internal arguments against Kushner or Priebus or new chief of staff John Kelly, it didn’t turn out all that well for Trump, either. The “travel ban” that Trump implemented at Bannon’s urging in January wasn’t all that unpopular, but its implementation was a mess, leading it to be repeatedly struck down by the courts until the Supreme Court finally allowed a narrow version of it in June. Trump’s Charlottesville response, which was reportedly cheered on by Bannon, has also been a disaster, producing a major backlash from the business community and from establishment Republicans.
+
+The overall result is a president who has yet to sign any major legislation into law — and who has a much greater base of opposition than a base of support. (As of earlier this month, 47 percent of Americans strongly disapproved of Trump’s job performance, while just 20 percent strongly approved of it.) That could make it hard for Trump to “pivot”; he may have alienated too many voters to expand his support, but his base isn’t all that large either.
+
+
+&&&&&
+

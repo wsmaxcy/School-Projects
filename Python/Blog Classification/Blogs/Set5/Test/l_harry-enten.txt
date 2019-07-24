@@ -1,0 +1,323 @@
+﻿+++++
+
+Let’s Play The Democratic Blame Game!
+
+2017-06-21
+
+In this week’s politics chat, we sift through Democratic finger-pointing after their latest special election losses. The transcript below has been lightly edited.
+
+micah (Micah Cohen, politics editor): Democrats are not happy today, having lost special elections in Georgia and South Carolina on Tuesday. And we’re here to talk about that unhappiness, to really dive deep into it, let it flow over us and try to understand it.
+
+harry (Harry Enten, senior political writer): But what about the mail-in votes?
+
+micah: So we’ll do five questions about the Democratic blame game (which is raging on the interwebs at the moment).
+
+Question No. 1: Blame the blame game! Should Democrats even be playing the blame game?
+
+harry: What’s the purpose of playing the blame game? To help the party succeed in 2018? Or is the purpose to throw blame around because it feels good? If the former, then it is always good to go over what could be done better in the future. If the latter, then it’s not worth it. There were questionable choices that were made by the Democrats in these special elections, but none of them were indefensible in my opinion.
+
+natesilver (Nate Silver, editor in chief): The whole fact that Democrats talked themselves into the narrative that Georgia 6 was a game-changer — and that, therefore, they need to put their tails between their legs today — suggests to me that they’re pretty bad at politics.
+
+perry (Perry Bacon Jr., senior writer): I guess I don’t want to tell Democrats or Republicans or anyone what they should be doing. But does a blame game make sense? When your party is losing key races a lot, some kind of debate about why is natural. I think looking at candidate selection, how the large amount of money raised by the campaign was spent, etc., seems natural. Some of the particular questions in this blame game are not great ones, though. We will get to that later, I suspect.
+
+natesilver: Democrats have been competitive in four substantially red districts. We can debate what “red” means, because the districts are red in different ways. But they’re the sort of results you’d expect in an election where the House was in play. Heck, some of them are even consistent with the sort of results you’d expect in a massive wave election. We’re only five months into Trump’s term.
+
+perry: In other words, Nate, you think there is really nothing to be blamed for? There were not real, unexpected “losses”?
+
+micah: Wait a second, Nate. This was a red district, but it was also an eminently winnable race for Democrats. Sure winning it wouldn’t have been a game-changer, but shouldn’t they be doing some self-examination today? They lost by 4 percentage points in a district Hillary Clinton lost by 1.5 points. I know other non-Trump Republicans have done better there, but if Democrats are hoping to ride dissatisfaction with Trump to the House majority, shouldn’t they be concerned they couldn’t do that in a district we know already doesn’t love Trump?
+
+natesilver: Was Trump on the ballot last night? No. When we modeled the House in 2010, we used a combination of the presidential results in the last two presidential elections, plus the previous House result, plus a bunch of other factors.
+
+Using the last presidential race is just a shorthand that works fine in most cases, but wasn’t particularly good here. And we have a great example of that, given what happened in South Carolina, which was literally the opposite of Georgia in many respects: historically a swingy district that went very pro-Trump. Democrats did quite well there.
+
+harry: I think Micah’s point is the argument why Georgia 6 was bad for Democrats, but I want to get at something I said last night. First off, as Nate points out, we usually use the past two presidential elections (with 2016 weighted more) to understand the lean of a district. Second, back in 2006, there was a district (California 50) that had the same partisan lean as Georgia 6 in the prior two presidential elections. The result was that Francine Busby, the Democrat, lost by pretty much exactly the same margin as Ossoff did last night. Did that mean Democrats were screwed come November 2006? No. They won big. Obviously, that doesn’t mean Democrats will be riding the wave in 2018, but it does show that sometimes these special elections that are built up to be the be-all, end-all aren’t. And keep in mind that the 2006 cycle, like this one, featured Democrats outperforming their baseline by a lot in other places.
+
+natesilver: Certainly, we can debate the strategy in individual races. But basically it’s like if an obscure college football team goes and plays against Ohio State at Ohio Stadium, and loses 30-27 when they were big underdogs going in. It’s disappointing for them, but, at the same time, an indication that the team has bright things in its future and that Ohio State has a lot to worry about.
+
+perry: But what if the coach of team x got the team all hyped up about how it could beat Ohio State? And told the booster club this would be a big win?
+
+micah: Yes ^^^. Which gets back to Democrats being bad at politics.
+
+natesilver: Well, sure. I think Democrats can be blamed for that, to some extent.
+
+micah: It does seem like many people, including us, were telling people this race was a referendum (in part) on Trump, and now they/we are de-emphasizing that.
+
+natesilver: The official FiveThirtyEight pre-election spin was that Georgia 6 mattered more in perception than in reality. Which I think I still agree with.
+
+We were looking to see if a candidate won by 5+ percentage points, which neither one did, although Handel wasn’t far from it. On the other hand, Democrats did much better than we would have guessed in South Carolina.
+
+micah: Hmmm. I think Georgia 6 suggests that marginal Trump voters (whom we’ve dubbed Reluctant Trump voters) — i.e., people who voted for him but had an unfavorable view of him — are still generally with the GOP. That’s backed up by our survey data too.
+
+And that is bad for Democrats.
+
+natesilver: But Micah, the relevant factor is that they were marginal Trump Republicans. If you had a district where you had marginal Trump independents or Democrats — you had a few of those in South Carolina 5 — the outcome might have been different.
+
+perry: I agree with Nate and Harry that last night should not be over-read, by Democrats or, frankly, journalists. But could the Democrats have some kind of internal debate about, say, “should we direct our base towards spending millions of dollars on better causes than House races that will be hard to win?”
+
+natesilver: Yeah, I’m not sure why Democrats felt they had to go narratively all-in on an idiosyncratic district with a weird candidate.
+
+micah: OK, next question. (I’m stealing most of these from Perry.)
+
+Question No. 2: Blame Ossoff! How much was the Georgia 6 result about Ossoff as a candidate and his being too blah or too centrist?
+
+harry: Who knows? is my answer.
+
+natesilver: I’m kind of ambivalent about Ossoff. On the one hand, the basic metric that we usually look at is whether a candidate has been elected in the past, especially to another office in that state or district. Ossoff hadn’t been. On the other hand, I think of his performance as basically having been “fine” in Georgia 6, and he entered the race when few other Democrats were willing to do so.
+
+Put another way, I think he was an average candidate in a race where Democrats could maybe have won with a great candidate, but could also have lost by 12 points with a candidate who wasn’t taking the race seriously.
+
+harry: Yeah, there was nothing that Ossoff did that screamed “awful candidate.” He was milquetoast.
+
+perry: I didn’t meet Ossoff. I wasn’t in Georgia. And I’m always loath to criticize candidates I have not seen in person. I read some more populist Democrats last night claiming the party needed a more populist candidate. Handel emphasized that he did not live in the district. He was obviously young and had little electoral experience. But he didn’t make any major gaffes, seemed to know the issues, got an endorsement from Bernie Sanders and received strong support from John Lewis.
+
+I don’t see him as a clearly bad candidate.
+
+micah: And what do we make of that “Democrats should have run a proud progressive” argument? I’ve seen that argument a lot!
+
+natesilver: I mean, I think you can say he played it a little too safe. He played to not lose.
+
+harry: Now, now, he wanted to connect everyone, Nate.
+
+
+natesilver: For me, there are basically three prototypes of campaigns that Democrats will need to run in 2018: (i) anti-Trump; (ii) anti-Republican; (iii) anti-incumbent.
+
+I think Georgia 6 ought to have been an anti-Trump campaign, given that Trump is a much bigger liability in Georgia 6 than the GOP overall is and that people are doing pretty well there economically.
+
+For me, there’s lots of room for populist progressives to do well as anti-Republican and anti-incumbent messengers. I actually don’t think they’re ideal as anti-Trump messengers, however, which is what you needed in this district.
+
+perry: I don’t totally think we have any sense if voters, as opposed to Democrats on Twitter, vote differently between a Bernie-Sanders-type Democrat and a Hillary Clinton one or can really tell the difference. Even in Vermont and Massachusetts, I think any Democrat would win those states, not just Elizabeth Warren and Sanders. In fact, both of those states have kind of non-populist Democratic senators right now.
+
+harry: That’s interesting. Keep in mind that this is more of a Bloomingdales district than a Walmart one. It’s a well-off, well-educated district. Further, you know that Archie Parnell fella in South Carolina 5? He’s a former managing director for Goldman Sachs. Doesn’t exactly scream populism.
+
+micah:
+
+Question No. 3: Blame Nancy Pelosi! Republicans ran a bunch of ads featuring the former Democratic speaker of the House, and some analysts are asking today if she’s a liability for Democrats in districts like Georgia 6.
+
+Clare is doing some reporting on this, btw. So I don’t want to steal her thunder, but a lot of people are talking about this so I thought we should include.
+
+perry: Do we really think voters are sitting around thinking about Nancy Pelosi when they go to the polls?
+
+natesilver: Handel gained ground during the stretch run of the campaign, and this was a big part of the GOP’s message.
+
+micah: Doesn’t the fact that she’s featured in so many ads (and also was in 2010 and 2014 if I remember correctly), suggest that Republicans know — or at least think — that it works?
+
+perry: It’s possible we’re just capturing partisanship there.
+
+natesilver: For sure — any Democratic leader would become villainized after a sufficient length of time. But I think there’s something to be said for giving voters symbolically a new look.
+
+I also suspect that this is what’s behind some of the Democratic infighting this morning. The knives are out for Pelosi. She took quite a few defections in the leadership vote late last year, which suggests there’s a lot of dissatisfaction in the Democratic caucus.
+
+micah: But gender could play a role in all this too in addition to her being from San Francisco and all that. But again, Clare is doing some reporting on this, so we’ll get more deeply into it separately.
+
+Question No. 4: Blame the party brand! Is the Democratic brand toxic in certain areas? (Rep. Tim Ryan, who challenged Pelosi, said this in The New York Times).
+
+perry: Here’s the quote:
+
+Representative Tim Ryan of Ohio, who tried to unseat Ms. Pelosi as House minority leader late last fall, said she remained a political millstone for Democrats. But Mr. Ryan said the Democratic brand had also become “toxic” in much of the country because voters saw Democrats as “not being able to connect with the issues they care about.”“Our brand is worse than Trump,” he said.
+
+heynawl-enten: This is a historically Republican district, so I’m not sure this is the best test for that. Nationally, the Democratic brand is usually stronger than the Republican brand. And more people identify as Democrat than as Republican.
+
+natesilver: Yeah … this is a district where the Democratic brand is their biggest liability, because it’s much more of a Republican district than a Trump district.
+
+The Democratic brand has been surprisingly nontoxic in places such as Montana, South Carolina and Kansas, however.
+
+micah: So why not-as-toxic in those places and more toxic in Georgia 6?
+
+natesilver: Because Georgia 6 is a strongly Republican-identifying place, more so than South Carolina 5 is.
+
+Handel and the GOP figured that out and it got them over the finish line.
+
+perry: OK, I don’t have the data in front of me. But I think the Democratic brand is a problem in the South.
+
+micah: OK, final question …
+
+Question No. 5: Blame the media and national Democratic groups and operatives! This was a theory Harry and Clare floated last night: National Democrats dumped a bunch of money and energy into this race, and we saw record turnout. But did that have the effect of motivating both already motivated Democratic voters and unenthused Republican voters?
+
+perry: In other words, is the South Carolina result a blowout if it became the big race with all of the attention?
+
+micah: Exactly.
+
+perry: I think that right. Turning a race into a nationalized, partisan battle is going to favor the party that has the most voters in that district/state.
+
+harry: Nate thinks Democrats should have spent more money/energy in South Carolina.
+
+natesilver: I do, yeah. Next year is going to be a very expensive, high-stakes election. Not a lot of candidates are going to fly under the radar. Democrats have to get used to competing everywhere.
+
+harry: What’s the purpose of these special elections? To win now? Or to test messages/strategies/tactics for 2018?
+
+natesilver: To test for next year, because the marginal vote in the House isn’t very important right now. (If a Senate seat were in play in a special election, different story.)
+
+micah: OK, so let’s sum things up and then I have one final question:
+
+Who’s to blame? Well, Nate doesn’t think Democrats should even be playing the blame game — they did “fine.”
+
+natesilver: Overall, they should be very excited about their special election results, in fact. Georgia 6 was the worst of the bunch.
+
+
+perry: They did fine and maybe blaming each other is not that important. But they should be worried that if Republicans campaign hard in every district, spend a lot of money, bash the Democrat enough, mobilize the base, Democrats will have a hard time gaining 24 seats next year.
+
+harry: Overall, I think the special elections are a great sign for the Democrats. However, I always think lessons can be learned about what could have possibly been done differently.
+
+micah: Relative to the weighted past presidential vote that we use, Democrats did worse in Georgia 6 than any other special election so far in 2017. So maybe it’s just a modest outlier in that regard. But Georgia 6 was also the 1. most competitive district to vote so far, and 2. highest profile race. In other words, maybe Georgia 6 is a closer approximation to the conditions in 2018 than other special elections. So, my question: Should Democrats, as the media has, pay more attention to the result in Georgia than to the results in other special elections?
+
+harry: Here’s what I said two months ago, which I still think holds today …
+
+… special House and Senate elections in the two years leading up to a midterm can go any which way. In any of the previous four cycles before a midterm, there’s at least one example of a candidate doing poorly in a special election — relative to the previous weighted presidential vote — only to have their party do well in the midterms.
+
+So even if Ossoff won — even if he won comfortably — it wouldn’t be safe to assume a Democratic wave is building in 2018.
+
+Instead, if you really want to use special election results to look ahead to 2018, you need to look at a bunch of them. While any individual special election may mislead, the average special House and Senate result compared to the past presidential vote provides a decent indication of the national environment heading into the following midterm election.
+
+natesilver: We actually overshot a bit in Georgia 6 in that turnout was higher than it’s likely to be in the midterm, and spending was obviously much higher too. The most representative race of midterm-type conditions so far is probably Montana.
+
+micah: I don’t know. I think people will be bonkers in the midterms.
+
+natesilver: Ballpark, I’d say South Carolina 5 was roughly 60 percent as important as Georgia 6 in terms of helping us to forecast the 2018 midterms. And it’s gotten like 0.6 percent as much attention.
+
+perry: I’m not the data expert here. But my general reaction is to not underreact to things anymore, since I under-reacted to the events of 2015 (the rise of Sanders and Trump.) So this does not change my overall view that Democrats have a strong chance of winning the House in 2018. But I’m not going to dismiss that Handel won by more than I expected and that maybe 2018 won’t follow the patterns of previous midterms.
+
+
+&&&&&
+
++++++
+
+The Normal Rules Of Politics Still Apply To Trump — And To Republicans In Congress
+
+2017-08-14
+
+One of the big questions heading into the 2018 midterm elections — maybe the biggest — is how President Trump’s unpopularity will affect Republican fortunes. Normally, a president with historically low approval ratings would be a disaster for his party in Senate and House races in a midterm year.
+
+But should we really be presuming that what “normally” happens will happen again? For one, Trump won the White House despite having record low favorable ratings. And it’s possible, as CNBC’s John Harwood pointed out, that partisan allegiances may be so baked in nowadays that Democrats won’t be able to attract Republican voters, however much they’ve soured on Trump. Maybe partisan polarization has grown too strong.
+
+Some commentators have taken this argument to extremes. Fox News host Eric Bolling last month effectively argued that Trump is immune from the normal rules of politics. “Just look at those crowds,” he said, referring to a recent Trump rally in Ohio. “Watch the people, not the polls.”
+
+The available evidence, however, suggests many of the old rules do still apply. Caution, like what Harwood and political analyst Scott Rasmussen have advised, is more than warranted, especially given Trump’s history of surprising analysts and pundits. Partisan polarization has increased, and there is plenty of time for Trump’s approval rating to improve. But caution is one thing; ignoring history and evidence, as pundits like Bolling want us to do, is another. And the idea that “the normal rules of politics don’t apply to Trump” strikes me as the latter — at least according to the data before us. Early signs suggest that Trump’s low approval rating is having exactly the negative effect on down-ballot Republicans that history would predict.
+
+Midterm elections are often thought of as referendums on the sitting president. When there’s been an unpopular Democrat in the White House, voters have swung toward Republicans in congressional races. With a struggling Republican president, voters swing Democratic. You can see this by looking at the effect a president’s approval rating has on the national House vote. Specifically, we can look at how much the national House margin would be expected to shift from the previous presidential election based upon the president’s approval rating right before the midterm election.
+
+In 2004, for example, Republicans won the national House vote by 3 percentage points. But two years later, in 2006, with President George W. Bush’s approval rating at 38 percent, Republicans lost the House vote by 8 points — a 11-point swing from 2004.
+
+
+It’s far from perfect, but in midterm elections since 1946, there’s a clear relationship between the president’s approval rating and the swing in the House vote.
+
+Trump’s current approval rating is 38 percent.1 Historically, we would expect a president that unpopular to cause his party to lose around 11 points off its previous House margin. Republicans won the national House vote by 1 percentage point in 2016, so this suggests they would lose it by 10 points if the midterm elections were held today.
+
+Obviously, the 2018 midterm isn’t being held today. Trump’s approval could rise or fall over the next year. But we do have some measures of the current political environment we can use to see if the normal relationship between a president’s popularity and voter preferences is holding.
+
+First up: the generic congressional ballot, a common poll question that asks respondents whether they will vote for the Democrat or Republican in their congressional district.2 Democrats right now hold a 46 percent to 37 percent lead, according to the FiveThirtyEight aggregate. That’s a bigger lead than Democrats had at any point in 2016 cycle, and it’s in line with the margin necessary for Democrats to take back the House.
+
+That 9-point Democratic edge is also right in line with what you’d expect given an incumbent president with an approval rating in the high 30s. So according to the generic congressional ballot, the normal rules of politics are still hanging on in the Trump era — voters’ dissatisfaction with Trump is affecting their preferences for the House in the way you’d expect based on past elections.
+
+OK, I can already feel the “FAKE POLLS!” tweets coming. But it’s not just in polling where we see the negative effect of Trump’s unpopularity on Republicans. You can also see it in the special elections held so far this year — actual voters actually voting.
+
+There have been 30 special state legislature and U.S. congressional elections3 since Trump was sworn-in as president. Democrats, as a group, have been outperforming the partisan lean in these districts — tending to come close in ruby red districts, winning swing districts and romping in light blue districts. More specifically, Democratic candidates have done about 16 percentage points better, on average, than you’d expect in a national environment in which no party held the advantage. (Imagine a world in which the Democratic and Republican presidential candidates tie 50-50 in the popular vote).4 This overperformance holds as well for the smaller subset of congressional elections.
+
+
+*Democratic and Republican vote shares are for all candidates of each respective party.
+The partisan lean compares the district’s vote in the last two presidential elections to the nation’s, with the 2016 election weighted 75 percent and the 2012 election weighted 25 percent.
+
+SOURCE: SECRETARIES OF STATE, DAILY KOS ELECTIONS
+
+That 16-point difference is about what you’d expect given a president with an average approval rating in the low 40s — Trump’s average over the course of his presidency so far.5 Below, you can see the president’s average approval rating from his inauguration to the next midterm election since 19946 and compare it to how much the president’s party over- or underperformed the partisan lean in the average special congressional election7 during that time.
+
+
+The dataset is small and the relationship isn’t perfect, but it clearly exists. A president whose approval rating averages 41 percent from his inauguration to the midterm corresponds to his party underperforming the weighted lean in the average district by 11 points. Republicans are actually doing slightly worse than that right now, though well within the range expected.
+
+So the generic ballot and the special elections held so far both suggest Trump’s low approval ratings are having a normal effect on down-ballot races. The question going forward is whether Trump can improve his approval ratings or whether congressional Republicans can distance themselves from the Trump brand. If either occurs, then Republicans stand a good chance of holding onto their majority in the House. If neither happens and Republicans lose the House, Trump will get a big portion of the blame.
+
+
+&&&&&
+
++++++
+
+Trump’s Popularity Has Dipped Most In Red States
+
+2017-09-18
+
+There are no national elections for president in the United States. Democrats relearned that lesson the hard way in 2016, when President Trump won the Electoral College despite earning fewer votes nationally than Hillary Clinton. Of course, we still mostly talk about the president’s popularity nationwide in non-election years. It’s simpler, and job approval polls for all 50 states are harder to come by. But it’s worth checking in on Trump’s state-by-state strength when we can, and that’s now possible thanks to two polling firms, Gallup and SurveyMonkey1, which recently released Trump’s state-by-state approval and disapproval ratings.
+
+Although Trump is quite unpopular, the political map hasn’t changed much in the eight months since Trump won (not surprisingly). Compared to his standing nationally, Trump is still strong in key swing states.2 He has, however, experienced a disproportionate drop off in his popularity in red states, suggesting the president’s base isn’t as solid as it once was.
+
+Overall, Trump’s relative popularity in each state tracks very closely3 with how well he did in each state in November. Here’s an average of Gallup and SurveyMonkey’s net approval ratings4 compared to Trump’s margin over Clinton in each state:
+
+
+Trump’s best net approval ratings are in West Virginia (+21 percentage points) and Wyoming (+20 points). Those were his two strongest states last November. His lowest net approval ratings are in Vermont (-41 points) and Massachusetts (-38 points), two of his worst states in 2016.
+
+Trump’s also still more popular in key Midwestern swing states than he is nationally. His net approval ratings in the states that helped put him over the top in 2016 (Michigan, Pennsylvania and Wisconsin) ranged from -10 percentage points to -12 percentage points. That’s slightly better than his net approval nationally (-15 percentage points) during the same period.
+
+Trump’s continued popularity in the Midwest (relatively speaking) is important because (i) there are a ton of Electoral College votes in those states, and (ii) it shows that Democrats still have a problem there. That may also mean that Clinton didn’t lose the election because she was uniquely unpopular in key swing states. (She likely didn’t lose Wisconsin, for example, because she didn’t campaign there, as some have argued.) Trump may just have outsized appeal in the Midwest. Or perhaps the region — which used to lean slightly more Democratic than the nation as a whole — has simply become more Republican-leaning relative to the country. That trend could have little to do with Clinton or Trump.
+
+Instead, Trump has seen a disproportionate decline in his popularity in red states. Let’s compare Trump’s net approval rating in each state to his 2016 margin there. In doing so, we’re basically pretending that the 2016 vote was a big job approval poll, with a vote for Trump being “approve” and a vote for Clinton “disapprove”:
+
+Trump has seen his biggest decline in red states
+Difference between Trump’s 2016 election margin and an average of his net approval ratings in 2017 Gallup and SurveyMonkey polls, by state
+
+All numbers are rounded.
+
+SOURCE: DAVE LEIP, GALLUP, SURVEYMONKEY
+
+There’s a clear negative correlation5 between the “change” numbers in the table above and Trump’s margin in each state. In states where Trump won by at least 10 points, his net approval rating is down 18 percentage points, on average, compared to his margin last November. In states that were decided by 10 points or less in November, it’s down only 13 points. And it’s down 8 points in states Clinton carried by at least 10 points.
+
+The fact that Trump has lost the greatest number of supporters in red states is perhaps the clearest indication yet that he is losing ground among some form of his base, if you think of his base as those who voted for him in November
+
+Well … with a couple caveats. It’s possible that the polls are merely underestimating Trump in these red states. Trump most outperformed his polling in 2016 in red states. Maybe that’s happening again. That said, he also beat his polls in Midwestern states, and he’s holding his own (relatively speaking) there, which argues that his red-state decline can’t be written off only as polling error.
+
+But even if this polling is perfect, Trump still might not have lost ground, per se. Trump was able to win in 2016 in large part because he was able to win a decent share of the vote among people who held an unfavorable view of him. That group of voters — we’ve dubbed them “Reluctant Trump voters” — may have been more plentiful in red states.6 In deeply red Kentucky, for example, Trump lost among people who held an unfavorable view of him by just 40 percentage points. In deeply blue California, he lost this same group by 74 points.
+
+So perhaps what we’re seeing isn’t a decline in Trump’s support in conservative states, but rather a reflection of its weakness from the start: Red-state voters who pulled the lever for Trump but didn’t like him, still don’t like him.
+
+What will be interesting to see is how many of these red-state voters who dislike Trump now will be willing to vote for Republicans in 2018 without Clinton on the ballot. Off-year elections, like those coming up in 2018, are usually a referendum on the party in power. We’ve already seen that Democrats have been able to do well in special elections this year, as Trump’s approval ratings have slumped. We’ve also seen that House Republicans are picking up very few supporters among people who disapprove of Trump’s job performance in national polling. That is, there aren’t a lot of voters who dislike Trump and are still willing to say they’re going to vote Republican.
+
+If red state voters who dislike Trump but voted for him in 2016 abandon the Republican Party in 2018, it could lead to some unexpected electoral results. It’s another reason that Democrats, if they want to maximize their chances of winning back the House, should compete in a wide variety of districts.
+
+
+&&&&&
+
++++++
+
+There’s No Reason To Think Republicans Will Be In Better Shape A Year From Now
+
+2017-11-10
+
+Welcome to Pollapalooza, our weekly polling roundup. Today’s theme song: “Every Time I Turn Around” from the television show “Punky Brewster.”
+
+Poll(s) of the week
+We’ve been telling you to pay attention to the generic congressional ballot for a while now. Well, Tuesday’s results showed why.
+
+An ABC News/Washington Post poll and a separate CNN survey released this week both found Democrats leading Republicans by 11 percentage points on the generic ballot. That’s a big lead — the type of lead that results in wave elections like Tuesday’s. It’s also just a hair larger than the Democratic advantage in the FiveThirtyEight average of generic ballot polls.
+
+But the really bad news for Republicans: There’s a good chance they won’t be able to eat too much into that lead by the 2018 midterms.
+
+The generic congressional ballot, even more than a year before a midterm, has historically been quite predictive of what will eventually occur in the following year. It was predictive in April, and it’s even more predictive now. You can see this phenomenon in the chart below. The chart shows the margin by which the presidential party leads on the generic ballot in an average of polls in October1 a year before the midterm compared with the national House margin in the midterm election. Every midterm cycle since 1938 is included, with the exception of 1942 and 1990, for which we don’t have polling at this point in the cycle.
+
+
+The generic ballot polls a year from the election and the eventual House results are strongly correlated (+0.90). Importantly, past elections suggest that any big movement on the generic ballot from this point to the midterm tends to go against the president’s party.2 That movement explains why the Democrats lost ground in 2010 and 2014 in the generic ballot polls when they controlled the White House, while they maintained their lead in 2006 when Republicans held the White House. (With a similar set of data, I used the generic ballot to forecast Democratic problems early on in the 2010 cycle.)
+
+Indeed, recent election outcomes show that Republicans should be worried about what the generic ballot is showing. The results in Tuesday’s gubernatorial races in Virginia and New Jersey were called perfectly by the generic ballot once we control for the partisan lean of each state. The special election results this year have also been in line with a big Democratic lead on the generic ballot.
+
+Still, we are a year from the midterms. The generic ballot estimate at this point, while good, has not been a perfect predictor of the following year’s House results even after controlling for which party holds the presidency. Given these occasional past errors, it is certainly plausible that Republicans could keep the actual deficit in their national House margin down to just a few percentage points instead of the 8 or 9 points they’re down now. Losing by only a few points nationally would likely be enough for them to hold onto the House.
+
+On the other hand, there’s no reason to think that Republicans will be in any better shape nationally a year from now. The Democratic lead on the generic ballot has about doubled since April, which is as far back as the FiveThirtyEight generic ballot tracker goes.
+
+
+That’s in line with both historical trends of support for the president’s party declining the closer we get to a midterm and a president whose low job approval rating is wearing on his party.
+
+The bottom line is that although Republicans may see the national environment improve, there’s no reason to think it will. That’s bad news for them heading into 2018.
+
+Other polling nuggets
+Just 21 percent of Americans told Gallup they are satisfied with the way things are going in this country. That’s down from 28 percent in October 2016, just before Trump’s election. It’s also lower compared with this point in President Obama’s first term.
+The vast majority of Americans (65 percent) believe that Trump has not accomplished very much or even anything at all as president, according to an ABC News/Washington Post poll. Just 35 percent say he’s accomplished a great deal or good amount.
+Foreign policy experts are far more suspecting of direct democracy than the general public. According to a 12-country Pew Research Center poll that included the U.S., a median 68 percent of all adults in these countries but only 37 percent of foreign policy experts believe direct democracy is a very good or somewhat good way of governing “our country.” On the other hand, 72 percent of foreign policy experts think representative democracy is a very good way of governing “our country,” as compared to just 37 percent of the general public.
+The Pew Research Center also found that 50 percent of Americans, a 16-year high, say there are plenty of jobs available in their communities. However, 49 percent of Americans also say their family income relative to the cost of living is falling behind.
+A clear majority of Hillary Clinton voters, 69 percent, say men have it easier than women in the country these days, according to a YouGov poll. Some 24 say there is no difference between the sexes, while 7 percent say women have it easier. Trump supporters see things differently, with 63 percent saying there is no difference, 19 percent saying women have it easier and 18 percent saying men do.
+Blacks who live in the 11 states that formerly made up the Confederacy were far more likely than whites to want monuments or memorials to Confederate soldiers who died in the Civil War to be moved. In a poll conducted by Winthrop University, 67 percent of blacks wanted them moved to a museum or removed completely, while 19 percent of whites felt the same way.
+The percentage of Americans who think North Korea is willing to follow through on a threat to use nuclear weapons against the U.S. is up to 65 percent in a Pew Research Center survey. Back in 2013, only 47 percent of Americans felt that way. Interestingly, Democrats and Republicans feel it’s equally as likely now, while back in 2013 Republicans were 18 points more likely to think North Korea would use a nuclear weapon on the U.S.
+A new Morning Consult poll shows that a generic Democrat would beat Trump in a 2020 presidential matchup 46 percent to 36 percent. In a February 2010 Gallup survey, Obama beat a generic Republican 44 percent to 42 percent.
+Democrat Kyrsten Sinema leads potential 2018 Arizona Senate opponent Republican Kelli Ward 34 percent to 27 percent in a HighGround poll. That’s up from a 1-point advantage for Sinema in August.
+Although radio stations may begin playing Christmas jingles and tunes now, only 18 percent of Americans said in a YouGov poll that it is most acceptable to start listening to them before Thanksgiving.
+Trump’s job approval rating
+
+Trump’s job approval rating is holding fairly steady at 37.7 percent, while his disapproval rating is 56.6 percent. Last week, Trump’s approval rating was 38.0 percent to a disapproval rating of 56.4 percent.
+
+&&&&&
+

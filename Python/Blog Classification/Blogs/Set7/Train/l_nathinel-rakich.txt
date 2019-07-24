@@ -1,0 +1,187 @@
+﻿+++++
+
+Democrats Are Overperforming In Special Elections Almost Everywhere
+
+2017-06-05
+
+Republican Greg Gianforte’s 6 percentage point win in last month’s Montana special election was just ambiguous enough that both sides could find something to like. Democrats pointed to the narrowness of Gianforte’s win in a state that President Trump won by 20 percentage points as evidence that an anti-Trump wave is building for 2018. But to hear Republicans tell it, after Gianforte reportedly assaulted a reporter, anything short of a Democratic win should be considered an underperformance.
+
+As the extraordinary incident of the election-eve body slam goes to show, it’s never a good idea to draw conclusions about the national political environment from a single special election; there are too many confounding variables at play. But many special election results taken together have shown some predictive power over which party will do well in the next general election. The problem is that, with only one other special U.S. House general election under our belts so far — in Kansas’s 4th Congressional District — the sample size is still too small to help us draw firm conclusions.
+
+Luckily, however, U.S. House elections aren’t the only special elections that have taken place this year. Since Trump took office, voters have gone to the polls 24 times1 in 13 states to fill vacancies in their state legislatures — giving us a data set that is robust enough for us to start identifying patterns. And the results in these races echo the returns from Kansas and Montana: Democrats have overperformed almost everywhere.2
+Since Jan. 20, Democrats have won 12 special legislative elections, and Republicans have won 11.3 But because so many special elections take place in safe districts, win-loss records can only tell you so much. Instead, you’re better off comparing their final results to the district’s baseline partisanship, which FiveThirtyEight measures using a weighted average of the last two presidential election results4 as calculated by Daily Kos.5 And in the 15 special legislative elections to pit at least one Democrat against at least one Republican,6 12 have seen a net swing toward the Democrats.
+
+
+State legislative special elections have also swung left
+*2017 special election results are unofficial.
+**Democratic and Republican vote shares are for all candidates of each respective party.
+The Democratic lean compares the district’s voting patterns to the nation. For the presidential election margin, the 2016 election is weighted 75 percent and the 2012 election is weighted 25 percent.
+
+SOURCES: SECRETARIES OF STATE, DAILY KOS
+
+Wide variation exists in these results, some of which can probably be explained by local factors. For instance, the GOP’s two best performances both came in Connecticut, whose Democratic governor is deeply unpopular; similarly, one of the Democrats’ best improvements came in Oklahoma, which has likewise soured on its Republican governor.
+
+But, overall, the trend is clear. Democratic special-election candidates have improved their margins over Republicans relative to their district’s partisan lean by an average of 14.4 percentage points. This pattern has popped up in districts from rural Minnesota to the suburbs of Atlanta to the Black Belt of Louisiana. In two instances (New Hampshire House District Carroll 6 and New York Assembly District 9), the shift was enough to flip the seat from red to blue. As Trump himself might say, “There’s something going on.”
+
+Related: POLITICS PODCAST
+Politics Podcast: Pittsburgh vs. Paris
+Indeed, the few federal special election results we have so far in 2017 would fit right into the table above. In the April 18 primary in Georgia’s 6th Congressional District, for instance, the margin shifted 7.4 points to the left7; in its May 16 general election, the margin in Georgia Senate District 32 (which has a lot of overlap with the 6th Congressional District) shifted 7.9 points in the same direction. In other words, the same movement was evident in both federal and state elections, giving Democrats hope that their strength in legislative elections in 2017 bodes well for their chances in next year’s midterms.
+
+But legislative special elections aren’t good only for predicting who will control the House of Representatives in two years. They’re also leading indicators of future gubernatorial and — get this — state legislative results. If nothing else, 2017’s legislative elections so far put Democrats on track to make big gains in statehouses across the country in 2018 — the sector of government where the party suffered the most during the Obama years. That’s important because the next round of redistricting is less than four years away, meaning 2018 will decide many of the governors and legislators who will draw the congressional districts of the 2020s. From the smallest of small elections on a random Tuesday in this odd year, clues are being dropped about who might hold the balance of power in Washington for the next decade or more.
+
+
+&&&&&
+
++++++
+
+Will Trump’s Approval Rating Be A Problem For Republicans In 2018?
+
+2017-02-13
+
+President Trump’s approval rating is a matter of some debate. One cluster of polls (e.g., Rasmussen, Morning Consult) reports that more Americans approve of his job performance than disapprove of it. Another puts him underwater by anywhere from 7 percentage points (YouGov) to 15 points (Gallup).
+
+What’s not in question is that Trump’s approval rating is historically low for a new president. Typically — even following bitter elections — incoming presidents enjoy a honeymoon period after the country rallies around its new leader (and before the opposition begins to coalesce). As Harry Enten wrote last month, every new president since Harry Truman in 19451 has enjoyed an initial net approval rating2 of at least +32 percentage points — until Trump. On average, pre-Trump presidents kicked off their administrations with a 66 percent approval rating and just a 10 percent disapproval rating. Gallup’s first survey on Trump put him at 45 percent approval and 45 percent disapproval.
+
+Trump’s historic unpopularity provides a glimmer of hope to Democrats, who are currently shut out of power in every elected division of the federal government. “Maybe, just maybe,” the thinking goes, “a backlash to Trump’s policies could jump-start a Democratic wave that could flip control of Congress in 2018.” But can poor approval ratings today really help predict an election that’s 21 months away? The answer is a big fat “maybe.” If Trump is this unpopular when the midterms come around, Democrats could be in for a good night. But Trump has already broken the traditional mold of presidential approval, making it hard to say where his popularity will go from here.
+
+If historical patterns hold, Democrats will make some gains in 2018. The party in the White House almost always loses seats somewhere in its first midterm election. Since the days of Dwight Eisenhower, who became president in 1953, a newly elected president’s party has lost ground in the House eight times in nine elections and in the Senate five times in nine elections.3 And the president’s job approval at the time of the midterms does appear to have an effect on the magnitude of those losses — especially in the House. (Only about a third of Senate seats are up for election every two years, so the batch of states that happens to be voting during a president’s first midterm election can skew the results in that chamber.)
+
+rakich-trump-approval-0213_net
+Two of the three presidents with the best net approval ratings in the middle of their first terms were the two whose party lost the fewest House seats — or even gained them: John F. Kennedy in 1962, amid the relief of the Cuban missile crisis’s successful resolution, and George W. Bush in 2002, in the unifying aftermath of the Sept. 11 attacks. In addition, Kennedy gained four Democratic seats in the Senate; Bush’s Republicans gained two seats. On the other side of the ledger, three presidents have carried disapproval ratings into their first midterms that were at least as high as their approval ratings: Ronald Reagan, Bill Clinton and Barack Obama. They were also the victims of the three biggest losses in House seats; on the Senate side, Clinton and Obama experienced the biggest losses of any of the nine newly elected presidents. (Republicans, however, did gain one Senate seat in Reagan’s first midterm.)
+
+Right now, with a Gallup net approval rating of -15 percentage points (40 percent approval, 55 percent disapproval), Trump looks like he could slot in right alongside these underachievers. But there’s a huge caveat: Approval ratings can change a lot in 21 months. Trump could have a successful and productive first two years that win over the support of the country; outside events could cause Americans to rally around their leader as they did in 1962 and 2002. However, Trump is fighting history here, too: Presidents’ net approval ratings almost always go downhill from this point in their terms.
+
+
+How presidents’ approval ratings change during their first terms
+Includes only newly elected presidents; Lyndon Johnson and Gerald Ford are not listed.
+Change in ratings is from around three weeks into a presidency to the president’s first midterm elections.
+
+SOURCE: FIVETHIRTYEIGHT POLLING DATABASE
+
+Only George W. Bush improved his net approval rating from around three weeks into his presidency to his first midterm elections; the net rating for the other eight newly elected presidents decreased by at least 17 percentage points. Notably, it’s not unusual for a president’s raw approval rating to stay at strong levels. But it is a near-inevitable increase in his negatives that drives the change. Every newly elected president since Eisenhower, including Bush, has suffered an increase in his disapproval rating — most by at least 20 percentage points.
+
+If Trump’s net approval rating follows suit (as it may already be starting to) and drops further between now and November 2018, it will be lower than that of any midterm president in the polling era. In that case, history suggests that Republican legislative losses could be severe. For the GOP to lose control of Congress, it would have to end up with a net loss of 24 seats in the House4 or three seats (albeit in deep-red states) in the Senate. Those are realistic possibilities amid an unpopular first-term presidency. Clinton, Obama and Reagan all lost at least 26 House seats; no one with a positive net approval has lost more than 18.
+
+However, there are plenty of reasons to question whether the pattern will hold true for Trump. For starters, all preceding presidents’ approval ratings started from precipitous heights; many had nowhere to go but down. Trump, by contrast, is beginning his presidency relatively unpopular; he has plenty of room to improve. If newly elected presidents tend to revert to the mean, Trump is starting from a pretty average place.
+
+Moreover, the relationship between net approval and midterm losses is far from perfect. Other factors clearly play into midterm election results as well, and in 2018, those factors will work against Democrats: They face a Senate map with few opportunities for gains and a House map skewed red by urban packing and gerrymandering. Although history implies that the Democrats should make gains, these structural barriers could hand that advantage right back to the GOP.
+
+&&&&&
+
++++++
+
+It’s Really Hard To Block A Cabinet Nominee
+
+2017-01-10
+
+President-elect Donald Trump’s Cabinet nominees are beginning to grace the hearing rooms of the U.S. Senate on Tuesday, and they are likely to meet with plenty of opposition by Democratic senators and progressive activists. But most — if not all — of Trump’s picks will probably be confirmed. This year, for the first time, a new president’s Cabinet nominations can’t be filibustered, making Trump’s task much easier. And gaining Senate confirmation wasn’t that hard to begin with: Over the last 40 years, new presidents’ Cabinet picks have usually sailed through the confirmation process — even a majority of those who faced headwinds were still ultimately approved.
+
+From 1977 to 2013, the last six incoming presidents — Jimmy Carter through Barack Obama — made 109 appointments to Cabinet-level positions.1 Just six failed: Five nominees withdrew, and one was voted down by the Senate. The Senate confirmed 103 during the same span, 93 of whom were unanimously approved or not seriously contested. Ten were confirmed in contested votes. (I’m defining “contested” as more than six nay votes — admittedly a somewhat arbitrary cutoff.) Including the one rejection, that means that, whenever there was genuine dissent over a floor vote, the nominee was confirmed anyway 10 times out of 11.
+
+
+
+SOURCE: U.S. SENATE, MEDIA REPORTS
+
+It has always been rare for the Senate to outright reject a Cabinet nomination. Only nine Cabinet appointees in all of U.S. history — by new presidents plus ones attempting to fill vacancies in the middle of their terms — have ever been voted down by the Senate. The most recent Senate veto came in 1989, when John Tower, President George H.W. Bush’s pick for secretary of defense, went down to defeat 53–47 amid revelations of alcohol abuse, womanizing and conflicts of interest. And that was with a hostile, Democratic-controlled Senate; the last same-party Senate to nix a president’s nominee did so in 1925.
+
+More often, a controversial appointee is withdrawn preemptively by an executive branch that judges him or her not worth the fight ahead. President Bill Clinton rescinded attorney general pick Zoe Baird in 1993 after it was revealed Baird had employed two undocumented immigrants as housekeepers and had not paid Social Security taxes on their wages. In 2001, President George W. Bush withdrew secretary of labor pick Linda Chavez for a similar infraction: housing and financially supporting an undocumented woman from Guatemala.
+
+President Obama’s confirmations were the rockiest in modern times, due, in some mix, to increased partisanship and poor vetting. Not one, but two, of Obama’s nominees for commerce secretary withdrew: first, New Mexico Gov. Bill Richardson, whose administration was under federal investigation for pay-to-play allegations; second, Republican Sen. Judd Gregg, who cited “irresolvable conflicts” with the Democratic president. Obama’s first health and human services nominee, Tom Daschle, also withdrew after revelations that he had failed to pay hundreds of thousands of dollars in taxes on income he had not reported. (Eventual Treasury Secretary Tim Geithner committed the same transgression, though in a smaller amount, and he was ultimately confirmed in a contested vote — one of four successful Obama appointments who encountered serious opposition.)
+
+Related: POLITICS PODCAST
+Politics Podcast: Trump And The Senate
+The common denominator? Cabinet nominations tend only to fail when dragged down by scandal or impropriety. Policy disagreement or extreme political views may lead to a contested vote — see Kathleen Sebelius or John Ashcroft for two recent examples — but they have not prevented eventual approval.
+
+Trump’s Cabinet picks may well continue the recent pattern of more contested confirmation votes, which spiked under Obama. But with the Senate under Republican control, that probably won’t be enough to stop their confirmation. History suggests that anyone proceeding to a vote will almost certainly win it. Only a scandal big enough to force the famously unapologetic Trump to reverse himself and withdraw a nomination is likely to bring down any of his appointees.
+
+
+&&&&&
+
++++++
+
+The Recent Rush Of GOP Retirements Is Good For Democrats
+
+2017-09-12
+
+After August’s long congressional recess, retirement is suddenly looking pretty good to many Republican members of Congress. On Monday, Rep. Dave Trott of Michigan’s 11th Congressional District became the latest in a string of Republicans to step away from competitive U.S. House seats. The rapid-fire retirements have quickly given rise to the narrative that the unpopularity of President Trump — which threatens to hang like a lead weight around Republican candidates’ necks in 2018 — is scaring Republicans straight off the ballot.
+
+At first glance, the list of retiring congresspeople fits that narrative pretty well. Of the 24 members who have thus far decided not to run for reelection in 2018,1 16 are Republicans and 8 are Democrats. But it’s not immediately clear that electoral endangerment is the reason for that lopsidedness.
+
+
+
+Only two of the departing Republicans occupy Democratic-leaning seats, and the same number of departing Democrats occupy Republican-leaning seats. The fact that there are simply more Republicans than Democrats in Congress overall looked like a better explanation for the Republican-heavy roster of retirees so far — at least until this month, when three successive swing-seat Republicans (Dave Reichert, Charlie Dent and Trott) have called it quits.
+
+However, the data may be skewed by the fact that many of these members aren’t retiring at all — they’re actually seeking a promotion to higher office. When you narrow down the list to just those representatives who are truly retiring, the pattern starts to change. Just one Democrat, Niki Tsongas, is going home for good, and her Massachusetts 3rd District was never expected to be competitive. Seven Republicans, meanwhile, are leaving politics, including all four (Reichert, Dent, Trott and Ileana Ros-Lehtinen) who sit in vulnerable seats.
+
+
+
+The retirement press releases flowing out of the Capitol jibe with what political scientists have long suspected. A 1999 study (aptly titled “You Can’t Fire Me, I Quit”) found some evidence that politicians are more likely to retire when they believe they’re in for a tough race. But here’s the thing — what politicians believe will happen in the election and what actually happens aren’t always the same thing. Historically, there has been a correlation between the party with the most retiring members and the party that loses the subsequent election, but it’s not all that strong.2
+The party with the most retiring members doesn’t always lose the most seats
+
+Does not include officials leaving their position to run for another office. Independents are counted as members of the party with which they caucused; members who resigned or died before the election are not counted.
+
+SOURCES: ROLL CALL, BALLOTPEDIA, CENTER FOR RESPONSIVE POLITICS, THE AMERICAN PRESIDENCY PROJECT
+
+Sure, more Republicans than Democrats retired in 2008, and the GOP got walloped in November. But more Republicans than Democrats also retired in 2014, which ended up being a Republican wave election. Yes, a sizable number of Democrats retired in 1994, accompanying a Republican wave. But even more Democrats retired the following election cycle, when the party gained back some of its losses.
+
+A rash of retirements doesn’t necessarily signal a wave election, and (predicted) waves don’t necessarily spur more retirements. Instead, the pattern of retirements appears to be generational as well as about representatives responding to the political environment. Republican retirees have outnumbered Democratic ones in most election cycles since the mid-1990s; for the 20 years before that, Democrats usually retired at higher rates than Republicans. Members of big freshman classes like 1994’s and 1974’s have to hang up their spurs sometime.
+
+That said, the most fundamental takeaway is still this: Retirements from a competitive state or district hurt the party the member belongs to. The reason is simple: incumbency advantage. It’s easier, for example, for a Democrat to win in a slightly red district in an open election than to take on a sitting House member. The more Republicans in competitive districts who retire heading into 2018, the more seats Democrats can realistically go after.
+
+And there may yet be plenty more. At 24 announced open seats so far this year, we are still a long way from the 40 or so total that is normal for recent cycles. Keep an eye on how many more retirements are in the offing; the more Republicans who head for the exits, the worse 2018 could be for the party.
+
+
+&&&&&
+
++++++
+
+It’s Not Just DeVos: Trump’s Cabinet Is Facing Unprecedented Opposition
+
+2017-02-07
+
+Betsy DeVos was barely confirmed, 51-50, as secretary of education on Tuesday. Two Republican senators, Lisa Murkowski of Alaska and Susan Collins of Maine, joined with every Democrat in opposition to DeVos’s confirmation. Vice President Mike Pence broke the tie in DeVos’s favor.
+
+DeVos’s 50 “no” votes are the most received by a secretary of education nominee since the position was first established in 1979. Secretary of education has been among the least contentious Cabinet positions: Only three of the previous 10 nominees received any “no” votes at all.
+
+But it’s not just DeVos. She is only the latest of Trump’s Cabinet and Cabinet-level nominees to face an unusual amount of opposition in the Senate. Newly elected presidents are typically afforded wide latitude in picking their team — before this year, only one of the last 109 Cabinet-level nominations from new presidents, dating back to Jimmy Carter, has been rejected in a vote (five others withdrew). Many nominees are confirmed simply by unanimous consent or a voice vote, which are generally used when there is no substantial opposition and no desire to record individual votes. But all six of the Trump Cabinet-level nominees confirmed by the Senate so far were voted on via a roll-call vote.
+
+PRESIDENT	CONFIRMED WITHOUT ROLL CALL VOTE	ROLL CALL VOTES	NOMINEE WITHDRAWN BEFORE VOTE
+
+Senate confirmations of Cabinet-level positions by vote type for new presidents, since 1977
+As of Feb. 7, 2017. Only six of Trump’s Cabinet-level nominees have had confirmation votes.
+
+SOURCE: U.S. SENATE
+
+And even with only six Cabinet members and Cabinet-level administrators confirmed so far (not including Mike Pompeo, the CIA director, who received 32 “no” votes but isn’t considered Cabinet-level), the Trump administration is on track to have the highest number of contested confirmation votes since at least the Carter administration.1 Ronald Reagan currently holds the record, with eight of his nominees receiving at least one “no” vote. Obama had been in second place with six contested votes, but Trump has already tied him. And the political website Decision Desk HQ has identified four other Trump nominees who could face close votes.
+
+koeze-confirmation-1-new
+Trump’s nominees have faced opposition for a variety of reasons, including concerns about Secretary of Homeland Security John F. Kelly’s position on immigration and issues with Secretary of State Rex Tillerson’s potential conflicts of interest as a former CEO of Exxon Mobil. DeVos faced questions over her commitment to public education and how prepared she is to lead the Education Department, among other issues.
+
+
+&&&&&
+
++++++
+
+The 2017 Elections Suggest Incumbency Won’t Save Republicans In 2018
+
+2017-11-08
+
+Tuesday was a great night for Democrats. Their candidate for governor of Virginia, Ralph Northam, ran away with a 54 percent to 45 percent win. The party gained complete control of two state governments, New Jersey and Washington. But perhaps most significantly, the party picked up at least 15 seats in the Virginia House of Delegates, with recounts likely in four districts that will determine control of the chamber.
+
+True, it may seem like possibly, maybe flipping one state legislative chamber doesn’t stack up to those other accomplishments. But more than their implications for governance of Virginia, Tuesday night’s legislative results should cheer Democrats because of what they represent: the best bellwether to date of the 2018 congressional elections.
+
+Ahead of Tuesday, liberals were already rightly bullish about their midterm prospects because of the clear pattern of Democratic overachievement in special elections for congressional and state legislative seats in 2017. Historically, special-election results, in the aggregate, have been a pretty good omen for how a party will do in the following midterms, but it’s best not to rely too heavily on such a small sample of fickle data points (these elections are, by definition, special). And now with Tuesday’s 100 elections for the Virginia House of Delegates and 40 elections for the New Jersey state Senate, we have more than twice as much legislative-election data as we did coming into the week.1
+As FiveThirtyEight contributor David Wasserman has pointed out, these regularly scheduled elections are better approximations of 2018’s U.S. House elections. Unlike special elections, in which unpredictable turnout levels can favor one party and skew the results, Virginia’s and New Jersey’s elections occurred concurrently with those states’ gubernatorial elections (36 states will select a governor in 2018), a pairing that typically leads to more predictable turnout. Perhaps most importantly, these legislative elections were predominantly2 not open-seat races, as vacancy-triggered special elections obviously are. Tuesday was our first chance to see whether Democrats could still beat expectations when going up against the powerful force of incumbency advantage.3
+The answer — as we’d expect with actual incumbents on the ballot — is that Democrats did well on Tuesday but didn’t outperform expectations to the degree they have in special elections this year. On average, the party’s candidates for Virginia House of Delegates and New Jersey state Senate won by margins that were 3 percentage points better than their district’s partisan lean.4
+How Democrats did in the Virginia House of Delegates
+Democratic performance in districts relative to each district’s partisan lean
+
+Only races that pitted one Democrat against one Republican are included. 2017 data are unofficial results as of 2 a.m. Eastern on Nov. 8.
+
+SOURCES: ASSOCIATED PRESS, DAILY KOS ELECTIONS
+
+Unsurprisingly, incumbency was a major factor in how Democrats fared. In open seats and districts with Democratic incumbents, the party outperformed the partisan lean by a healthy amount — although not by the same 14 points by which they beat the partisan lean in special state legislative elections the last time we examined this question.5 But in districts with Republican incumbents, Democrats basically matched the district’s partisan lean.
+
+
+&&&&&
+

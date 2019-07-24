@@ -1,0 +1,30 @@
++++++
+
+Facebook Says It’s Getting Pretty Good At Filtering Out Terrorists
+
+2017-11-29
+
+and it’s working with other companies to scrub the internet of recruitment propaganda.
+
+facebook is getting pretty good at giving terrorist propaganda a thumbs down, the company said tuesday.
+
+the internet behemoth said its efforts in artificial intelligence (ai) and other automated filtering processes have become so sophisticated that 99 percent of the terror content related to the islamic state militant group and al qaeda that’s removed from the site is detected even before being flagged by a human. and once facebook identifies photos, videos or text related to terror, it successfully removes 83 percent of the copies it finds elsewhere on the site within an hour.
+
+facebook declined to share specific data on how much terrorist content it actually deletes on a daily basis, so it’s not clear how much content is removed from the site. 
+
+one of the dangers there is that we’re dealing with a nimble set of organizations that frequently change the way that they behave.
+brian fishman, head of counterterrorism policy at facebook
+monika bickert, facebook’s head of global policy management, and brian fishman, head of counterterrorism policy, explained the developments in a release, noting that the company has partnered with numerous other online platforms to share anti-terror data.
+
+that’s notable, considering that the internet in general ― and social media sites in particular ― has become a prime recruiting ground for terrorists. 
+
+facebook and other companies use “hashes,” or unique identification data, to find and remove terror content across multiple different websites. so a propaganda video first uploaded to facebook, for instance, could easily be deleted from youtube and twitter after facebook identifies and shares the video’s hash.
+
+despite the success, fishman told the wall street journal that facebook still faces an uphill battle.
+
+“one of the dangers there is that we’re dealing with a nimble set of organizations that frequently change the way that they behave,” fishman explained. “we need to keep training our machines so that they stay current.”
+
+in addition to sorting out isis propaganda, facebook is also using ai to detect and reach out to people sharing suicidal thoughts.
+
+&&&&&
+
